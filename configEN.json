@@ -4,780 +4,911 @@
       "MajorHeading": "Bicycling",
       "ActivityCode": "01003",
       "METValue": 14.0,
-      "ActivityDescription": "Bicycling, mountain, uphill, vigorous"
+      "ActivityDescription": "Bicycling, mountain, uphill, vigorous",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01008",
       "METValue": 8.5,
-      "ActivityDescription": "Bicycling, BMX"
+      "ActivityDescription": "Bicycling, BMX",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01009",
       "METValue": 8.5,
-      "ActivityDescription": "Bicycling, mountain"
+      "ActivityDescription": "Bicycling, mountain",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01010",
       "METValue": 4.0,
-      "ActivityDescription": "Bicycling, <10 mph, leisure"
+      "ActivityDescription": "Bicycling, <10 mph, leisure",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01013",
       "METValue": 5.8,
-      "ActivityDescription": "Bicycling, on dirt or farm road, moderate pace"
+      "ActivityDescription": "Bicycling, on dirt or farm road, moderate pace",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01014",
       "METValue": 7.0,
-      "ActivityDescription": "Bicycling, general"
+      "ActivityDescription": "Bicycling, general",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01015",
       "METValue": 4.3,
-      "ActivityDescription": "Bicycling, self-selected easy pace"
+      "ActivityDescription": "Bicycling, self-selected easy pace",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01016",
       "METValue": 7.0,
-      "ActivityDescription": "Bicycling, self-selected moderate pace"
+      "ActivityDescription": "Bicycling, self-selected moderate pace",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01017",
       "METValue": 9.0,
-      "ActivityDescription": "Bicycling, self-selected vigorous pace"
+      "ActivityDescription": "Bicycling, self-selected vigorous pace",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01018",
       "METValue": 3.5,
-      "ActivityDescription": "Bicycling 5.5 mph"
+      "ActivityDescription": "Bicycling 5.5 mph",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01019",
       "METValue": 5.8,
-      "ActivityDescription": "Bicycling 9.4 mph"
+      "ActivityDescription": "Bicycling 9.4 mph",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01020",
       "METValue": 6.8,
-      "ActivityDescription": "Bicycling, 10-11.9 mph, leisure, slow, light effort"
+      "ActivityDescription": "Bicycling, 10-11.9 mph, leisure, slow, light effort",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01030",
       "METValue": 8.0,
-      "ActivityDescription": "Bicycling, 12-13.9 mph, leisure, moderate effort"
+      "ActivityDescription": "Bicycling, 12-13.9 mph, leisure, moderate effort",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01040",
       "METValue": 10.0,
-      "ActivityDescription": "Bicycling, 14-15.9 mph, racing or leisure, fast, vigorous effort"
+      "ActivityDescription": "Bicycling, 14-15.9 mph, racing or leisure, fast, vigorous effort",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01050",
       "METValue": 12.0,
-      "ActivityDescription": "Bicycling, 16-19 mph, racing/not drafting or >19 mph drafting, very fast, racing general"
+      "ActivityDescription": "Bicycling, 16-19 mph, racing/not drafting or >19 mph drafting, very fast, racing general",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01060",
       "METValue": 16.8,
-      "ActivityDescription": "Bicycling, >20 mph, racing, not drafting"
+      "ActivityDescription": "Bicycling, >20 mph, racing, not drafting",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01080",
       "METValue": 6.8,
-      "ActivityDescription": "E-bike (electrically assisted) without electronic support"
+      "ActivityDescription": "E-bike (electrically assisted) without electronic support",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01084",
       "METValue": 6.0,
-      "ActivityDescription": "E-bike (electrically assisted) with light electronic support"
+      "ActivityDescription": "E-bike (electrically assisted) with light electronic support",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01088",
       "METValue": 4.0,
-      "ActivityDescription": "E-bike (electrically assisted) with high electronic support"
-    },  {
+      "ActivityDescription": "E-bike (electrically assisted) with high electronic support",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01305",
       "METValue": 8.8,
-      "ActivityDescription": "Bicycling, high intensity interval training"
+      "ActivityDescription": "Bicycling, high intensity interval training",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02000",
       "METValue": 7.3,
-      "ActivityDescription": "Aerobic, general"
+      "ActivityDescription": "Aerobic, general",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02001",
       "METValue": 5.5,
-      "ActivityDescription": "Aerobic, step, with 4-inch step"
+      "ActivityDescription": "Aerobic, step, with 4-inch step",
+      "systemIcon": "figure.step.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02002",
       "METValue": 7.3,
-      "ActivityDescription": "Aerobic, step, with 6 – 8 inch step"
+      "ActivityDescription": "Aerobic, step, with 6 – 8 inch step",
+      "systemIcon": "figure.step.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02003",
       "METValue": 9.0,
-      "ActivityDescription": "Aerobic, step, with 10 – 12 inch step"
+      "ActivityDescription": "Aerobic, step, with 10 – 12 inch step",
+      "systemIcon": "figure.step.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02004",
       "METValue": 7.8,
-      "ActivityDescription": "Bench step class, general"
+      "ActivityDescription": "Bench step class, general",
+      "systemIcon": "figure.step.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02005",
       "METValue": 4.8,
-      "ActivityDescription": "Aerobic dance, low impact, moderate effort"
+      "ActivityDescription": "Aerobic dance, low impact, moderate effort",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02006",
       "METValue": 8.0,
-      "ActivityDescription": "Aerobic dance, high impact, vigorous effort"
+      "ActivityDescription": "Aerobic dance, high impact, vigorous effort",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02007",
       "METValue": 10.0,
-      "ActivityDescription": "Aerobic dance wearing 10-15 lb weights"
+      "ActivityDescription": "Aerobic dance wearing 10-15 lb weights",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02008",
       "METValue": 5.0,
-      "ActivityDescription": "Army type obstacle course exercise, boot camp training program"
+      "ActivityDescription": "Army type obstacle course exercise, boot camp training program",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02020",
       "METValue": 7.5,
-      "ActivityDescription": "Calisthenics (e.g., pushups, sit ups, pull-ups, jumping jacks, burpees, battling ropes), vigorous effort"
+      "ActivityDescription": "Calisthenics (e.g., pushups, sit ups, pull-ups, jumping jacks, burpees, battling ropes), vigorous effort",
+      "systemIcon": "figure.jumprope"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02022",
       "METValue": 3.8,
-      "ActivityDescription": "Calisthenics (e.g., pushups, sit ups, pull-ups, lunges), moderate effort"
+      "ActivityDescription": "Calisthenics (e.g., pushups, sit ups, pull-ups, lunges), moderate effort",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02024",
       "METValue": 2.8,
-      "ActivityDescription": "Calisthenics (e.g., curl ups, abdominal crunches, plank), light effort"
+      "ActivityDescription": "Calisthenics (e.g., curl ups, abdominal crunches, plank), light effort",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02030",
       "METValue": 3.5,
-      "ActivityDescription": "Calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor"
+      "ActivityDescription": "Calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02032",
       "METValue": 6.0,
-      "ActivityDescription": "Circuit training, body weight exercises"
+      "ActivityDescription": "Circuit training, body weight exercises",
+      "systemIcon": "figure.cross.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02034",
       "METValue": 3.5,
-      "ActivityDescription": "Circuit training, light effort"
+      "ActivityDescription": "Circuit training, light effort",
+      "systemIcon": "figure.cross.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02035",
       "METValue": 5.0,
-      "ActivityDescription": "Circuit training, moderate effort"
+      "ActivityDescription": "Circuit training, moderate effort",
+      "systemIcon": "figure.cross.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02040",
       "METValue": 7.5,
-      "ActivityDescription": "Circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity"
+      "ActivityDescription": "Circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity",
+      "systemIcon": "figure.cross.training"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02045",
       "METValue": 3.5,
-      "ActivityDescription": "Curves™ exercise routines in women"
+      "ActivityDescription": "Curves™ exercise routines in women",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02048",
       "METValue": 5.0,
-      "ActivityDescription": "Elliptical trainer, moderate effort"
+      "ActivityDescription": "Elliptical trainer, moderate effort",
+      "systemIcon": "figure.elliptical"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02049",
       "METValue": 9.0,
-      "ActivityDescription": "Elliptical trainer, vigorous effort"
+      "ActivityDescription": "Elliptical trainer, vigorous effort",
+      "systemIcon": "figure.elliptical"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02050",
       "METValue": 6.0,
-      "ActivityDescription": ""
+      "ActivityDescription": "",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02052",
       "METValue": 5.0,
-      "ActivityDescription": "Resistance (weight) training, squats, deadlift, slow or explosive effort"
+      "ActivityDescription": "Resistance (weight) training, squats, deadlift, slow or explosive effort",
+      "systemIcon": "figure.strengthtraining.traditional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02054",
       "METValue": 3.5,
-      "ActivityDescription": "Resistance (weight) training, multiple exercises, 8-15 reps at varied resistance"
+      "ActivityDescription": "Resistance (weight) training, multiple exercises, 8-15 reps at varied resistance",
+      "systemIcon": "figure.strengthtraining.traditional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02056",
       "METValue": 3.0,
-      "ActivityDescription": "Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), general"
+      "ActivityDescription": "Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), general",
+      "systemIcon": "figure.strengthtraining.traditional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02057",
       "METValue": 6.5,
-      "ActivityDescription": "Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), high intensity"
+      "ActivityDescription": "Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), high intensity",
+      "systemIcon": "figure.strengthtraining.traditional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02064",
       "METValue": 3.8,
-      "ActivityDescription": "Home exercise, general"
+      "ActivityDescription": "Home exercise, general",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02065",
       "METValue": 9.3,
-      "ActivityDescription": "Stair treadmill ergometer, general"
+      "ActivityDescription": "Stair treadmill ergometer, general",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02068",
       "METValue": 11.0,
-      "ActivityDescription": "Rope skipping exercise, general"
+      "ActivityDescription": "Rope skipping exercise, general",
+      "systemIcon": "figure.jumprope"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02070",
       "METValue": 7.3,
-      "ActivityDescription": "Rowing, stationary ergometer, general, vigorous effort"
+      "ActivityDescription": "Rowing, stationary ergometer, general, vigorous effort",
+      "systemIcon": "figure.indoor.rowing"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02071",
       "METValue": 5.0,
-      "ActivityDescription": "Rowing, stationary ergometer, general, <100 watts, moderate effort"
+      "ActivityDescription": "Rowing, stationary ergometer, general, <100 watts, moderate effort",
+      "systemIcon": "figure.indoor.rowing"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02072",
       "METValue": 7.5,
-      "ActivityDescription": "Rowing, stationary, 100 to 149 watts, vigorous effort"
+      "ActivityDescription": "Rowing, stationary, 100 to 149 watts, vigorous effort",
+      "systemIcon": "figure.indoor.rowing"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02073",
       "METValue": 11.0,
-      "ActivityDescription": "Rowing, stationary, 150 to 199 watts, vigorous effort"
+      "ActivityDescription": "Rowing, stationary, 150 to 199 watts, vigorous effort",
+      "systemIcon": "figure.indoor.rowing"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02074",
       "METValue": 14.0,
-      "ActivityDescription": "Rowing, stationary, ≥ 200 watts, very vigorous effort"
+      "ActivityDescription": "Rowing, stationary, ≥ 200 watts, very vigorous effort",
+      "systemIcon": "figure.indoor.rowing"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02078",
       "METValue": 11.0,
-      "ActivityDescription": "Shuttle running, forward/backward/lateral"
+      "ActivityDescription": "Shuttle running, forward/backward/lateral",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02101",
       "METValue": 2.3,
-      "ActivityDescription": "Stretching, mild"
+      "ActivityDescription": "Stretching, mild",
+      "systemIcon": "figure.flexibility"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02103",
       "METValue": 1.8,
-      "ActivityDescription": "Pilates, traditional, mat"
+      "ActivityDescription": "Pilates, traditional, mat",
+      "systemIcon": "figure.pilates"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02105",
       "METValue": 2.8,
-      "ActivityDescription": "Pilates, general"
+      "ActivityDescription": "Pilates, general",
+      "systemIcon": "figure.pilates"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02107",
       "METValue": 8.5,
-      "ActivityDescription": "Pound, combination of Pilates and body movements with drumming"
+      "ActivityDescription": "Pound, combination of Pilates and body movements with drumming",
+      "systemIcon": "figure.pilates"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02108",
       "METValue": 4.5,
-      "ActivityDescription": "Pole dancing, exercise class"
+      "ActivityDescription": "Pole dancing, exercise class",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02120",
       "METValue": 5.3,
-      "ActivityDescription": "Water aerobics, water calisthenics, water exercise"
+      "ActivityDescription": "Water aerobics, water calisthenics, water exercise",
+      "systemIcon": "figure.water.fitness"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02140",
       "METValue": 2.5,
-      "ActivityDescription": "Video, exercise workouts, TV conditioning programs (e.g., yoga, stretching, seated), light effort"
+      "ActivityDescription": "Video, exercise workouts, TV conditioning programs (e.g., yoga, stretching, seated), light effort",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02143",
       "METValue": 4.0,
-      "ActivityDescription": "Video, exercise workouts, TV conditioning programs (e.g., cardio-resistance training), moderate"
+      "ActivityDescription": "Video, exercise workouts, TV conditioning programs (e.g., cardio-resistance training), moderate",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02145",
       "METValue": 6.0,
-      "ActivityDescription": "Video, exercise workouts, TV conditioning programs (e.g., cardio-resistance training), vigorous"
+      "ActivityDescription": "Video, exercise workouts, TV conditioning programs (e.g., cardio-resistance training), vigorous",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02150",
       "METValue": 2.3,
-      "ActivityDescription": "Yoga, Hatha"
+      "ActivityDescription": "Yoga, Hatha",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02153",
       "METValue": 8.0,
-      "ActivityDescription": "Yoga, Hatha, high intensity"
+      "ActivityDescription": "Yoga, Hatha, high intensity",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02155",
       "METValue": 3.0,
-      "ActivityDescription": "Yoga, Hot"
+      "ActivityDescription": "Yoga, Hot",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02160",
       "METValue": 4.0,
-      "ActivityDescription": "Yoga, Power"
+      "ActivityDescription": "Yoga, Power",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02170",
       "METValue": 2.0,
-      "ActivityDescription": "Yoga, Nadisodhana"
+      "ActivityDescription": "Yoga, Nadisodhana",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02175",
       "METValue": 2.3,
-      "ActivityDescription": "Yoga, General"
+      "ActivityDescription": "Yoga, General",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02180",
       "METValue": 3.5,
-      "ActivityDescription": "Yoga, Surya Namaskar"
+      "ActivityDescription": "Yoga, Surya Namaskar",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02185",
       "METValue": 2.7,
-      "ActivityDescription": "Yoga, Vinyasa"
+      "ActivityDescription": "Yoga, Vinyasa",
+      "systemIcon": "figure.yoga"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02210",
       "METValue": 7.0,
-      "ActivityDescription": "High intensity interval exercise, moderate effort"
+      "ActivityDescription": "High intensity interval exercise, moderate effort",
+      "systemIcon": "figure.highintensity.intervaltraining"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02214",
       "METValue": 11.0,
-      "ActivityDescription": "High intensity interval exercise, burpees, mountain climbers, squat jumps, Tabata, vigorous effort"
+      "ActivityDescription": "High intensity interval exercise, burpees, mountain climbers, squat jumps, Tabata, vigorous effort",
+      "systemIcon": "figure.highintensity.intervaltraining"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02230",
       "METValue": 5.8,
-      "ActivityDescription": "Hooping (formerly known as hula® hooping)"
+      "ActivityDescription": "Hooping (formerly known as hula® hooping)",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02240",
       "METValue": 9.0,
-      "ActivityDescription": "Impulse Training System, Inertial Exercise Trainer"
+      "ActivityDescription": "Impulse Training System, Inertial Exercise Trainer",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02280",
       "METValue": 7.9,
-      "ActivityDescription": "Virtual Reality Fitness, Supernatural™ “Flow”, “Boxing\" vigorous intensity"
+      "ActivityDescription": "Virtual Reality Fitness, Supernatural™ “Flow”, “Boxing\" vigorous intensity",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02284",
       "METValue": 9.3,
-      "ActivityDescription": "ExerCube, workout series"
+      "ActivityDescription": "ExerCube, workout series",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02288",
       "METValue": 13.0,
-      "ActivityDescription": "Blackbox Immersive virtual reality exergaming system, vigorous intensity"
+      "ActivityDescription": "Blackbox Immersive virtual reality exergaming system, vigorous intensity",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02300",
       "METValue": 3.0,
-      "ActivityDescription": "Wand exercise, Life-Build-Line"
+      "ActivityDescription": "Wand exercise, Life-Build-Line",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02310",
       "METValue": 6.5,
-      "ActivityDescription": "Zumba, group class"
+      "ActivityDescription": "Zumba, group class",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02315",
       "METValue": 5.5,
-      "ActivityDescription": "Zumba, home video"
+      "ActivityDescription": "Zumba, home video",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03005",
       "METValue": 6.0,
-      "ActivityDescription": "Afro-Cuban salsa (Cuban cha-cha-cha, mambo, Afro rumba, contratiempo son steps, orisha/santo movements)"
+      "ActivityDescription": "Afro-Cuban salsa (Cuban cha-cha-cha, mambo, Afro rumba, contratiempo son steps, orisha/santo movements)",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03010",
       "METValue": 5.0,
-      "ActivityDescription": "Ballet, modern, or jazz general, rehearsal or class"
+      "ActivityDescription": "Ballet, modern, or jazz general, rehearsal or class",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03011",
       "METValue": 6.3,
-      "ActivityDescription": "Ballet exercises (plie, tendus, jetes, rond de Jambes, fondus, grand battement, grand adage, sautes, temp Leve's)"
+      "ActivityDescription": "Ballet exercises (plie, tendus, jetes, rond de Jambes, fondus, grand battement, grand adage, sautes, temp Leve's)",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03012",
       "METValue": 6.8,
-      "ActivityDescription": "Ballet, modern, or jazz, performance, vigorous effort"
+      "ActivityDescription": "Ballet, modern, or jazz, performance, vigorous effort",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03025",
       "METValue": 4.5,
-      "ActivityDescription": "Ethnic or cultural dancing (e.g. Greek, Middle Eastern, hula, salsa, merengue, bamba y plena, flamenco, belly, and swing)"
+      "ActivityDescription": "Ethnic or cultural dancing (e.g. Greek, Middle Eastern, hula, salsa, merengue, bamba y plena, flamenco, belly, and swing)",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03030",
       "METValue": 5.5,
-      "ActivityDescription": "Ballroom dancing, fast (Taylor Code 125)"
+      "ActivityDescription": "Ballroom dancing, fast (Taylor Code 125)",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03031",
       "METValue": 9.8,
-      "ActivityDescription": "Nightclub or folk dancing, vigorous effort (e.g., nightclub, disco, folk, line dancing, Irish step dancing, polka, contra)"
+      "ActivityDescription": "Nightclub or folk dancing, vigorous effort (e.g., nightclub, disco, folk, line dancing, Irish step dancing, polka, contra)",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03033",
       "METValue": 5.0,
-      "ActivityDescription": "Folk dancing, moderate effort"
+      "ActivityDescription": "Folk dancing, moderate effort",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03038",
       "METValue": 11.3,
-      "ActivityDescription": "Ballroom dancing, competitive, general"
+      "ActivityDescription": "Ballroom dancing, competitive, general",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03040",
       "METValue": 3.0,
-      "ActivityDescription": "Ballroom, slow, examples: waltz, foxtrot, slow dancing, samba tango, rumba, 19th century dance, mambo, cha cha"
+      "ActivityDescription": "Ballroom, slow, examples: waltz, foxtrot, slow dancing, samba tango, rumba, 19th century dance, mambo, cha cha",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03042",
       "METValue": 6.0,
-      "ActivityDescription": "Ballroom Dance, Recreational (Waltz, Foxtrot, Cha-cha, Swing)"
+      "ActivityDescription": "Ballroom Dance, Recreational (Waltz, Foxtrot, Cha-cha, Swing)",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03070",
       "METValue": 3.8,
-      "ActivityDescription": "Contemporary dancing, general"
+      "ActivityDescription": "Contemporary dancing, general",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03072",
       "METValue": 4.3,
-      "ActivityDescription": "Contemporary dancing, nightclub"
+      "ActivityDescription": "Contemporary dancing, nightclub",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03075",
       "METValue": 8.5,
-      "ActivityDescription": "Flamenco dance"
+      "ActivityDescription": "Flamenco dance",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03078",
       "METValue": 4.5,
-      "ActivityDescription": "Jazz dancing, general"
+      "ActivityDescription": "Jazz dancing, general",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03080",
       "METValue": 10.3,
-      "ActivityDescription": "Musical Theater, Singing/dancing"
+      "ActivityDescription": "Musical Theater, Singing/dancing",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03086",
       "METValue": 7.0,
-      "ActivityDescription": "Polynesian dance, Hawaiian hula fast, Samoan sasa, Fijian style fast, Filipino Tinikling"
+      "ActivityDescription": "Polynesian dance, Hawaiian hula fast, Samoan sasa, Fijian style fast, Filipino Tinikling",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03090",
       "METValue": 4.8,
-      "ActivityDescription": "Salsa Dancing, with partner"
+      "ActivityDescription": "Salsa Dancing, with partner",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03091",
       "METValue": 6.3,
-      "ActivityDescription": "Salsa dancing, to a video"
+      "ActivityDescription": "Salsa dancing, to a video",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Dancing",
       "ActivityCode": "03093",
       "METValue": 5.5,
-      "ActivityDescription": "Square Dancing, American Western, country"
+      "ActivityDescription": "Square Dancing, American Western, country",
+      "systemIcon": "figure.dance"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04001",
       "METValue": 3.5,
-      "ActivityDescription": "Fishing, general"
+      "ActivityDescription": "Fishing, general",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04005",
       "METValue": 4.5,
-      "ActivityDescription": "Fishing, crab fishing"
+      "ActivityDescription": "Fishing, crab fishing",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04007",
       "METValue": 4.0,
-      "ActivityDescription": "Fishing, catching fish with hands"
+      "ActivityDescription": "Fishing, catching fish with hands",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04010",
       "METValue": 4.3,
-      "ActivityDescription": "Fishing related, digging worms, with shovel"
+      "ActivityDescription": "Fishing related, digging worms, with shovel",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04020",
       "METValue": 4.0,
-      "ActivityDescription": "Fishing from river bank and walking"
+      "ActivityDescription": "Fishing from river bank and walking",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04030",
       "METValue": 2.0,
-      "ActivityDescription": "Fishing from boat or canoe, sitting"
+      "ActivityDescription": "Fishing from boat or canoe, sitting",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04040",
       "METValue": 3.5,
-      "ActivityDescription": "Fishing from river bank, standing"
+      "ActivityDescription": "Fishing from river bank, standing",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04060",
       "METValue": 2.0,
-      "ActivityDescription": "Fishing, ice, sitting"
+      "ActivityDescription": "Fishing, ice, sitting",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04061",
       "METValue": 1.8,
-      "ActivityDescription": "Fishing, jig or line, standing, general"
+      "ActivityDescription": "Fishing, jig or line, standing, general",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04062",
       "METValue": 3.5,
-      "ActivityDescription": "Fishing, dip net, setting net and retrieving fish, general"
+      "ActivityDescription": "Fishing, dip net, setting net and retrieving fish, general",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04063",
       "METValue": 3.8,
-      "ActivityDescription": "Fishing, set net, setting net and retrieving fish, general"
+      "ActivityDescription": "Fishing, set net, setting net and retrieving fish, general",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04064",
       "METValue": 3.0,
-      "ActivityDescription": "Fishing, fishing wheel, setting net and retrieving fish, general"
+      "ActivityDescription": "Fishing, fishing wheel, setting net and retrieving fish, general",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04065",
       "METValue": 2.3,
-      "ActivityDescription": "Fishing with a spear, standing"
+      "ActivityDescription": "Fishing with a spear, standing",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04070",
       "METValue": 2.5,
-      "ActivityDescription": "Hunting, bow and arrow or crossbow"
+      "ActivityDescription": "Hunting, bow and arrow or crossbow",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04080",
       "METValue": 6.0,
-      "ActivityDescription": "Hunting, deer, elk, large game"
+      "ActivityDescription": "Hunting, deer, elk, large game",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04081",
       "METValue": 9.8,
-      "ActivityDescription": "Hunting large game, dragging carcass"
+      "ActivityDescription": "Hunting large game, dragging carcass",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04083",
       "METValue": 4.0,
-      "ActivityDescription": "Hunting large marine animals"
+      "ActivityDescription": "Hunting large marine animals",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04085",
       "METValue": 2.5,
-      "ActivityDescription": "Hunting, large game from a hunting stand, limited walking"
+      "ActivityDescription": "Hunting, large game from a hunting stand, limited walking",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04086",
       "METValue": 2.0,
-      "ActivityDescription": "Hunting large game from a car, plane, or boat"
+      "ActivityDescription": "Hunting large game from a car, plane, or boat",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04090",
       "METValue": 2.5,
-      "ActivityDescription": "Hunting, duck, wading"
+      "ActivityDescription": "Hunting, duck, wading",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04095",
       "METValue": 3.0,
-      "ActivityDescription": "Hunting flying fox, squirrel"
+      "ActivityDescription": "Hunting flying fox, squirrel",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04100",
       "METValue": 5.0,
-      "ActivityDescription": "Hunting, general"
+      "ActivityDescription": "Hunting, general",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04110",
       "METValue": 6.0,
-      "ActivityDescription": "Hunting, pheasants or grouse"
+      "ActivityDescription": "Hunting, pheasants or grouse",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04115",
       "METValue": 3.3,
-      "ActivityDescription": "Hunting birds"
+      "ActivityDescription": "Hunting birds",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04120",
       "METValue": 5.0,
-      "ActivityDescription": "Hunting, rabbit, squirrel, prairie chick, raccoon, small game"
+      "ActivityDescription": "Hunting, rabbit, squirrel, prairie chick, raccoon, small game",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04123",
       "METValue": 3.3,
-      "ActivityDescription": "Hunting pigs, wild"
+      "ActivityDescription": "Hunting pigs, wild",
+      "systemIcon": "figure.hunting"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04130",
       "METValue": 2.5,
-      "ActivityDescription": "Pistol shooting or trap shooting, standing"
+      "ActivityDescription": "Pistol shooting or trap shooting, standing",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04140",
       "METValue": 2.3,
-      "ActivityDescription": "Rifle exercises, shooting, lying down"
+      "ActivityDescription": "Rifle exercises, shooting, lying down",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04145",
       "METValue": 2.5,
-      "ActivityDescription": "Rifle exercises, shooting, kneeling or standing"
+      "ActivityDescription": "Rifle exercises, shooting, kneeling or standing",
+      "systemIcon": "figure.fishing"
     },
     {
       "MajorHeading": "Home Activities",
@@ -1119,385 +1250,449 @@
       "MajorHeading": "Home Repair",
       "ActivityCode": "06030",
       "METValue": 3.3,
-      "ActivityDescription": "Automobile repair, light or moderate effort"
+      "ActivityDescription": "Automobile repair, light or moderate effort",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06126",
       "METValue": 2.5,
-      "ActivityDescription": "Home repair, general, light effort"
+      "ActivityDescription": "Home repair, general, light effort",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06127",
       "METValue": 4.5,
-      "ActivityDescription": "Home repair, general, moderate effort"
+      "ActivityDescription": "Home repair, general, moderate effort",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06128",
       "METValue": 6.0,
-      "ActivityDescription": "Home repair, general, vigorous effort"
+      "ActivityDescription": "Home repair, general, vigorous effort",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06130",
       "METValue": 4.5,
-      "ActivityDescription": "Laying or removing carpet"
+      "ActivityDescription": "Laying or removing carpet",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06140",
       "METValue": 3.8,
-      "ActivityDescription": "Laying tile or linoleum"
+      "ActivityDescription": "Laying tile or linoleum",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06144",
       "METValue": 3.0,
-      "ActivityDescription": "Repairing appliances"
+      "ActivityDescription": "Repairing appliances",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06160",
       "METValue": 3.3,
-      "ActivityDescription": "Painting inside house, wallpapering, scraping paint"
+      "ActivityDescription": "Painting inside house, wallpapering, scraping paint",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06165",
       "METValue": 4.5,
-      "ActivityDescription": "Painting"
+      "ActivityDescription": "Painting",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06167",
       "METValue": 3.0,
-      "ActivityDescription": "Plumbing, general"
+      "ActivityDescription": "Plumbing, general",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06170",
       "METValue": 3.0,
-      "ActivityDescription": "Put on and removal of tarp – sailboat"
+      "ActivityDescription": "Put on and removal of tarp – sailboat",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06225",
       "METValue": 2.0,
-      "ActivityDescription": "Washing and waxing car"
+      "ActivityDescription": "Washing and waxing car",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06230",
       "METValue": 4.5,
-      "ActivityDescription": "Washing fence, painting fence, moderate effort"
+      "ActivityDescription": "Washing fence, painting fence, moderate effort",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07009",
       "METValue": 1.0,
-      "ActivityDescription": "Lying quietly and watching television"
+      "ActivityDescription": "Lying quietly and watching television",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07011",
       "METValue": 1.0,
-      "ActivityDescription": "Lying quietly, doing nothing, lying in bed awake, listening to music (not talking or reading)"
+      "ActivityDescription": "Lying quietly, doing nothing, lying in bed awake, listening to music (not talking or reading)",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07025",
       "METValue": 1.5,
-      "ActivityDescription": "Sitting, listening to music (not talking or reading) or watching a movie in a theater"
+      "ActivityDescription": "Sitting, listening to music (not talking or reading) or watching a movie in a theater",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07026",
       "METValue": 1.3,
-      "ActivityDescription": "Sitting at a desk, resting head in hands"
+      "ActivityDescription": "Sitting at a desk, resting head in hands",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07030",
       "METValue": 1.0,
-      "ActivityDescription": "Sleeping"
+      "ActivityDescription": "Sleeping",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07040",
       "METValue": 1.3,
-      "ActivityDescription": "Standing quietly (standing in a line)"
+      "ActivityDescription": "Standing quietly (standing in a line)",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07060",
       "METValue": 1.3,
-      "ActivityDescription": "Reclining, talking or talking on phone"
+      "ActivityDescription": "Reclining, talking or talking on phone",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07070",
       "METValue": 1.3,
-      "ActivityDescription": "Reclining, reading"
+      "ActivityDescription": "Reclining, reading",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Inactivity",
       "ActivityCode": "07075",
       "METValue": 1.0,
-      "ActivityDescription": "Meditating"
+      "ActivityDescription": "Meditating",
+      "systemIcon": "zzz"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08055",
       "METValue": 2.8,
-      "ActivityDescription": "Driving tractor"
+      "ActivityDescription": "Driving tractor",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08060",
       "METValue": 5.8,
-      "ActivityDescription": "Gardening with heavy power tools, using chain saw, tilling a garden"
+      "ActivityDescription": "Gardening with heavy power tools, using chain saw, tilling a garden",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08066",
       "METValue": 2.0,
-      "ActivityDescription": "gardening, general"
+      "ActivityDescription": "gardening, general",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08070",
       "METValue": 4.0,
-      "ActivityDescription": "Irrigation channels, opening and closing ports"
+      "ActivityDescription": "Irrigation channels, opening and closing ports",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08080",
       "METValue": 6.3,
-      "ActivityDescription": "Laying crushed rock or gravel"
+      "ActivityDescription": "Laying crushed rock or gravel",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08090",
       "METValue": 5.0,
-      "ActivityDescription": "Laying sod"
+      "ActivityDescription": "Laying sod",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08095",
       "METValue": 5.5,
-      "ActivityDescription": "Mowing lawn, general, walking, moderate effort"
+      "ActivityDescription": "Mowing lawn, general, walking, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08100",
       "METValue": 2.5,
-      "ActivityDescription": "Mowing lawn, riding mower (Taylor Code 550)"
+      "ActivityDescription": "Mowing lawn, riding mower (Taylor Code 550)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08110",
       "METValue": 6.0,
-      "ActivityDescription": "Mowing lawn, hand mower, vigorous effort (Taylor Code 570)"
+      "ActivityDescription": "Mowing lawn, hand mower, vigorous effort (Taylor Code 570)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08120",
       "METValue": 5.0,
-      "ActivityDescription": "Mowing lawn, walk, power mower, moderate or vigorous effort"
+      "ActivityDescription": "Mowing lawn, walk, power mower, moderate or vigorous effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08125",
       "METValue": 4.5,
-      "ActivityDescription": "Mowing lawn, power mower, light or moderate effort (Taylor Code 590)"
+      "ActivityDescription": "Mowing lawn, power mower, light or moderate effort (Taylor Code 590)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08130",
       "METValue": 2.5,
-      "ActivityDescription": "Operating snow blower, walking"
+      "ActivityDescription": "Operating snow blower, walking",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08135",
       "METValue": 2.6,
-      "ActivityDescription": "Planting, potting, transplanting seedlings or plants, light effort"
+      "ActivityDescription": "Planting, potting, transplanting seedlings or plants, light effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08140",
       "METValue": 4.3,
-      "ActivityDescription": "Planting seedlings, shrubs, stooping, moderate effort"
+      "ActivityDescription": "Planting seedlings, shrubs, stooping, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08145",
       "METValue": 4.3,
-      "ActivityDescription": "Planting crops or garden, stooping, moderate effort"
+      "ActivityDescription": "Planting crops or garden, stooping, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08150",
       "METValue": 4.5,
-      "ActivityDescription": "Planting trees"
+      "ActivityDescription": "Planting trees",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08160",
       "METValue": 4.0,
-      "ActivityDescription": "Raking lawn or leaves, moderate effort"
+      "ActivityDescription": "Raking lawn or leaves, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08165",
       "METValue": 4.0,
-      "ActivityDescription": "Raking lawn (Taylor Code 600)"
+      "ActivityDescription": "Raking lawn (Taylor Code 600)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08170",
       "METValue": 4.0,
-      "ActivityDescription": "Raking roof with snow rake"
+      "ActivityDescription": "Raking roof with snow rake",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08180",
       "METValue": 3.0,
-      "ActivityDescription": "Riding snow blower"
+      "ActivityDescription": "Riding snow blower",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08190",
       "METValue": 4.0,
-      "ActivityDescription": "Sacking grass, leaves"
+      "ActivityDescription": "Sacking grass, leaves",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08192",
       "METValue": 5.5,
-      "ActivityDescription": "Shoveling dirt or mud"
+      "ActivityDescription": "Shoveling dirt or mud",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08195",
       "METValue": 5.3,
-      "ActivityDescription": "Shoveling snow, by hand, moderate effort"
+      "ActivityDescription": "Shoveling snow, by hand, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08200",
       "METValue": 6.0,
-      "ActivityDescription": "Shoveling snow, by hand (Taylor Code 610)"
+      "ActivityDescription": "Shoveling snow, by hand (Taylor Code 610)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08202",
       "METValue": 7.5,
-      "ActivityDescription": "Shoveling snow, by hand, vigorous effort"
+      "ActivityDescription": "Shoveling snow, by hand, vigorous effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08210",
       "METValue": 3.8,
-      "ActivityDescription": "Trimming shrubs or trees, manual cutter"
+      "ActivityDescription": "Trimming shrubs or trees, manual cutter",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08215",
       "METValue": 3.3,
-      "ActivityDescription": "Trimming shrubs or trees, power cutter, using leaf blower, edger, moderate effort"
+      "ActivityDescription": "Trimming shrubs or trees, power cutter, using leaf blower, edger, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08220",
       "METValue": 3.0,
-      "ActivityDescription": "Walking, applying fertilizer or seeding a lawn, push applicator"
+      "ActivityDescription": "Walking, applying fertilizer or seeding a lawn, push applicator",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08230",
       "METValue": 4.0,
-      "ActivityDescription": "Watering lawn or garden, standing or walking"
+      "ActivityDescription": "Watering lawn or garden, standing or walking",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08239",
       "METValue": 3.8,
-      "ActivityDescription": "Weeding, cultivating garden, light-to-moderate effort"
+      "ActivityDescription": "Weeding, cultivating garden, light-to-moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08240",
       "METValue": 4.5,
-      "ActivityDescription": "Weeding, cultivating garden, moderate effort (Taylor Code 580)"
+      "ActivityDescription": "Weeding, cultivating garden, moderate effort (Taylor Code 580)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08241",
       "METValue": 5.0,
-      "ActivityDescription": "Weeding, cultivating garden, using hoe moderate-to-vigorous effort"
+      "ActivityDescription": "Weeding, cultivating garden, using hoe moderate-to-vigorous effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08245",
       "METValue": 3.8,
-      "ActivityDescription": "Gardening, general, moderate effort"
+      "ActivityDescription": "Gardening, general, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08246",
       "METValue": 3.5,
-      "ActivityDescription": "Picking fruit or coffee from trees, moderate effort"
+      "ActivityDescription": "Picking fruit or coffee from trees, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08248",
       "METValue": 4.5,
-      "ActivityDescription": "Harvesting Produce, Picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort"
+      "ActivityDescription": "Harvesting Produce, Picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08250",
       "METValue": 3.0,
-      "ActivityDescription": "Implied walking/standing - picking up yard, light, picking flowers or vegetables"
+      "ActivityDescription": "Implied walking/standing - picking up yard, light, picking flowers or vegetables",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08251",
       "METValue": 3.0,
-      "ActivityDescription": "Walking, gathering gardening tools"
+      "ActivityDescription": "Walking, gathering gardening tools",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08255",
       "METValue": 4.8,
-      "ActivityDescription": "Wheel barrow, pushing garden cart or wheelbarrow, general"
+      "ActivityDescription": "Wheel barrow, pushing garden cart or wheelbarrow, general",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08256",
       "METValue": 6.0,
-      "ActivityDescription": "Wheel barrow, pushing large garden cart or heavy wheelbarrow up to 150kg"
+      "ActivityDescription": "Wheel barrow, pushing large garden cart or heavy wheelbarrow up to 150kg",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08260",
       "METValue": 2.3,
-      "ActivityDescription": "Yardwork, general, light effort"
+      "ActivityDescription": "Yardwork, general, light effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08261",
       "METValue": 4.0,
-      "ActivityDescription": "Yardwork, general, moderate effort"
+      "ActivityDescription": "Yardwork, general, moderate effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08262",
       "METValue": 6.0,
-      "ActivityDescription": "Yardwork, general, vigorous effort"
+      "ActivityDescription": "Yardwork, general, vigorous effort",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Miscellaneous",
@@ -1671,133 +1866,155 @@
       "MajorHeading": "Music Playing",
       "ActivityCode": "10010",
       "METValue": 1.8,
-      "ActivityDescription": "Accordion, sitting"
+      "ActivityDescription": "Accordion, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10020",
       "METValue": 2.3,
-      "ActivityDescription": "Cello, sitting"
+      "ActivityDescription": "Cello, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10030",
       "METValue": 2.3,
-      "ActivityDescription": "Conducting orchestra, standing"
+      "ActivityDescription": "Conducting orchestra, standing",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10035",
       "METValue": 2.5,
-      "ActivityDescription": "Double bass, standing"
+      "ActivityDescription": "Double bass, standing",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10040",
       "METValue": 3.8,
-      "ActivityDescription": "Drums, sitting"
+      "ActivityDescription": "Drums, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10045",
       "METValue": 3.0,
-      "ActivityDescription": "Drumming (e.g., bongo, conga, benbe), moderate, sitting"
+      "ActivityDescription": "Drumming (e.g., bongo, conga, benbe), moderate, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10048",
       "METValue": 8.3,
-      "ActivityDescription": "Drumming, concert/live show"
+      "ActivityDescription": "Drumming, concert/live show",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10050",
       "METValue": 2.0,
-      "ActivityDescription": "Flute, sitting"
+      "ActivityDescription": "Flute, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10060",
       "METValue": 1.8,
-      "ActivityDescription": "Horn, standing"
+      "ActivityDescription": "Horn, standing",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10070",
       "METValue": 2.3,
-      "ActivityDescription": "Piano, sitting"
+      "ActivityDescription": "Piano, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10074",
       "METValue": 2.0,
-      "ActivityDescription": "Playing musical instruments, general"
+      "ActivityDescription": "Playing musical instruments, general",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10077",
       "METValue": 2.0,
-      "ActivityDescription": "Organ, sitting"
+      "ActivityDescription": "Organ, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10080",
       "METValue": 3.5,
-      "ActivityDescription": "Trombone, standing"
+      "ActivityDescription": "Trombone, standing",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10090",
       "METValue": 2.5,
-      "ActivityDescription": "Trumpet, standing"
+      "ActivityDescription": "Trumpet, standing",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10100",
       "METValue": 2.5,
-      "ActivityDescription": "Violin, sitting"
+      "ActivityDescription": "Violin, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10110",
       "METValue": 1.8,
-      "ActivityDescription": "Woodwind instruments, sitting"
+      "ActivityDescription": "Woodwind instruments, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10115",
       "METValue": 1.8,
-      "ActivityDescription": "Brass instruments, sitting"
+      "ActivityDescription": "Brass instruments, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10120",
       "METValue": 2.0,
-      "ActivityDescription": "Guitar, classical, folk, sitting"
+      "ActivityDescription": "Guitar, classical, folk, sitting",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10125",
       "METValue": 3.0,
-      "ActivityDescription": "Guitar, rock and roll band, standing"
+      "ActivityDescription": "Guitar, rock and roll band, standing",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10130",
       "METValue": 4.0,
-      "ActivityDescription": "Marching band, baton twirling, walking, moderate pace, general"
+      "ActivityDescription": "Marching band, baton twirling, walking, moderate pace, general",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10131",
       "METValue": 5.5,
-      "ActivityDescription": "Marching band, playing an instrument, walking, brisk pace, general"
+      "ActivityDescription": "Marching band, playing an instrument, walking, brisk pace, general",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Music Playing",
       "ActivityCode": "10135",
       "METValue": 3.5,
-      "ActivityDescription": "Marching band, drum major, walking"
+      "ActivityDescription": "Marching band, drum major, walking",
+      "systemIcon": "music.note"
     },
     {
       "MajorHeading": "Occupation",
@@ -2697,397 +2914,463 @@
       "MajorHeading": "Running",
       "ActivityCode": "12010",
       "METValue": 6.0,
-      "ActivityDescription": "Jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180)"
+      "ActivityDescription": "Jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12020",
       "METValue": 7.5,
-      "ActivityDescription": "Jogging, general, self-selected pace"
+      "ActivityDescription": "Jogging, general, self-selected pace",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12025",
       "METValue": 4.8,
-      "ActivityDescription": "Jogging, in place"
+      "ActivityDescription": "Jogging, in place",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12026",
       "METValue": 3.3,
-      "ActivityDescription": "Jogging 2.6 to 3.7 mph"
+      "ActivityDescription": "Jogging 2.6 to 3.7 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12027",
       "METValue": 4.5,
-      "ActivityDescription": "Jogging on a mini-tramp"
+      "ActivityDescription": "Jogging on a mini-tramp",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12028",
       "METValue": 6.5,
-      "ActivityDescription": "Running, 4 to 4.2 mph (13 min/mile)"
+      "ActivityDescription": "Running, 4 to 4.2 mph (13 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12029",
       "METValue": 7.8,
-      "ActivityDescription": "Running 4.3 to 4.8 mph"
+      "ActivityDescription": "Running 4.3 to 4.8 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12030",
       "METValue": 8.5,
-      "ActivityDescription": "Running, 5.0 to 5.2 mph (12 min/mile)"
+      "ActivityDescription": "Running, 5.0 to 5.2 mph (12 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12045",
       "METValue": 9.0,
-      "ActivityDescription": "Running, 5.5 -5.8 mph"
+      "ActivityDescription": "Running, 5.5 -5.8 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12050",
       "METValue": 9.3,
-      "ActivityDescription": "Running, 6-6.3 mph (10 min/mile)"
+      "ActivityDescription": "Running, 6-6.3 mph (10 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12060",
       "METValue": 10.5,
-      "ActivityDescription": "Running, 6.7 mph (9 min/mile)"
+      "ActivityDescription": "Running, 6.7 mph (9 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12070",
       "METValue": 11.0,
-      "ActivityDescription": "Running, 7 mph (8.5 min/mile)"
+      "ActivityDescription": "Running, 7 mph (8.5 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12080",
       "METValue": 11.8,
-      "ActivityDescription": "Running, 7.5 mph (8 min/mile)"
+      "ActivityDescription": "Running, 7.5 mph (8 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12090",
       "METValue": 12.0,
-      "ActivityDescription": "Running, 8 mph (7.5 min/mile)"
+      "ActivityDescription": "Running, 8 mph (7.5 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12100",
       "METValue": 12.5,
-      "ActivityDescription": "Running, 8.6 mph (7 min/mile)"
+      "ActivityDescription": "Running, 8.6 mph (7 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12110",
       "METValue": 13.0,
-      "ActivityDescription": "Running, 9 mph (6.5 min/mile)"
+      "ActivityDescription": "Running, 9 mph (6.5 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12115",
       "METValue": 14.8,
-      "ActivityDescription": "Running, 9.3 to 9.6 mph"
+      "ActivityDescription": "Running, 9.3 to 9.6 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12120",
       "METValue": 14.8,
-      "ActivityDescription": "Running, 10 mph (6 min/mile)"
+      "ActivityDescription": "Running, 10 mph (6 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12130",
       "METValue": 16.8,
-      "ActivityDescription": "Running, 11 mph (5.5 min/mile)"
+      "ActivityDescription": "Running, 11 mph (5.5 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12132",
       "METValue": 18.5,
-      "ActivityDescription": "Running, 12 mph (5.0 min/mile)"
+      "ActivityDescription": "Running, 12 mph (5.0 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12134",
       "METValue": 19.8,
-      "ActivityDescription": "Running, 13 mph (4.6 min/mile)"
+      "ActivityDescription": "Running, 13 mph (4.6 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12135",
       "METValue": 23.0,
-      "ActivityDescription": "Running, 14 mph (4.3 min/mile)"
+      "ActivityDescription": "Running, 14 mph (4.3 min/mile)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12140",
       "METValue": 9.3,
-      "ActivityDescription": "Running, cross country"
+      "ActivityDescription": "Running, cross country",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12145",
       "METValue": 10.5,
-      "ActivityDescription": "Running, self-selected pace"
+      "ActivityDescription": "Running, self-selected pace",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12150",
       "METValue": 8.0,
-      "ActivityDescription": "Running (Taylor Code 200)"
+      "ActivityDescription": "Running (Taylor Code 200)",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12170",
       "METValue": 15.0,
-      "ActivityDescription": "Running, stairs, up"
+      "ActivityDescription": "Running, stairs, up",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12180",
       "METValue": 10.0,
-      "ActivityDescription": "Running, on a track, team practice"
+      "ActivityDescription": "Running, on a track, team practice",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12184",
       "METValue": 18.0,
-      "ActivityDescription": "Running, on track, 500-1500m, competitive"
+      "ActivityDescription": "Running, on track, 500-1500m, competitive",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12186",
       "METValue": 19.3,
-      "ActivityDescription": "Running, on track, 2000-3000m, competitive"
+      "ActivityDescription": "Running, on track, 2000-3000m, competitive",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12190",
       "METValue": 8.0,
-      "ActivityDescription": "Running, training, pushing a wheelchair or baby carrier"
+      "ActivityDescription": "Running, training, pushing a wheelchair or baby carrier",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12200",
       "METValue": 13.3,
-      "ActivityDescription": "Running, marathon"
+      "ActivityDescription": "Running, marathon",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12255",
       "METValue": 10.3,
-      "ActivityDescription": "Running uphill, 4.5mph, 5% incline"
+      "ActivityDescription": "Running uphill, 4.5mph, 5% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12260",
       "METValue": 13.3,
-      "ActivityDescription": "Running uphill, 6.0 mph, 5% incline"
+      "ActivityDescription": "Running uphill, 6.0 mph, 5% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12265",
       "METValue": 15.5,
-      "ActivityDescription": "Running uphill, 7.0 mph, 5% incline"
+      "ActivityDescription": "Running uphill, 7.0 mph, 5% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12325",
       "METValue": 17.5,
-      "ActivityDescription": "Running uphill, 5.0 to 5.9 mph, 15% incline"
+      "ActivityDescription": "Running uphill, 5.0 to 5.9 mph, 15% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12335",
       "METValue": 8.8,
-      "ActivityDescription": "Running uphill, 0.6 to 0.79 mph, 30% incline"
+      "ActivityDescription": "Running uphill, 0.6 to 0.79 mph, 30% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12337",
       "METValue": 10.3,
-      "ActivityDescription": "Running uphill, 0.8 to 0.99 mph, 30% incline"
+      "ActivityDescription": "Running uphill, 0.8 to 0.99 mph, 30% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12339",
       "METValue": 11.8,
-      "ActivityDescription": "Running uphill, 1.0 to 1.19 mph, 30% incline"
+      "ActivityDescription": "Running uphill, 1.0 to 1.19 mph, 30% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12341",
       "METValue": 13.5,
-      "ActivityDescription": "Running uphill, 1.2 to 1.39 mph, 30-40% incline"
+      "ActivityDescription": "Running uphill, 1.2 to 1.39 mph, 30-40% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12343",
       "METValue": 14.8,
-      "ActivityDescription": "Running uphill, 1.4 to 1.59 mph, 30% incline"
+      "ActivityDescription": "Running uphill, 1.4 to 1.59 mph, 30% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12345",
       "METValue": 16.3,
-      "ActivityDescription": "Running uphill, >1.6mph, 10-30% incline"
+      "ActivityDescription": "Running uphill, >1.6mph, 10-30% incline",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12350",
       "METValue": 16.0,
-      "ActivityDescription": "Running, hilly terrain, ±100m change in elevation"
+      "ActivityDescription": "Running, hilly terrain, ±100m change in elevation",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12352",
       "METValue": 5.8,
-      "ActivityDescription": "Running downhill, 5.0 to 5.9 mph, -10% to -15%"
+      "ActivityDescription": "Running downhill, 5.0 to 5.9 mph, -10% to -15%",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12353",
       "METValue": 7.5,
-      "ActivityDescription": "Running downhill, 6.0 to 6.9 mph, -10% to -15%"
+      "ActivityDescription": "Running downhill, 6.0 to 6.9 mph, -10% to -15%",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12355",
       "METValue": 9.0,
-      "ActivityDescription": "Running downhill, 7.0 to 8.9 mph, -10% to -15%"
+      "ActivityDescription": "Running downhill, 7.0 to 8.9 mph, -10% to -15%",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12358",
       "METValue": 9.3,
-      "ActivityDescription": "Running downhill, 6.0 to 7.9 mph, -3% to -9%"
+      "ActivityDescription": "Running downhill, 6.0 to 7.9 mph, -3% to -9%",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12361",
       "METValue": 13.8,
-      "ActivityDescription": "Running downhill, 8.0 to 10.5 mph, -3% to -9%"
+      "ActivityDescription": "Running downhill, 8.0 to 10.5 mph, -3% to -9%",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12405",
       "METValue": 5.3,
-      "ActivityDescription": "Running/jogging, curved treadmill, 3.0 to 3.9 mph"
+      "ActivityDescription": "Running/jogging, curved treadmill, 3.0 to 3.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12408",
       "METValue": 6.5,
-      "ActivityDescription": "Running/jogging, curved treadmill, 4.0 to 4.9 mph"
+      "ActivityDescription": "Running/jogging, curved treadmill, 4.0 to 4.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12410",
       "METValue": 11.0,
-      "ActivityDescription": "Running curved treadmill, 5.0 to 5.9 mph"
+      "ActivityDescription": "Running curved treadmill, 5.0 to 5.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12412",
       "METValue": 12.0,
-      "ActivityDescription": "Running curved treadmill, 7.0 to 7.9 mph"
+      "ActivityDescription": "Running curved treadmill, 7.0 to 7.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12414",
       "METValue": 14.0,
-      "ActivityDescription": "Running curved treadmill, 8.0 to 8.9 mph"
+      "ActivityDescription": "Running curved treadmill, 8.0 to 8.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12416",
       "METValue": 16.8,
-      "ActivityDescription": "Running curved treadmill, 9.0 to 9.9 mph"
+      "ActivityDescription": "Running curved treadmill, 9.0 to 9.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12508",
       "METValue": 8.5,
-      "ActivityDescription": "Running, 5.0 - 5.9 mph, 1.0 to 3.0 kg backpack"
+      "ActivityDescription": "Running, 5.0 - 5.9 mph, 1.0 to 3.0 kg backpack",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12510",
       "METValue": 9.5,
-      "ActivityDescription": "Running, 6.0 - 6.9 mph, 1.0 to 3.0 kg backpack"
+      "ActivityDescription": "Running, 6.0 - 6.9 mph, 1.0 to 3.0 kg backpack",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12512",
       "METValue": 9.8,
-      "ActivityDescription": "Running, 7.0 - 7.9 mph, 1.0 to 3.0 kg backpack"
+      "ActivityDescription": "Running, 7.0 - 7.9 mph, 1.0 to 3.0 kg backpack",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12514",
       "METValue": 12.0,
-      "ActivityDescription": "Running, 8.0 - 8.9 mph, 1.0 to 3.0 kg backpack"
+      "ActivityDescription": "Running, 8.0 - 8.9 mph, 1.0 to 3.0 kg backpack",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12555",
       "METValue": 7.8,
-      "ActivityDescription": "Running, barefoot, 3.5-5.9 mph"
+      "ActivityDescription": "Running, barefoot, 3.5-5.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12560",
       "METValue": 12.0,
-      "ActivityDescription": "Running, barefoot, 6.0-7.9 mph"
+      "ActivityDescription": "Running, barefoot, 6.0-7.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12565",
       "METValue": 13.5,
-      "ActivityDescription": "Running, barefoot, 8.0-8.9 mph"
+      "ActivityDescription": "Running, barefoot, 8.0-8.9 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12585",
       "METValue": 8.0,
-      "ActivityDescription": "Running, jogging stroller, indoors, 5 mph"
+      "ActivityDescription": "Running, jogging stroller, indoors, 5 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12588",
       "METValue": 9.0,
-      "ActivityDescription": "Running, jogging stroller, indoors, 6 mph"
+      "ActivityDescription": "Running, jogging stroller, indoors, 6 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12593",
       "METValue": 10.0,
-      "ActivityDescription": "Running, jogging stroller, outdoors, 5 mph"
+      "ActivityDescription": "Running, jogging stroller, outdoors, 5 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12595",
       "METValue": 11.5,
-      "ActivityDescription": "Running, jogging stroller, outdoors, 6 mph"
+      "ActivityDescription": "Running, jogging stroller, outdoors, 6 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12600",
       "METValue": 11.5,
-      "ActivityDescription": "Skipping, 5.5-6.0 mph"
+      "ActivityDescription": "Skipping, 5.5-6.0 mph",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Running",
       "ActivityCode": "12620",
       "METValue": 13.0,
-      "ActivityDescription": "Triathlon, Running"
+      "ActivityDescription": "Triathlon, Running",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Self Care",
@@ -3183,67 +3466,78 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15010",
       "METValue": 4.3,
-      "ActivityDescription": "Archery (non-hunting)"
+      "ActivityDescription": "Archery (non-hunting)",
+      "systemIcon": "figure.archery"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15020",
       "METValue": 7.0,
-      "ActivityDescription": "Badminton, competitive (Taylor Code 450)"
+      "ActivityDescription": "Badminton, competitive (Taylor Code 450)",
+      "systemIcon": "figure.badminton"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15025",
       "METValue": 9.0,
-      "ActivityDescription": "Badminton, competitive, match play"
+      "ActivityDescription": "Badminton, competitive, match play",
+      "systemIcon": "figure.badminton"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15030",
       "METValue": 5.5,
-      "ActivityDescription": "Badminton, social singles and doubles, general"
+      "ActivityDescription": "Badminton, social singles and doubles, general",
+      "systemIcon": "figure.badminton"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15040",
       "METValue": 8.0,
-      "ActivityDescription": "Basketball, game (Taylor Code 490)"
+      "ActivityDescription": "Basketball, game (Taylor Code 490)",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15050",
       "METValue": 6.0,
-      "ActivityDescription": "Basketball, non-game, general (Taylor Code 480)"
+      "ActivityDescription": "Basketball, non-game, general (Taylor Code 480)",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15055",
       "METValue": 7.5,
-      "ActivityDescription": "Basketball, general"
+      "ActivityDescription": "Basketball, general",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15060",
       "METValue": 7.0,
-      "ActivityDescription": "Basketball, officiating (Taylor Code 500)"
+      "ActivityDescription": "Basketball, officiating (Taylor Code 500)",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15062",
       "METValue": 5.8,
-      "ActivityDescription": "Basketball, officiating"
+      "ActivityDescription": "Basketball, officiating",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15070",
       "METValue": 5.0,
-      "ActivityDescription": "Basketball, shooting baskets"
+      "ActivityDescription": "Basketball, shooting baskets",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15072",
       "METValue": 9.3,
-      "ActivityDescription": "Basketball, drills, practice"
+      "ActivityDescription": "Basketball, drills, practice",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
@@ -3255,55 +3549,64 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15090",
       "METValue": 3.0,
-      "ActivityDescription": "Bowling (Taylor Code 390)"
+      "ActivityDescription": "Bowling (Taylor Code 390)",
+      "systemIcon": "figure.bowling"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15092",
       "METValue": 3.8,
-      "ActivityDescription": "Bowling, indoor, bowling alley"
+      "ActivityDescription": "Bowling, indoor, bowling alley",
+      "systemIcon": "figure.bowling"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15100",
       "METValue": 12.3,
-      "ActivityDescription": "Boxing, in ring, general"
+      "ActivityDescription": "Boxing, in ring, general",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15110",
       "METValue": 5.8,
-      "ActivityDescription": "Boxing, punching bag"
+      "ActivityDescription": "Boxing, punching bag",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15113",
       "METValue": 7.0,
-      "ActivityDescription": "Boxing, punching bag, 60 b/min"
+      "ActivityDescription": "Boxing, punching bag, 60 b/min",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15115",
       "METValue": 8.5,
-      "ActivityDescription": "Boxing, punching bag, 120 b/min"
+      "ActivityDescription": "Boxing, punching bag, 120 b/min",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15118",
       "METValue": 10.8,
-      "ActivityDescription": "Boxing, punching bag, 180 b/min"
+      "ActivityDescription": "Boxing, punching bag, 180 b/min",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15120",
       "METValue": 7.8,
-      "ActivityDescription": "Boxing, sparring"
+      "ActivityDescription": "Boxing, sparring",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15125",
       "METValue": 9.3,
-      "ActivityDescription": "Boxing, simulated boxing round, exercise"
+      "ActivityDescription": "Boxing, simulated boxing round, exercise",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
@@ -3321,13 +3624,15 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15138",
       "METValue": 6.0,
-      "ActivityDescription": "Cheerleading, gymnastic moves, competitive"
+      "ActivityDescription": "Cheerleading, gymnastic moves, competitive",
+      "systemIcon": "figure.gymnastics"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15140",
       "METValue": 4.0,
-      "ActivityDescription": "Coaching, football, soccer, basketball, baseball, swimming, etc."
+      "ActivityDescription": "Coaching, football, soccer, basketball, baseball, swimming, etc.",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
@@ -3339,7 +3644,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15150",
       "METValue": 4.8,
-      "ActivityDescription": "Cricket, batting, bowling, fielding"
+      "ActivityDescription": "Cricket, batting, bowling, fielding",
+      "systemIcon": "figure.bowling"
     },
     {
       "MajorHeading": "Sports",
@@ -3351,7 +3657,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15170",
       "METValue": 4.0,
-      "ActivityDescription": "Curling"
+      "ActivityDescription": "Curling",
+      "systemIcon": "figure.curling"
     },
     {
       "MajorHeading": "Sports",
@@ -3381,13 +3688,15 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15200",
       "METValue": 6.0,
-      "ActivityDescription": "Fencing, general"
+      "ActivityDescription": "Fencing, general",
+      "systemIcon": "figure.fencing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15203",
       "METValue": 9.8,
-      "ActivityDescription": "Fencing, epee, competitive"
+      "ActivityDescription": "Fencing, epee, competitive",
+      "systemIcon": "figure.fencing"
     },
     {
       "MajorHeading": "Sports",
@@ -3399,79 +3708,92 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15210",
       "METValue": 8.0,
-      "ActivityDescription": "Football, competitive"
+      "ActivityDescription": "Football, competitive",
+      "systemIcon": "figure.american.football"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15230",
       "METValue": 8.0,
-      "ActivityDescription": "Football, touch, flag, general (Taylor Code 510)"
+      "ActivityDescription": "Football, touch, flag, general (Taylor Code 510)",
+      "systemIcon": "figure.american.football"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15232",
       "METValue": 4.0,
-      "ActivityDescription": "Football, touch, flag, light effort"
+      "ActivityDescription": "Football, touch, flag, light effort",
+      "systemIcon": "figure.american.football"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15235",
       "METValue": 2.5,
-      "ActivityDescription": "Football or baseball, playing catch"
+      "ActivityDescription": "Football or baseball, playing catch",
+      "systemIcon": "figure.american.football"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15240",
       "METValue": 3.0,
-      "ActivityDescription": "Frisbee playing, general"
+      "ActivityDescription": "Frisbee playing, general",
+      "systemIcon": "figure.disc.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15250",
       "METValue": 8.0,
-      "ActivityDescription": "Frisbee, ultimate"
+      "ActivityDescription": "Frisbee, ultimate",
+      "systemIcon": "figure.disc.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15252",
       "METValue": 3.8,
-      "ActivityDescription": "Frisbee golf"
+      "ActivityDescription": "Frisbee golf",
+      "systemIcon": "figure.disc.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15255",
       "METValue": 4.5,
-      "ActivityDescription": "Golf, general"
+      "ActivityDescription": "Golf, general",
+      "systemIcon": "figure.golf"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15265",
       "METValue": 4.3,
-      "ActivityDescription": "Golf, walking, carrying clubs"
+      "ActivityDescription": "Golf, walking, carrying clubs",
+      "systemIcon": "figure.golf"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15270",
       "METValue": 3.5,
-      "ActivityDescription": "Golf, miniature, driving range"
+      "ActivityDescription": "Golf, miniature, driving range",
+      "systemIcon": "figure.golf"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15285",
       "METValue": 4.5,
-      "ActivityDescription": "Golf, walking, pulling clubs"
+      "ActivityDescription": "Golf, walking, pulling clubs",
+      "systemIcon": "figure.golf"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15290",
       "METValue": 3.5,
-      "ActivityDescription": "Golf, using power cart (Taylor Code 070)"
+      "ActivityDescription": "Golf, using power cart (Taylor Code 070)",
+      "systemIcon": "figure.golf"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15300",
       "METValue": 3.8,
-      "ActivityDescription": "Gymnastics, general"
+      "ActivityDescription": "Gymnastics, general",
+      "systemIcon": "figure.gymnastics"
     },
     {
       "MajorHeading": "Sports",
@@ -3483,13 +3805,15 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15320",
       "METValue": 12.0,
-      "ActivityDescription": "Handball, general (Taylor Code 520)"
+      "ActivityDescription": "Handball, general (Taylor Code 520)",
+      "systemIcon": "figure.handball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15330",
       "METValue": 8.0,
-      "ActivityDescription": "Handball, team"
+      "ActivityDescription": "Handball, team",
+      "systemIcon": "figure.handball"
     },
     {
       "MajorHeading": "Sports",
@@ -3507,19 +3831,22 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15350",
       "METValue": 7.8,
-      "ActivityDescription": "Hockey, field"
+      "ActivityDescription": "Hockey, field",
+      "systemIcon": "figure.hockey"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15360",
       "METValue": 8.0,
-      "ActivityDescription": "Hockey, ice, general"
+      "ActivityDescription": "Hockey, ice, general",
+      "systemIcon": "figure.hockey"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15362",
       "METValue": 10.0,
-      "ActivityDescription": "Hockey, ice, competitive"
+      "ActivityDescription": "Hockey, ice, competitive",
+      "systemIcon": "figure.hockey"
     },
     {
       "MajorHeading": "Sports",
@@ -3591,13 +3918,15 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15425",
       "METValue": 5.3,
-      "ActivityDescription": "Martial Arts, different types, slower pace, novice performers, practice"
+      "ActivityDescription": "Martial Arts, different types, slower pace, novice performers, practice",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15430",
       "METValue": 10.3,
-      "ActivityDescription": "Martial Arts, different types, moderate pace (e.g., judo, jujitsu, karate, kick boxing, tae kwon do, tai-bo, Muay Thai boxing)"
+      "ActivityDescription": "Martial Arts, different types, moderate pace (e.g., judo, jujitsu, karate, kick boxing, tae kwon do, tai-bo, Muay Thai boxing)",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
@@ -3609,7 +3938,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15433",
       "METValue": 11.3,
-      "ActivityDescription": "Judo"
+      "ActivityDescription": "Judo",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Sports",
@@ -3621,19 +3951,22 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15444",
       "METValue": 6.5,
-      "ActivityDescription": "Kendo, kihon-keiko style, moderate intensity"
+      "ActivityDescription": "Kendo, kihon-keiko style, moderate intensity",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15445",
       "METValue": 9.6,
-      "ActivityDescription": "Kendo, kirikaeshi style, high intensity"
+      "ActivityDescription": "Kendo, kirikaeshi style, high intensity",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15446",
       "METValue": 11.3,
-      "ActivityDescription": "Kendo, kakari keiko style, very high intensity"
+      "ActivityDescription": "Kendo, kakari keiko style, very high intensity",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Sports",
@@ -3645,25 +3978,29 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15455",
       "METValue": 5.5,
-      "ActivityDescription": "Kung Fu Gymnastics"
+      "ActivityDescription": "Kung Fu Gymnastics",
+      "systemIcon": "figure.gymnastics"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15457",
       "METValue": 7.3,
-      "ActivityDescription": "Kickboxing"
+      "ActivityDescription": "Kickboxing",
+      "systemIcon": "figure.boxing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15460",
       "METValue": 8.0,
-      "ActivityDescription": "Lacrosse"
+      "ActivityDescription": "Lacrosse",
+      "systemIcon": "figure.lacrosse"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15465",
       "METValue": 3.3,
-      "ActivityDescription": "Lawn bowling, bocce ball, outdoor"
+      "ActivityDescription": "Lawn bowling, bocce ball, outdoor",
+      "systemIcon": "figure.bowling"
     },
     {
       "MajorHeading": "Sports",
@@ -3693,13 +4030,15 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15490",
       "METValue": 10.0,
-      "ActivityDescription": "Paddleball, competitive"
+      "ActivityDescription": "Paddleball, competitive",
+      "systemIcon": "figure.pickleball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15500",
       "METValue": 6.0,
-      "ActivityDescription": "Paddleball, casual, general (Taylor Code 460)"
+      "ActivityDescription": "Paddleball, casual, general (Taylor Code 460)",
+      "systemIcon": "figure.pickleball"
     },
     {
       "MajorHeading": "Sports",
@@ -3723,79 +4062,92 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15520",
       "METValue": 10.0,
-      "ActivityDescription": "Racquetball, competitive"
+      "ActivityDescription": "Racquetball, competitive",
+      "systemIcon": "figure.racquetball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15525",
       "METValue": 10.3,
-      "ActivityDescription": "Race Walking, 3.1 m/s (6.9 mph)"
+      "ActivityDescription": "Race Walking, 3.1 m/s (6.9 mph)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15527",
       "METValue": 13.8,
-      "ActivityDescription": "Race Walking, 3.7 m/s (8.3 mph)"
+      "ActivityDescription": "Race Walking, 3.7 m/s (8.3 mph)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15528",
       "METValue": 15.5,
-      "ActivityDescription": "Race Walking, racing speed, 4.0 m/s (8.95 mph)"
+      "ActivityDescription": "Race Walking, racing speed, 4.0 m/s (8.95 mph)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15530",
       "METValue": 7.0,
-      "ActivityDescription": "Racquetball, general (Taylor Code 470)"
+      "ActivityDescription": "Racquetball, general (Taylor Code 470)",
+      "systemIcon": "figure.racquetball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15533",
       "METValue": 8.0,
-      "ActivityDescription": "Rock or mountain climbing (Taylor Code 060), (formerly code 17120)"
+      "ActivityDescription": "Rock or mountain climbing (Taylor Code 060), (formerly code 17120)",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15534",
       "METValue": 8.8,
-      "ActivityDescription": "Rock climbing, free boulder"
+      "ActivityDescription": "Rock climbing, free boulder",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15535",
       "METValue": 7.3,
-      "ActivityDescription": "Rock climbing, ascending rock, high difficulty"
+      "ActivityDescription": "Rock climbing, ascending rock, high difficulty",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15536",
       "METValue": 10.5,
-      "ActivityDescription": "Rock climbing, speed climbing, very difficult"
+      "ActivityDescription": "Rock climbing, speed climbing, very difficult",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15537",
       "METValue": 5.8,
-      "ActivityDescription": "Rock climbing, ascending or traversing rock, low-to-moderate difficulty"
+      "ActivityDescription": "Rock climbing, ascending or traversing rock, low-to-moderate difficulty",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15538",
       "METValue": 10.5,
-      "ActivityDescription": "Rock climbing, treadwall, 4-6 m/min"
+      "ActivityDescription": "Rock climbing, treadwall, 4-6 m/min",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15539",
       "METValue": 10.5,
-      "ActivityDescription": "Rock climbing, treadwall, 7-10 m/min"
+      "ActivityDescription": "Rock climbing, treadwall, 7-10 m/min",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15540",
       "METValue": 5.0,
-      "ActivityDescription": "Rock climbing, rappelling,"
+      "ActivityDescription": "Rock climbing, rappelling,",
+      "systemIcon": "figure.climbing"
     },
     {
       "MajorHeading": "Sports",
@@ -3819,37 +4171,43 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15550",
       "METValue": 12.3,
-      "ActivityDescription": "Rope jumping, fast pace, 120-160 skips/min"
+      "ActivityDescription": "Rope jumping, fast pace, 120-160 skips/min",
+      "systemIcon": "figure.jumprope"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15551",
       "METValue": 11.8,
-      "ActivityDescription": "Rope jumping, moderate pace, general, 100 to 120 skips/min, 2 foot skip, plain bounce"
+      "ActivityDescription": "Rope jumping, moderate pace, general, 100 to 120 skips/min, 2 foot skip, plain bounce",
+      "systemIcon": "figure.jumprope"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15552",
       "METValue": 8.3,
-      "ActivityDescription": "Rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce"
+      "ActivityDescription": "Rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce",
+      "systemIcon": "figure.jumprope"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15554",
       "METValue": 10.0,
-      "ActivityDescription": "Rope jumping, double under or more"
+      "ActivityDescription": "Rope jumping, double under or more",
+      "systemIcon": "figure.jumprope"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15560",
       "METValue": 8.3,
-      "ActivityDescription": "Rugby, union, team, competitive"
+      "ActivityDescription": "Rugby, union, team, competitive",
+      "systemIcon": "figure.rugby"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15562",
       "METValue": 6.3,
-      "ActivityDescription": "Rugby, touch, non-competitive"
+      "ActivityDescription": "Rugby, touch, non-competitive",
+      "systemIcon": "figure.rugby"
     },
     {
       "MajorHeading": "Sports",
@@ -3861,43 +4219,50 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15580",
       "METValue": 5.0,
-      "ActivityDescription": "Skateboarding, general, moderate effort"
+      "ActivityDescription": "Skateboarding, general, moderate effort",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15582",
       "METValue": 6.0,
-      "ActivityDescription": "Skateboarding, competitive, vigorous effort"
+      "ActivityDescription": "Skateboarding, competitive, vigorous effort",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15590",
       "METValue": 7.0,
-      "ActivityDescription": "Skating, roller (Taylor Code 360)"
+      "ActivityDescription": "Skating, roller (Taylor Code 360)",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15591",
       "METValue": 7.5,
-      "ActivityDescription": "Roller blading, in-line skating, 14.4 km/h (9.0 mph), recreational pace"
+      "ActivityDescription": "Roller blading, in-line skating, 14.4 km/h (9.0 mph), recreational pace",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15592",
       "METValue": 9.8,
-      "ActivityDescription": "Roller blading, in-line skating, 17.7 km/h (11.0 mph), moderate pace, exercise training"
+      "ActivityDescription": "Roller blading, in-line skating, 17.7 km/h (11.0 mph), moderate pace, exercise training",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15593",
       "METValue": 12.3,
-      "ActivityDescription": "Roller blading, in-line skating, 21.0 to 21.7 km/h (13.0 to 13.6 mph), fast pace, exercise training"
+      "ActivityDescription": "Roller blading, in-line skating, 21.0 to 21.7 km/h (13.0 to 13.6 mph), fast pace, exercise training",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15594",
       "METValue": 15.5,
-      "ActivityDescription": "Rollerblading, in-line skating, 24.0 km/h (15.0 mph), maximal effort"
+      "ActivityDescription": "Rollerblading, in-line skating, 24.0 km/h (15.0 mph), maximal effort",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Sports",
@@ -3927,43 +4292,50 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15605",
       "METValue": 9.5,
-      "ActivityDescription": "Soccer, competitive"
+      "ActivityDescription": "Soccer, competitive",
+      "systemIcon": "figure.soccer"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15610",
       "METValue": 7.0,
-      "ActivityDescription": "Soccer, casual, general (Taylor Code 540)"
+      "ActivityDescription": "Soccer, casual, general (Taylor Code 540)",
+      "systemIcon": "figure.soccer"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15615",
       "METValue": 3.5,
-      "ActivityDescription": "Walking football/soccer"
+      "ActivityDescription": "Walking football/soccer",
+      "systemIcon": "figure.soccer"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15620",
       "METValue": 5.0,
-      "ActivityDescription": "Softball or baseball, fast or slow pitch, general, moderate effort (Taylor Code 440)"
+      "ActivityDescription": "Softball or baseball, fast or slow pitch, general, moderate effort (Taylor Code 440)",
+      "systemIcon": "figure.baseball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15625",
       "METValue": 4.0,
-      "ActivityDescription": "Softball, practice"
+      "ActivityDescription": "Softball, practice",
+      "systemIcon": "figure.baseball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15630",
       "METValue": 4.0,
-      "ActivityDescription": "Softball, officiating"
+      "ActivityDescription": "Softball, officiating",
+      "systemIcon": "figure.baseball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15640",
       "METValue": 6.0,
-      "ActivityDescription": "Softball, pitching"
+      "ActivityDescription": "Softball, pitching",
+      "systemIcon": "figure.baseball"
     },
     {
       "MajorHeading": "Sports",
@@ -3975,115 +4347,134 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15650",
       "METValue": 12.0,
-      "ActivityDescription": "Squash (Taylor Code 530)"
+      "ActivityDescription": "Squash (Taylor Code 530)",
+      "systemIcon": "figure.squash"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15652",
       "METValue": 7.3,
-      "ActivityDescription": "Squash, general"
+      "ActivityDescription": "Squash, general",
+      "systemIcon": "figure.squash"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15660",
       "METValue": 4.0,
-      "ActivityDescription": "Table tennis, ping pong (Taylor Code 410)"
+      "ActivityDescription": "Table tennis, ping pong (Taylor Code 410)",
+      "systemIcon": "figure.table.tennis"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15670",
       "METValue": 3.3,
-      "ActivityDescription": "Tai chi, qi gong, general"
+      "ActivityDescription": "Tai chi, qi gong, general",
+      "systemIcon": "figure.mind.and.body"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15672",
       "METValue": 1.5,
-      "ActivityDescription": "Tai chi, qi gong, sitting, light effort"
+      "ActivityDescription": "Tai chi, qi gong, sitting, light effort",
+      "systemIcon": "figure.mind.and.body"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15674",
       "METValue": 6.0,
-      "ActivityDescription": "Tai chi chuan, Yang style"
+      "ActivityDescription": "Tai chi chuan, Yang style",
+      "systemIcon": "figure.mind.and.body"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15675",
       "METValue": 6.8,
-      "ActivityDescription": "Tennis, general, moderate effort"
+      "ActivityDescription": "Tennis, general, moderate effort",
+      "systemIcon": "figure.tennis"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15676",
       "METValue": 8.0,
-      "ActivityDescription": "Tennis, general, competitive"
+      "ActivityDescription": "Tennis, general, competitive",
+      "systemIcon": "figure.tennis"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15680",
       "METValue": 6.0,
-      "ActivityDescription": "Tennis, doubles (Taylor Code 430)"
+      "ActivityDescription": "Tennis, doubles (Taylor Code 430)",
+      "systemIcon": "figure.tennis"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15685",
       "METValue": 4.5,
-      "ActivityDescription": "Tennis, doubles"
+      "ActivityDescription": "Tennis, doubles",
+      "systemIcon": "figure.tennis"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15690",
       "METValue": 8.0,
-      "ActivityDescription": "Tennis, singles (Taylor Code 420)"
+      "ActivityDescription": "Tennis, singles (Taylor Code 420)",
+      "systemIcon": "figure.tennis"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15695",
       "METValue": 5.0,
-      "ActivityDescription": "Tennis, hitting balls, non-game play, moderate effort"
+      "ActivityDescription": "Tennis, hitting balls, non-game play, moderate effort",
+      "systemIcon": "figure.tennis"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15700",
       "METValue": 6.3,
-      "ActivityDescription": "Trampoline, recreational"
+      "ActivityDescription": "Trampoline, recreational",
+      "systemIcon": "figure.gymnastics"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15702",
       "METValue": 10.3,
-      "ActivityDescription": "Trampoline, competitive"
+      "ActivityDescription": "Trampoline, competitive",
+      "systemIcon": "figure.gymnastics"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15710",
       "METValue": 4.0,
-      "ActivityDescription": "Volleyball (Taylor Code 400)"
+      "ActivityDescription": "Volleyball (Taylor Code 400)",
+      "systemIcon": "figure.volleyball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15711",
       "METValue": 6.0,
-      "ActivityDescription": "Volleyball, competitive, in gymnasium"
+      "ActivityDescription": "Volleyball, competitive, in gymnasium",
+      "systemIcon": "figure.volleyball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15720",
       "METValue": 3.0,
-      "ActivityDescription": "Volleyball, non-competitive, 6 - 9 member team, general"
+      "ActivityDescription": "Volleyball, non-competitive, 6 - 9 member team, general",
+      "systemIcon": "figure.volleyball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15725",
       "METValue": 8.0,
-      "ActivityDescription": "Volleyball, beach, in sand"
+      "ActivityDescription": "Volleyball, beach, in sand",
+      "systemIcon": "figure.volleyball"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15730",
       "METValue": 6.0,
-      "ActivityDescription": "Wrestling, competitive (one match = 5 minutes)"
+      "ActivityDescription": "Wrestling, competitive (one match = 5 minutes)",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Sports",
@@ -4095,67 +4486,78 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15732",
       "METValue": 4.0,
-      "ActivityDescription": "Track and field (e.g., shot, discus, hammer throw)"
+      "ActivityDescription": "Track and field (e.g., shot, discus, hammer throw)",
+      "systemIcon": "figure.track.and.field"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15733",
       "METValue": 6.0,
-      "ActivityDescription": "Track and field (e.g., high jump, long jump, triple jump, javelin, pole vault)"
+      "ActivityDescription": "Track and field (e.g., high jump, long jump, triple jump, javelin, pole vault)",
+      "systemIcon": "figure.track.and.field"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15734",
       "METValue": 10.0,
-      "ActivityDescription": "Track and field (e.g., steeplechase, hurdles)"
+      "ActivityDescription": "Track and field (e.g., steeplechase, hurdles)",
+      "systemIcon": "figure.track.and.field"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16002",
       "METValue": 6.8,
-      "ActivityDescription": "Bicycling for transportation, moderate effort"
+      "ActivityDescription": "Bicycling for transportation, moderate effort",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16004",
       "METValue": 9.3,
-      "ActivityDescription": "Bicycling for transportation, high effort"
+      "ActivityDescription": "Bicycling for transportation, high effort",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16005",
       "METValue": 6.8,
-      "ActivityDescription": "E-bike (electrically assisted) for transportation"
+      "ActivityDescription": "E-bike (electrically assisted) for transportation",
+      "systemIcon": "figure.outdoor.cycle"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16010",
       "METValue": 2.0,
-      "ActivityDescription": "Automobile or light truck (not a semi) driving"
+      "ActivityDescription": "Automobile or light truck (not a semi) driving",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16015",
       "METValue": 1.3,
-      "ActivityDescription": "Riding in a car or truck"
+      "ActivityDescription": "Riding in a car or truck",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16016",
       "METValue": 1.3,
-      "ActivityDescription": "Riding in a bus or train"
+      "ActivityDescription": "Riding in a bus or train",
+      "systemIcon": "bus.fill"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16020",
       "METValue": 1.8,
-      "ActivityDescription": "Flying airplane or helicoptor"
+      "ActivityDescription": "Flying airplane or helicoptor",
+      "systemIcon": "airplane"
     },
     {
       "MajorHeading": "Transportation",
       "ActivityCode": "16030",
       "METValue": 2.8,
-      "ActivityDescription": "Motor scooter, motorcycle"
+      "ActivityDescription": "Motor scooter, motorcycle",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Transportation",
@@ -4173,7 +4575,8 @@
       "MajorHeading": "Transportation",
       "ActivityCode": "16050",
       "METValue": 2.5,
-      "ActivityDescription": "Truck, semi, tractor, ≥1 ton, or bus, driving"
+      "ActivityDescription": "Truck, semi, tractor, ≥1 ton, or bus, driving",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Transportation",
@@ -4185,559 +4588,652 @@
       "MajorHeading": "Walking",
       "ActivityCode": "17010",
       "METValue": 7.0,
-      "ActivityDescription": "Backpacking (Taylor Code 050)"
+      "ActivityDescription": "Backpacking (Taylor Code 050)",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17011",
       "METValue": 3.5,
-      "ActivityDescription": "Walking with a day pack, level ground, assumed in the city"
+      "ActivityDescription": "Walking with a day pack, level ground, assumed in the city",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17012",
       "METValue": 7.8,
-      "ActivityDescription": "Backpacking, hiking with a daypack, organized walking with daypack"
+      "ActivityDescription": "Backpacking, hiking with a daypack, organized walking with daypack",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17016",
       "METValue": 4.0,
-      "ActivityDescription": "Carrying 5 to 14 lb (2.3 to 6.4 kg) load (e.g. suitcase, boxes, groceries), level ground, moderate pace"
+      "ActivityDescription": "Carrying 5 to 14 lb (2.3 to 6.4 kg) load (e.g. suitcase, boxes, groceries), level ground, moderate pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17018",
       "METValue": 4.5,
-      "ActivityDescription": "Carrying 15 - 155 lb (6.8 - 70.4 kg) load (e.g. suitcase, boxes, furniture), level ground or downstairs, slow pace"
+      "ActivityDescription": "Carrying 15 - 155 lb (6.8 - 70.4 kg) load (e.g. suitcase, boxes, furniture), level ground or downstairs, slow pace",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17019",
       "METValue": 6.5,
-      "ActivityDescription": "Carrying 50 to 150 pound load (e.g., equine or bovine feed, fence pipes, furniture), level ground, moderate pace"
+      "ActivityDescription": "Carrying 50 to 150 pound load (e.g., equine or bovine feed, fence pipes, furniture), level ground, moderate pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17021",
       "METValue": 2.3,
-      "ActivityDescription": "Carrying ~10 lb child, slow walking"
+      "ActivityDescription": "Carrying ~10 lb child, slow walking",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17025",
       "METValue": 8.3,
-      "ActivityDescription": "Carrying load upstairs, general"
+      "ActivityDescription": "Carrying load upstairs, general",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17026",
       "METValue": 5.5,
-      "ActivityDescription": "Carrying load, 1 to 15 lb load, upstairs"
+      "ActivityDescription": "Carrying load, 1 to 15 lb load, upstairs",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17027",
       "METValue": 6.0,
-      "ActivityDescription": "Carrying load, 16 to 24 lb load, upstairs"
+      "ActivityDescription": "Carrying load, 16 to 24 lb load, upstairs",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17028",
       "METValue": 8.0,
-      "ActivityDescription": "Carrying load, 25 to 49 lb load, upstairs"
+      "ActivityDescription": "Carrying load, 25 to 49 lb load, upstairs",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17029",
       "METValue": 10.0,
-      "ActivityDescription": "Carrying load, 50 to 74 lb load, upstairs"
+      "ActivityDescription": "Carrying load, 50 to 74 lb load, upstairs",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17030",
       "METValue": 12.0,
-      "ActivityDescription": "Carrying load, >74 lb load, upstairs"
+      "ActivityDescription": "Carrying load, >74 lb load, upstairs",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17031",
       "METValue": 3.8,
-      "ActivityDescription": "Loading and/or unloading a car, implied walking"
+      "ActivityDescription": "Loading and/or unloading a car, implied walking",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17032",
       "METValue": 5.0,
-      "ActivityDescription": "Climbing hills, no load, 5 to 20% grade, very slow pace"
+      "ActivityDescription": "Climbing hills, no load, 5 to 20% grade, very slow pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17033",
       "METValue": 3.8,
-      "ActivityDescription": "Climbing hills, 15-50 lb load, 1 to 2% grade, slow pace"
+      "ActivityDescription": "Climbing hills, 15-50 lb load, 1 to 2% grade, slow pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17034",
       "METValue": 5.3,
-      "ActivityDescription": "Climbing hills, no load, 1 to 5% grade, moderate-to-brisk pace"
+      "ActivityDescription": "Climbing hills, no load, 1 to 5% grade, moderate-to-brisk pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17035",
       "METValue": 7.0,
-      "ActivityDescription": "Climbing hills, no load, 6 to 10% grade, moderate-to-brisk pace"
+      "ActivityDescription": "Climbing hills, no load, 6 to 10% grade, moderate-to-brisk pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17036",
       "METValue": 8.8,
-      "ActivityDescription": "Climbing hills, no load, 11 to 20% grade, slow-to-moderate pace"
+      "ActivityDescription": "Climbing hills, no load, 11 to 20% grade, slow-to-moderate pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17037",
       "METValue": 10.0,
-      "ActivityDescription": "Climbing hills, no load, 4.0 to 5.0 mph, 3 to 5% grade, very fast pace"
+      "ActivityDescription": "Climbing hills, no load, 4.0 to 5.0 mph, 3 to 5% grade, very fast pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17038",
       "METValue": 8.5,
-      "ActivityDescription": "Climbing hills, no load, steep grade (30%), slow pace (less than 1.2 mph)"
+      "ActivityDescription": "Climbing hills, no load, steep grade (30%), slow pace (less than 1.2 mph)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17039",
       "METValue": 15.5,
-      "ActivityDescription": "Climbing hills, no load, very steep grade (30-40%), 1.2 to 1.8 mph"
+      "ActivityDescription": "Climbing hills, no load, very steep grade (30-40%), 1.2 to 1.8 mph",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17040",
       "METValue": 16.3,
-      "ActivityDescription": "Climbing hills, no load, steep grade (10-40%), 1.8 to 5.0 mph"
+      "ActivityDescription": "Climbing hills, no load, steep grade (10-40%), 1.8 to 5.0 mph",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17045",
       "METValue": 6.5,
-      "ActivityDescription": "Climbing hills, 10 to 20 lb load, 5 to 10% grade, moderate"
+      "ActivityDescription": "Climbing hills, 10 to 20 lb load, 5 to 10% grade, moderate",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17050",
       "METValue": 7.5,
-      "ActivityDescription": "Climbing hills, 21 to 40 lb load, 3 to 10% grade, moderate-to-brisk pace"
+      "ActivityDescription": "Climbing hills, 21 to 40 lb load, 3 to 10% grade, moderate-to-brisk pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17060",
       "METValue": 10.0,
-      "ActivityDescription": "Climbing hills, 20+ pound load, 5 to 20% grade, moderate to brisk pace"
+      "ActivityDescription": "Climbing hills, 20+ pound load, 5 to 20% grade, moderate to brisk pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17070",
       "METValue": 3.5,
-      "ActivityDescription": "Descending stairs"
+      "ActivityDescription": "Descending stairs",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17076",
       "METValue": 4.5,
-      "ActivityDescription": "Hauling water, head hauling, walking on flat surface"
+      "ActivityDescription": "Hauling water, head hauling, walking on flat surface",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17080",
       "METValue": 6.0,
-      "ActivityDescription": "Hiking, cross country (Taylor Code 040)"
+      "ActivityDescription": "Hiking, cross country (Taylor Code 040)",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17081",
       "METValue": 3.8,
-      "ActivityDescription": "Hiking slowly or ambling through fields and hillsides, no load"
+      "ActivityDescription": "Hiking slowly or ambling through fields and hillsides, no load",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17082",
       "METValue": 5.3,
-      "ActivityDescription": "Hiking or walking at a normal pace through fields and hillsides, no load"
+      "ActivityDescription": "Hiking or walking at a normal pace through fields and hillsides, no load",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17085",
       "METValue": 2.5,
-      "ActivityDescription": "Bird watching, walking and stopping"
+      "ActivityDescription": "Bird watching, walking and stopping",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17088",
       "METValue": 4.5,
-      "ActivityDescription": "Marching, moderate speed, military, no pack"
+      "ActivityDescription": "Marching, moderate speed, military, no pack",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17090",
       "METValue": 8.0,
-      "ActivityDescription": "Marching rapidly, military, no pack"
+      "ActivityDescription": "Marching rapidly, military, no pack",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17100",
       "METValue": 3.8,
-      "ActivityDescription": "Pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph"
+      "ActivityDescription": "Pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17105",
       "METValue": 3.8,
-      "ActivityDescription": "Pushing a wheelchair, non-occupational"
+      "ActivityDescription": "Pushing a wheelchair, non-occupational",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17110",
       "METValue": 6.5,
-      "ActivityDescription": "Race walking"
+      "ActivityDescription": "Race walking",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17130",
       "METValue": 8.0,
-      "ActivityDescription": "Stair climbing, using or climbing up ladder (Taylor Code 030)"
+      "ActivityDescription": "Stair climbing, using or climbing up ladder (Taylor Code 030)",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17131",
       "METValue": 6.8,
-      "ActivityDescription": "Stair climbing, general"
+      "ActivityDescription": "Stair climbing, general",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17133",
       "METValue": 4.5,
-      "ActivityDescription": "Stair climbing, slow pace"
+      "ActivityDescription": "Stair climbing, slow pace",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17134",
       "METValue": 9.3,
-      "ActivityDescription": "Stair climbing, fast pace, one step at a time"
+      "ActivityDescription": "Stair climbing, fast pace, one step at a time",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17136",
       "METValue": 7.5,
-      "ActivityDescription": "Stair climbing, two steps at a time"
+      "ActivityDescription": "Stair climbing, two steps at a time",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17138",
       "METValue": 7.5,
-      "ActivityDescription": "Stair climbing, ascending and descending stairs"
+      "ActivityDescription": "Stair climbing, ascending and descending stairs",
+      "systemIcon": "figure.stair.stepper"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17140",
       "METValue": 4.5,
-      "ActivityDescription": "Using crutches, level ground, general"
+      "ActivityDescription": "Using crutches, level ground, general",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17142",
       "METValue": 7.0,
-      "ActivityDescription": "Using crutches, fast pace"
+      "ActivityDescription": "Using crutches, fast pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17145",
       "METValue": 4.3,
-      "ActivityDescription": "Using medical knee scooter"
+      "ActivityDescription": "Using medical knee scooter",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17150",
       "METValue": 2.3,
-      "ActivityDescription": "Walking, household"
+      "ActivityDescription": "Walking, household",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17151",
       "METValue": 2.3,
-      "ActivityDescription": "Walking, less than 2.0 mph, level, strolling, very slow"
+      "ActivityDescription": "Walking, less than 2.0 mph, level, strolling, very slow",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17152",
       "METValue": 2.8,
-      "ActivityDescription": "Walking, 2.0 to 2.4 mph, level, slow pace, firm surface"
+      "ActivityDescription": "Walking, 2.0 to 2.4 mph, level, slow pace, firm surface",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17160",
       "METValue": 3.5,
-      "ActivityDescription": "Walking for pleasure (Taylor Code 010)"
+      "ActivityDescription": "Walking for pleasure (Taylor Code 010)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17161",
       "METValue": 2.5,
-      "ActivityDescription": "Walking from house to car or bus, from car or bus to go places, from car or bus to and from the worksite"
+      "ActivityDescription": "Walking from house to car or bus, from car or bus to go places, from car or bus to and from the worksite",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17162",
       "METValue": 2.5,
-      "ActivityDescription": "Walking to neighbor’s house or family’s house for social reasons"
+      "ActivityDescription": "Walking to neighbor’s house or family’s house for social reasons",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17165",
       "METValue": 3.0,
-      "ActivityDescription": "Walking the dog"
+      "ActivityDescription": "Walking the dog",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17170",
       "METValue": 3.0,
-      "ActivityDescription": "Walking, 2.5 mph, firm, level surface"
+      "ActivityDescription": "Walking, 2.5 mph, firm, level surface",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17180",
       "METValue": 3.3,
-      "ActivityDescription": "Walking, 2.5 mph, downhill"
+      "ActivityDescription": "Walking, 2.5 mph, downhill",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17190",
       "METValue": 3.8,
-      "ActivityDescription": "Walking, 2.8 to 3.4 mph, level, moderate pace, firm surface"
+      "ActivityDescription": "Walking, 2.8 to 3.4 mph, level, moderate pace, firm surface",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17200",
       "METValue": 4.8,
-      "ActivityDescription": "Walking, 3.5 to 3.9 mph, level, brisk, firm surface, walking for exercise"
+      "ActivityDescription": "Walking, 3.5 to 3.9 mph, level, brisk, firm surface, walking for exercise",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17220",
       "METValue": 5.5,
-      "ActivityDescription": "Walking, 4.0 to 4.4 mph (6.4 to 7.0 km/h), level, firm surface, very brisk pace"
+      "ActivityDescription": "Walking, 4.0 to 4.4 mph (6.4 to 7.0 km/h), level, firm surface, very brisk pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17230",
       "METValue": 7.0,
-      "ActivityDescription": "Walking, 4.5 to 4.9 mph, level, firm surface, very, very brisk"
+      "ActivityDescription": "Walking, 4.5 to 4.9 mph, level, firm surface, very, very brisk",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17231",
       "METValue": 8.5,
-      "ActivityDescription": "Walking, 5.0 to 5.5 mph (8.8 to 8.9 km/h), level, firm surface"
+      "ActivityDescription": "Walking, 5.0 to 5.5 mph (8.8 to 8.9 km/h), level, firm surface",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17250",
       "METValue": 3.5,
-      "ActivityDescription": "Walking, for pleasure, work break (Taylor Code xxx)"
+      "ActivityDescription": "Walking, for pleasure, work break (Taylor Code xxx)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17255",
       "METValue": 4.0,
-      "ActivityDescription": "Walking, self-selected speed, indoor track or outdoors, firm surface"
+      "ActivityDescription": "Walking, self-selected speed, indoor track or outdoors, firm surface",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17260",
       "METValue": 4.8,
-      "ActivityDescription": "Walking, grass track"
+      "ActivityDescription": "Walking, grass track",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17262",
       "METValue": 4.5,
-      "ActivityDescription": "Walking, normal pace, plowed field or sand"
+      "ActivityDescription": "Walking, normal pace, plowed field or sand",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17270",
       "METValue": 4.0,
-      "ActivityDescription": "Walking, to work or class (Taylor Code 015)"
+      "ActivityDescription": "Walking, to work or class (Taylor Code 015)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17280",
       "METValue": 2.5,
-      "ActivityDescription": "Walking, to and from an outhouse"
+      "ActivityDescription": "Walking, to and from an outhouse",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17302",
       "METValue": 4.3,
-      "ActivityDescription": "Walking, for exercise, 2.5 to 3.5 mph (4.0 to 5.6 km/h), with ski poles, Nordic walking, level, moderate pace"
+      "ActivityDescription": "Walking, for exercise, 2.5 to 3.5 mph (4.0 to 5.6 km/h), with ski poles, Nordic walking, level, moderate pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17304",
       "METValue": 5.3,
-      "ActivityDescription": "Walking, for exercise, 3.6 to 4.4 mph (5.8 to 7.1 km/h), with ski poles, Nordic walking, level, moderate pace"
+      "ActivityDescription": "Walking, for exercise, 3.6 to 4.4 mph (5.8 to 7.1 km/h), with ski poles, Nordic walking, level, moderate pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17305",
       "METValue": 8.5,
-      "ActivityDescription": "Walking, for exercise, 4.5 to 5.0 mph, with ski poles, Nordic walking, level, fast pace"
+      "ActivityDescription": "Walking, for exercise, 4.5 to 5.0 mph, with ski poles, Nordic walking, level, fast pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17310",
       "METValue": 8.8,
-      "ActivityDescription": "Walking, for exercise, with ski poles, Nordic walking, uphill, moderate pace"
+      "ActivityDescription": "Walking, for exercise, with ski poles, Nordic walking, uphill, moderate pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17313",
       "METValue": 10.8,
-      "ActivityDescription": "Walking, for exercise, with ski poles, Nordic walking, level ground, carrying 20 to 30 lb load (9.0 to 15.0 kg)"
+      "ActivityDescription": "Walking, for exercise, with ski poles, Nordic walking, level ground, carrying 20 to 30 lb load (9.0 to 15.0 kg)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17315",
       "METValue": 12.3,
-      "ActivityDescription": "Walking, for exercise, with ski poles, Nordic walking, uphill, carrying 20 to 30 lb load (9.0 to 15.0 kg)"
+      "ActivityDescription": "Walking, for exercise, with ski poles, Nordic walking, uphill, carrying 20 to 30 lb load (9.0 to 15.0 kg)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17320",
       "METValue": 6.0,
-      "ActivityDescription": "Walking, backward, 3.5 mph, level"
+      "ActivityDescription": "Walking, backward, 3.5 mph, level",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17325",
       "METValue": 7.8,
-      "ActivityDescription": "Walking, backward, 3.5 mph, uphill, 5% grade"
+      "ActivityDescription": "Walking, backward, 3.5 mph, uphill, 5% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17330",
       "METValue": 8.0,
-      "ActivityDescription": "Walking, Teabag walk, Monty Python Ministry of Silly Walks"
+      "ActivityDescription": "Walking, Teabag walk, Monty Python Ministry of Silly Walks",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17332",
       "METValue": 3.5,
-      "ActivityDescription": "Walking, Putey walk, Monty Python Ministry of Silly Walks"
+      "ActivityDescription": "Walking, Putey walk, Monty Python Ministry of Silly Walks",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17340",
       "METValue": 2.1,
-      "ActivityDescription": "Walking, treadmill, less than 1.0 mph, 0% grade"
+      "ActivityDescription": "Walking, treadmill, less than 1.0 mph, 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17343",
       "METValue": 2.3,
-      "ActivityDescription": "Walking, treadmill, 1.0 mph, 0% grade"
+      "ActivityDescription": "Walking, treadmill, 1.0 mph, 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17346",
       "METValue": 2.8,
-      "ActivityDescription": "Walking, treadmill, 1.2 to 1.9 mph, 0% grade (1.9 to 3.0 km/h)"
+      "ActivityDescription": "Walking, treadmill, 1.2 to 1.9 mph, 0% grade (1.9 to 3.0 km/h)",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17349",
       "METValue": 3.0,
-      "ActivityDescription": "Walking, treadmill, 2.0 to 2.4 mph (3.2 to 3.9 km/h), 0% grade"
+      "ActivityDescription": "Walking, treadmill, 2.0 to 2.4 mph (3.2 to 3.9 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17352",
       "METValue": 3.5,
-      "ActivityDescription": "Walking, treadmill, 2.5 to 2.9 mph (4.0 to 4.7 km/h), 0% grade"
+      "ActivityDescription": "Walking, treadmill, 2.5 to 2.9 mph (4.0 to 4.7 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17355",
       "METValue": 3.8,
-      "ActivityDescription": "Walking, treadmill, 3.0 to 3.4 mph (4.8 to 5.5 km/h), 0% grade"
+      "ActivityDescription": "Walking, treadmill, 3.0 to 3.4 mph (4.8 to 5.5 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17358",
       "METValue": 4.8,
-      "ActivityDescription": "Walking, treadmill, 3.5 to 3.9 mph (5.6 to 6.3 km/h), 0% grade"
+      "ActivityDescription": "Walking, treadmill, 3.5 to 3.9 mph (5.6 to 6.3 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17361",
       "METValue": 5.8,
-      "ActivityDescription": "Walking, treadmill, 4.0 to 4.4 mph (6.4 to 7.1 km/h), 0% grade"
+      "ActivityDescription": "Walking, treadmill, 4.0 to 4.4 mph (6.4 to 7.1 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17364",
       "METValue": 6.8,
-      "ActivityDescription": "Walking, treadmill, 4.5 to 4.9 mph (7.2 to 7.9 km/h), 0% grade"
+      "ActivityDescription": "Walking, treadmill, 4.5 to 4.9 mph (7.2 to 7.9 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17367",
       "METValue": 8.3,
-      "ActivityDescription": "Walking, treadmill, 5.0 to 5.5 mph (8.0 to 8.9 km/h), 0% grade"
+      "ActivityDescription": "Walking, treadmill, 5.0 to 5.5 mph (8.0 to 8.9 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17382",
       "METValue": 3.3,
-      "ActivityDescription": "Walking, treadmill, downhill (-3% to -12% grade), 2.8 to 3.1 mph"
+      "ActivityDescription": "Walking, treadmill, downhill (-3% to -12% grade), 2.8 to 3.1 mph",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17412",
       "METValue": 3.3,
-      "ActivityDescription": "Walking, treadmill, downhill (-5% to -25% grade), 2.8 mph, with Nordic Poles"
+      "ActivityDescription": "Walking, treadmill, downhill (-5% to -25% grade), 2.8 mph, with Nordic Poles",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17434",
       "METValue": 4.8,
-      "ActivityDescription": "Walking, treadmill, 2.5 mph, 0% grade, 5 to 20 degrees C, 40 lb (18.2 kg) load"
+      "ActivityDescription": "Walking, treadmill, 2.5 mph, 0% grade, 5 to 20 degrees C, 40 lb (18.2 kg) load",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17438",
       "METValue": 5.8,
-      "ActivityDescription": "Walking, treadmill, 2.5 mph, 0% grade, -10 to 0 degrees C, 40 lb (18.2 kg) load"
+      "ActivityDescription": "Walking, treadmill, 2.5 mph, 0% grade, -10 to 0 degrees C, 40 lb (18.2 kg) load",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17455",
       "METValue": 8.3,
-      "ActivityDescription": "Walking, Curved treadmill, 3.0 to 5.0 mph, brisk pace"
+      "ActivityDescription": "Walking, Curved treadmill, 3.0 to 5.0 mph, brisk pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17475",
       "METValue": 7.8,
-      "ActivityDescription": "Walking treadmill, backwards, 2.5 mph, +10% grade"
+      "ActivityDescription": "Walking treadmill, backwards, 2.5 mph, +10% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Walking",
       "ActivityCode": "17492",
       "METValue": 1.5,
-      "ActivityDescription": "Walking, with a walker or step-to gait on treadmill, 0.7 mph (1.1 km/h), 0% grade"
+      "ActivityDescription": "Walking, with a walker or step-to gait on treadmill, 0.7 mph (1.1 km/h), 0% grade",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Water Activities",
@@ -4755,49 +5251,57 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18020",
       "METValue": 4.0,
-      "ActivityDescription": "Canoeing, on camping trip (Taylor Code 270)"
+      "ActivityDescription": "Canoeing, on camping trip (Taylor Code 270)",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18025",
       "METValue": 3.3,
-      "ActivityDescription": "Canoeing, harvesting wild rice, knocking rice off the stalks"
+      "ActivityDescription": "Canoeing, harvesting wild rice, knocking rice off the stalks",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18030",
       "METValue": 7.0,
-      "ActivityDescription": "Canoeing, portaging"
+      "ActivityDescription": "Canoeing, portaging",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18040",
       "METValue": 2.8,
-      "ActivityDescription": "Canoeing, rowing, 2.0-3.9 mph, light effort"
+      "ActivityDescription": "Canoeing, rowing, 2.0-3.9 mph, light effort",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18050",
       "METValue": 5.8,
-      "ActivityDescription": "Canoeing, rowing, 4.0-5.9 mph, moderate effort"
+      "ActivityDescription": "Canoeing, rowing, 4.0-5.9 mph, moderate effort",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18060",
       "METValue": 12.5,
-      "ActivityDescription": "Canoeing, rowing, kayaking, competition, > 6 mph, vigorous effort"
+      "ActivityDescription": "Canoeing, rowing, kayaking, competition, > 6 mph, vigorous effort",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18070",
       "METValue": 3.5,
-      "ActivityDescription": "Canoeing, rowing, for pleasure, general (Taylor Code 250)"
+      "ActivityDescription": "Canoeing, rowing, for pleasure, general (Taylor Code 250)",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18080",
       "METValue": 12.0,
-      "ActivityDescription": "Canoeing or rowing, in competition, crew or sculling (Taylor Code 260)"
+      "ActivityDescription": "Canoeing or rowing, in competition, crew or sculling (Taylor Code 260)",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
@@ -4809,19 +5313,22 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18100",
       "METValue": 5.0,
-      "ActivityDescription": "Kayaking, moderate effort"
+      "ActivityDescription": "Kayaking, moderate effort",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18104",
       "METValue": 13.5,
-      "ActivityDescription": "Kayaking, competition"
+      "ActivityDescription": "Kayaking, competition",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18106",
       "METValue": 9.0,
-      "ActivityDescription": "Kayaking, slalom, flat water"
+      "ActivityDescription": "Kayaking, slalom, flat water",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
@@ -4833,43 +5340,50 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18112",
       "METValue": 15.5,
-      "ActivityDescription": "Rowing, simulated crew in a water tank, single oar, 33 strokes/min,"
+      "ActivityDescription": "Rowing, simulated crew in a water tank, single oar, 33 strokes/min,",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18114",
       "METValue": 15.5,
-      "ActivityDescription": "Rowing, single scull, ergometer, ergometer on slides, racing speed (32+ strokes/min, >10 mph)"
+      "ActivityDescription": "Rowing, single scull, ergometer, ergometer on slides, racing speed (32+ strokes/min, >10 mph)",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18120",
       "METValue": 3.0,
-      "ActivityDescription": "Sailing, boat and board sailing, windsurfing, ice sailing, general (Taylor Code 235)"
+      "ActivityDescription": "Sailing, boat and board sailing, windsurfing, ice sailing, general (Taylor Code 235)",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18130",
       "METValue": 4.5,
-      "ActivityDescription": "Sailing, in competition, general"
+      "ActivityDescription": "Sailing, in competition, general",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18132",
       "METValue": 9.3,
-      "ActivityDescription": "Sailing, in competition, high effort"
+      "ActivityDescription": "Sailing, in competition, high effort",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18140",
       "METValue": 3.3,
-      "ActivityDescription": "Sailing, Sunfish/Laser/Hobby Cat, Keel boats, ocean sailing, yachting, leisure"
+      "ActivityDescription": "Sailing, Sunfish/Laser/Hobby Cat, Keel boats, ocean sailing, yachting, leisure",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18142",
       "METValue": 2.0,
-      "ActivityDescription": "Sailing, dingy"
+      "ActivityDescription": "Sailing, dingy",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
@@ -4935,19 +5449,22 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18220",
       "METValue": 3.0,
-      "ActivityDescription": "Surfing, body or board, general"
+      "ActivityDescription": "Surfing, body or board, general",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18221",
       "METValue": 6.8,
-      "ActivityDescription": "Surfboard, paddling"
+      "ActivityDescription": "Surfboard, paddling",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18222",
       "METValue": 5.0,
-      "ActivityDescription": "Surfing, body or board, competitive"
+      "ActivityDescription": "Surfing, body or board, competitive",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Water Activities",
@@ -4989,109 +5506,127 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18230",
       "METValue": 9.8,
-      "ActivityDescription": "Swimming laps, freestyle, fast, vigorous effort"
+      "ActivityDescription": "Swimming laps, freestyle, fast, vigorous effort",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18240",
       "METValue": 5.8,
-      "ActivityDescription": "Swimming laps, freestyle, slow, recreational"
+      "ActivityDescription": "Swimming laps, freestyle, slow, recreational",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18250",
       "METValue": 9.5,
-      "ActivityDescription": "Swimming, backstroke, training or competition"
+      "ActivityDescription": "Swimming, backstroke, training or competition",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18255",
       "METValue": 4.8,
-      "ActivityDescription": "Swimming, backstroke, recreational"
+      "ActivityDescription": "Swimming, backstroke, recreational",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18260",
       "METValue": 10.3,
-      "ActivityDescription": "Swimming, breaststroke, general, training or competition"
+      "ActivityDescription": "Swimming, breaststroke, general, training or competition",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18265",
       "METValue": 5.3,
-      "ActivityDescription": "Swimming breaststroke, recreational"
+      "ActivityDescription": "Swimming breaststroke, recreational",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18270",
       "METValue": 13.8,
-      "ActivityDescription": "Swimming, butterfly, general"
+      "ActivityDescription": "Swimming, butterfly, general",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18280",
       "METValue": 10.5,
-      "ActivityDescription": "Swimming, crawl, fast speed, ~75 yards/minute, vigorous effort"
+      "ActivityDescription": "Swimming, crawl, fast speed, ~75 yards/minute, vigorous effort",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18285",
       "METValue": 10.5,
-      "ActivityDescription": "Swimming, open water, 5k"
+      "ActivityDescription": "Swimming, open water, 5k",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18290",
       "METValue": 8.0,
-      "ActivityDescription": "Swimming, crawl, medium speed, ~50 yards/minute, vigorous effort"
+      "ActivityDescription": "Swimming, crawl, medium speed, ~50 yards/minute, vigorous effort",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18292",
       "METValue": 5.8,
-      "ActivityDescription": "Swimming, crawl, slow speed, 30-45 yards/minute, moderate effort"
+      "ActivityDescription": "Swimming, crawl, slow speed, 30-45 yards/minute, moderate effort",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18294",
       "METValue": 14.5,
-      "ActivityDescription": "Swimming, crawl, elite swimmers, competition, >90 yards/minute"
+      "ActivityDescription": "Swimming, crawl, elite swimmers, competition, >90 yards/minute",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18300",
       "METValue": 6.0,
-      "ActivityDescription": "Swimming, lake, ocean, river (Taylor Codes 280, 295)"
+      "ActivityDescription": "Swimming, lake, ocean, river (Taylor Codes 280, 295)",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18310",
       "METValue": 6.0,
-      "ActivityDescription": "Swimming, leisurely, not lap swimming, general"
+      "ActivityDescription": "Swimming, leisurely, not lap swimming, general",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18320",
       "METValue": 7.0,
-      "ActivityDescription": "Swimming, sidestroke, general"
+      "ActivityDescription": "Swimming, sidestroke, general",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18330",
       "METValue": 8.0,
-      "ActivityDescription": "Swimming, synchronized"
+      "ActivityDescription": "Swimming, synchronized",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18340",
       "METValue": 9.8,
-      "ActivityDescription": "Swimming, treading water, fast, vigorous effort"
+      "ActivityDescription": "Swimming, treading water, fast, vigorous effort",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18350",
       "METValue": 3.5,
-      "ActivityDescription": "Swimming, treading water, moderate effort, general"
+      "ActivityDescription": "Swimming, treading water, moderate effort, general",
+      "systemIcon": "figure.pool.swim"
     },
     {
       "MajorHeading": "Water Activities",
@@ -5103,103 +5638,120 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18355",
       "METValue": 5.5,
-      "ActivityDescription": "Water aerobics, water calisthenics, general"
+      "ActivityDescription": "Water aerobics, water calisthenics, general",
+      "systemIcon": "figure.water.fitness"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18356",
       "METValue": 3.8,
-      "ActivityDescription": "Water aerobics, resistance exercises"
+      "ActivityDescription": "Water aerobics, resistance exercises",
+      "systemIcon": "figure.water.fitness"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18358",
       "METValue": 7.5,
-      "ActivityDescription": "Water aerobics, high intensity"
+      "ActivityDescription": "Water aerobics, high intensity",
+      "systemIcon": "figure.water.fitness"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18360",
       "METValue": 10.0,
-      "ActivityDescription": "Water polo"
+      "ActivityDescription": "Water polo",
+      "systemIcon": "figure.waterpolo"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18365",
       "METValue": 3.0,
-      "ActivityDescription": "Water volleyball"
+      "ActivityDescription": "Water volleyball",
+      "systemIcon": "figure.volleyball"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18366",
       "METValue": 9.8,
-      "ActivityDescription": "Water jogging, vigorous effort"
+      "ActivityDescription": "Water jogging, vigorous effort",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18367",
       "METValue": 2.5,
-      "ActivityDescription": "Water walking, light effort, slow pace"
+      "ActivityDescription": "Water walking, light effort, slow pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18368",
       "METValue": 4.8,
-      "ActivityDescription": "Water walking, moderate effort, moderate pace"
+      "ActivityDescription": "Water walking, moderate effort, moderate pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18369",
       "METValue": 6.8,
-      "ActivityDescription": "Water walking, vigorous effort, brisk pace"
+      "ActivityDescription": "Water walking, vigorous effort, brisk pace",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18370",
       "METValue": 5.0,
-      "ActivityDescription": "Whitewater rafting, kayaking, or canoeing"
+      "ActivityDescription": "Whitewater rafting, kayaking, or canoeing",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18374",
       "METValue": 6.5,
-      "ActivityDescription": "Water running, 30 steps/min, slow"
+      "ActivityDescription": "Water running, 30 steps/min, slow",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18375",
       "METValue": 7.5,
-      "ActivityDescription": "Water running, 40 steps/min, moderate"
+      "ActivityDescription": "Water running, 40 steps/min, moderate",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18376",
       "METValue": 8.5,
-      "ActivityDescription": "Water running, 50 steps/min, fast"
+      "ActivityDescription": "Water running, 50 steps/min, fast",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18377",
       "METValue": 9.8,
-      "ActivityDescription": "Water running, 60 steps/min, very fast"
+      "ActivityDescription": "Water running, 60 steps/min, very fast",
+      "systemIcon": "figure.run"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18380",
       "METValue": 5.0,
-      "ActivityDescription": "Windsurfing, not pumping for speed"
+      "ActivityDescription": "Windsurfing, not pumping for speed",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18385",
       "METValue": 11.0,
-      "ActivityDescription": "Windsurfing or kitesurfing, crossing trial"
+      "ActivityDescription": "Windsurfing or kitesurfing, crossing trial",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18390",
       "METValue": 14.0,
-      "ActivityDescription": "Windsurfing, competition, pumping for speed"
+      "ActivityDescription": "Windsurfing, competition, pumping for speed",
+      "systemIcon": "figure.sailing"
     },
     {
       "MajorHeading": "Water Activities",
@@ -5289,163 +5841,190 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19018",
       "METValue": 14.0,
-      "ActivityDescription": "Skating, ice dancing"
+      "ActivityDescription": "Skating, ice dancing",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19020",
       "METValue": 5.5,
-      "ActivityDescription": "Skating, ice, 9 mph or less"
+      "ActivityDescription": "Skating, ice, 9 mph or less",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19030",
       "METValue": 7.0,
-      "ActivityDescription": "Skating, ice, general (Taylor Code 360)"
+      "ActivityDescription": "Skating, ice, general (Taylor Code 360)",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19040",
       "METValue": 9.0,
-      "ActivityDescription": "Skating, ice, rapidly, more than 9 mph but not competitive"
+      "ActivityDescription": "Skating, ice, rapidly, more than 9 mph but not competitive",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19045",
       "METValue": 9.0,
-      "ActivityDescription": "Skating Treadmill, 6 - 6.9 mph, 2% grade"
+      "ActivityDescription": "Skating Treadmill, 6 - 6.9 mph, 2% grade",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19046",
       "METValue": 10.0,
-      "ActivityDescription": "Skating Treadmill, 7 - 7.9 mph, 2% grade"
+      "ActivityDescription": "Skating Treadmill, 7 - 7.9 mph, 2% grade",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19047",
       "METValue": 10.5,
-      "ActivityDescription": "Skating Treadmill, 8 - 8.9 mph, 2% grade"
+      "ActivityDescription": "Skating Treadmill, 8 - 8.9 mph, 2% grade",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19048",
       "METValue": 11.0,
-      "ActivityDescription": "Skating Treadmill, 9 - 9.9 mph, 2% grade"
+      "ActivityDescription": "Skating Treadmill, 9 - 9.9 mph, 2% grade",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19050",
       "METValue": 13.8,
-      "ActivityDescription": "Skating, speed, competitive"
+      "ActivityDescription": "Skating, speed, competitive",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19060",
       "METValue": 7.0,
-      "ActivityDescription": "Ski jumping, climb up carrying skis"
+      "ActivityDescription": "Ski jumping, climb up carrying skis",
+      "systemIcon": "figure.skiing.downhill"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19075",
       "METValue": 7.0,
-      "ActivityDescription": "Skiing, general"
+      "ActivityDescription": "Skiing, general",
+      "systemIcon": "figure.skiing.downhill"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19080",
       "METValue": 6.8,
-      "ActivityDescription": "Skiing, cross country, 2.5 mph, slow or light effort, ski walking"
+      "ActivityDescription": "Skiing, cross country, 2.5 mph, slow or light effort, ski walking",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19090",
       "METValue": 8.5,
-      "ActivityDescription": "Skiing, cross country, 4.0-4.9 mph, moderate speed and effort, general"
+      "ActivityDescription": "Skiing, cross country, 4.0-4.9 mph, moderate speed and effort, general",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19100",
       "METValue": 11.3,
-      "ActivityDescription": "Skiing, cross country, 5.0-7.9 mph, brisk speed, vigorous effort"
+      "ActivityDescription": "Skiing, cross country, 5.0-7.9 mph, brisk speed, vigorous effort",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19110",
       "METValue": 14.0,
-      "ActivityDescription": "Skiing, cross country, elite skier, >8.0-11.9 mph, racing"
+      "ActivityDescription": "Skiing, cross country, elite skier, >8.0-11.9 mph, racing",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19112",
       "METValue": 16.0,
-      "ActivityDescription": "Skiing, cross country, 12-16 mph, elite skier, racing"
+      "ActivityDescription": "Skiing, cross country, 12-16 mph, elite skier, racing",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19115",
       "METValue": 9.5,
-      "ActivityDescription": "Skiing, cross-country skiing high-intensity training"
+      "ActivityDescription": "Skiing, cross-country skiing high-intensity training",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19130",
       "METValue": 15.5,
-      "ActivityDescription": "Skiing, cross country, hard snow, uphill, maximum, snow mountaineering"
+      "ActivityDescription": "Skiing, cross country, hard snow, uphill, maximum, snow mountaineering",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19135",
       "METValue": 13.3,
-      "ActivityDescription": "Skiing, cross-country, skating"
+      "ActivityDescription": "Skiing, cross-country, skating",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19140",
       "METValue": 13.5,
-      "ActivityDescription": "Skiing, cross-country, biathlon, skating technique"
+      "ActivityDescription": "Skiing, cross-country, biathlon, skating technique",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19142",
       "METValue": 12.8,
-      "ActivityDescription": "Biathlon training, 5 degree incline, 8 km/h (5 mph), with/without rifle"
+      "ActivityDescription": "Biathlon training, 5 degree incline, 8 km/h (5 mph), with/without rifle",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19144",
       "METValue": 12.8,
-      "ActivityDescription": "Biathlon training, 5 degree incline, 10.7 km/h (5 mph), with/without rifle"
+      "ActivityDescription": "Biathlon training, 5 degree incline, 10.7 km/h (5 mph), with/without rifle",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19146",
       "METValue": 9.3,
-      "ActivityDescription": "Skiing, slalom"
+      "ActivityDescription": "Skiing, slalom",
+      "systemIcon": "figure.skiing.downhill"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19150",
       "METValue": 4.3,
-      "ActivityDescription": "Skiing, downhill, alpine or snowboarding, light effort, active time only"
+      "ActivityDescription": "Skiing, downhill, alpine or snowboarding, light effort, active time only",
+      "systemIcon": "figure.skiing.downhill"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19160",
       "METValue": 6.3,
-      "ActivityDescription": "Skiing, downhill, alpine or snowboarding, moderate effort, general, active time only"
+      "ActivityDescription": "Skiing, downhill, alpine or snowboarding, moderate effort, general, active time only",
+      "systemIcon": "figure.skiing.downhill"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19170",
       "METValue": 8.0,
-      "ActivityDescription": "Skiing, downhill, alpine or snowboarding, vigorous effort, active time only"
+      "ActivityDescription": "Skiing, downhill, alpine or snowboarding, vigorous effort, active time only",
+      "systemIcon": "figure.skiing.downhill"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19174",
       "METValue": 7.3,
-      "ActivityDescription": "Skiing, Alpine skiing high-intensity training"
+      "ActivityDescription": "Skiing, Alpine skiing high-intensity training",
+      "systemIcon": "figure.skiing.downhill"
     },
     {
       "MajorHeading": "Winter Activities",
@@ -5457,13 +6036,15 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19190",
       "METValue": 5.3,
-      "ActivityDescription": "Snow shoeing, moderate effort"
+      "ActivityDescription": "Snow shoeing, moderate effort",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19192",
       "METValue": 10.0,
-      "ActivityDescription": "Snow shoeing, vigorous effort"
+      "ActivityDescription": "Snow shoeing, vigorous effort",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Winter Activities",
@@ -5475,7 +6056,8 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19201",
       "METValue": 7.5,
-      "ActivityDescription": "Snowboarding, recreational, moderate pace, mountain"
+      "ActivityDescription": "Snowboarding, recreational, moderate pace, mountain",
+      "systemIcon": "figure.snowboarding"
     },
     {
       "MajorHeading": "Winter Activities",
@@ -5511,55 +6093,64 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19305",
       "METValue": 5.5,
-      "ActivityDescription": "Rollerskiing, 10 - 12.9 km/h, no incline"
+      "ActivityDescription": "Rollerskiing, 10 - 12.9 km/h, no incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19310",
       "METValue": 6.8,
-      "ActivityDescription": "Rollerskiing, 13 - 16.9 km/h, no incline"
+      "ActivityDescription": "Rollerskiing, 13 - 16.9 km/h, no incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19315",
       "METValue": 8.3,
-      "ActivityDescription": "Rollerskiing, 17 - 19.9 km/h, no incline"
+      "ActivityDescription": "Rollerskiing, 17 - 19.9 km/h, no incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19320",
       "METValue": 10.5,
-      "ActivityDescription": "Rollerskiing, 20 - 23.9 km/h, no incline"
+      "ActivityDescription": "Rollerskiing, 20 - 23.9 km/h, no incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19325",
       "METValue": 15.0,
-      "ActivityDescription": "Rollerskiing, 24 - 27.9 km/h, no incline"
+      "ActivityDescription": "Rollerskiing, 24 - 27.9 km/h, no incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19330",
       "METValue": 12.5,
-      "ActivityDescription": "Rollerskiing, 10-15 km/h, 2-5 degree incline"
+      "ActivityDescription": "Rollerskiing, 10-15 km/h, 2-5 degree incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19335",
       "METValue": 14.3,
-      "ActivityDescription": "Rollerskiing, 16-22 km/h, 2-5 degree incline"
+      "ActivityDescription": "Rollerskiing, 16-22 km/h, 2-5 degree incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19340",
       "METValue": 12.3,
-      "ActivityDescription": "Rollerskiing, 6-9 km/h, 6-10 degree incline"
+      "ActivityDescription": "Rollerskiing, 6-9 km/h, 6-10 degree incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19345",
       "METValue": 16.0,
-      "ActivityDescription": "Rollerskiing, >10 km/h, 6-10 degree incline"
+      "ActivityDescription": "Rollerskiing, >10 km/h, 6-10 degree incline",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Winter Activities",
@@ -5571,7 +6162,8 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19405",
       "METValue": 10.3,
-      "ActivityDescription": "Mountaineering, downhill climbing/cross-country skiing"
+      "ActivityDescription": "Mountaineering, downhill climbing/cross-country skiing",
+      "systemIcon": "figure.skiing.crosscountry"
     },
     {
       "MajorHeading": "Religious Activities",
@@ -5835,49 +6427,57 @@
       "MajorHeading": "Video Games",
       "ActivityCode": "22040",
       "METValue": 1.3,
-      "ActivityDescription": "Seated, video game, handheld controller (inactive)"
+      "ActivityDescription": "Seated, video game, handheld controller (inactive)",
+      "systemIcon": "gamecontroller.fill"
     },
     {
       "MajorHeading": "Video Games",
       "ActivityCode": "22120",
       "METValue": 1.5,
-      "ActivityDescription": "Video game, handheld controller (light effort)"
+      "ActivityDescription": "Video game, handheld controller (light effort)",
+      "systemIcon": "gamecontroller.fill"
     },
     {
       "MajorHeading": "Video Games",
       "ActivityCode": "22160",
       "METValue": 2.3,
-      "ActivityDescription": "Video game, light effort (Wii Fit, yoga, bowling, etc)"
+      "ActivityDescription": "Video game, light effort (Wii Fit, yoga, bowling, etc)",
+      "systemIcon": "gamecontroller.fill"
     },
     {
       "MajorHeading": "Video Games",
       "ActivityCode": "22200",
       "METValue": 3.0,
-      "ActivityDescription": "Active video game, motion sensing game/using upper body (light to moderate effort)"
+      "ActivityDescription": "Active video game, motion sensing game/using upper body (light to moderate effort)",
+      "systemIcon": "gamecontroller.fill"
     },
     {
       "MajorHeading": "Video Games",
       "ActivityCode": "22240",
       "METValue": 4.0,
-      "ActivityDescription": "Active video game, motion sensing game/using total body (moderate effort)"
+      "ActivityDescription": "Active video game, motion sensing game/using total body (moderate effort)",
+      "systemIcon": "gamecontroller.fill"
     },
     {
       "MajorHeading": "Video Games",
       "ActivityCode": "22280",
       "METValue": 5.0,
-      "ActivityDescription": "Active video game, motion sensing game/using total body (moderate-to-vigorous effort)"
+      "ActivityDescription": "Active video game, motion sensing game/using total body (moderate-to-vigorous effort)",
+      "systemIcon": "gamecontroller.fill"
     },
     {
       "MajorHeading": "Video Games",
       "ActivityCode": "22320",
       "METValue": 7.5,
-      "ActivityDescription": "Active video game, motion sensing game/using total body, exergames, workouts, dancing (vigorous effort)"
+      "ActivityDescription": "Active video game, motion sensing game/using total body, exergames, workouts, dancing (vigorous effort)",
+      "systemIcon": "gamecontroller.fill"
     },
     {
       "MajorHeading": "Video Games",
       "ActivityCode": "22360",
       "METValue": 9.8,
-      "ActivityDescription": "Conditioning/exercise virtual reality fitness, vigorous intensity"
+      "ActivityDescription": "Conditioning/exercise virtual reality fitness, vigorous intensity",
+      "systemIcon": "gamecontroller.fill"
     }
   ]
 }

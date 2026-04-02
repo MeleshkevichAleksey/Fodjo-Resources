@@ -8,12 +8,6 @@
     },
     {
       "MajorHeading": "Bicycling",
-      "ActivityCode": "01004",
-      "METValue": 16.0,
-      "ActivityDescription": "Bicycling, mountain, competitive racing"
-    },
-    {
-      "MajorHeading": "Bicycling",
       "ActivityCode": "01008",
       "METValue": 8.5,
       "ActivityDescription": "Bicycling, BMX"
@@ -22,19 +16,13 @@
       "MajorHeading": "Bicycling",
       "ActivityCode": "01009",
       "METValue": 8.5,
-      "ActivityDescription": "Bicycling, mountain, general"
+      "ActivityDescription": "Bicycling, mountain"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01010",
       "METValue": 4.0,
-      "ActivityDescription": "Bicycling, <10 mph, leisure, to work or for pleasure (Taylor Code 115)"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01011",
-      "METValue": 6.8,
-      "ActivityDescription": "Bicycling, to/from work, self selected pace"
+      "ActivityDescription": "Bicycling, <10 mph, leisure"
     },
     {
       "MajorHeading": "Bicycling",
@@ -70,13 +58,13 @@
       "MajorHeading": "Bicycling",
       "ActivityCode": "01018",
       "METValue": 3.5,
-      "ActivityDescription": "Bicycling, leisure 5.5 mph"
+      "ActivityDescription": "Bicycling 5.5 mph"
     },
     {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01019",
       "METValue": 5.8,
-      "ActivityDescription": "Bicycling, leisure, 9.4 mph"
+      "ActivityDescription": "Bicycling 9.4 mph"
     },
     {
       "MajorHeading": "Bicycling",
@@ -110,24 +98,6 @@
     },
     {
       "MajorHeading": "Bicycling",
-      "ActivityCode": "01065",
-      "METValue": 8.5,
-      "ActivityDescription": "Bicycling, 12 mph, seated, hands on brake hoods or bar drops, 80 rpm"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01066",
-      "METValue": 9.0,
-      "ActivityDescription": "Bicycling, 12 mph, standing, hands on brake hoods, 60 rpm"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01070",
-      "METValue": 5.0,
-      "ActivityDescription": "Unicycling"
-    },
-    {
-      "MajorHeading": "Bicycling",
       "ActivityCode": "01080",
       "METValue": 6.8,
       "ActivityDescription": "E-bike (electrically assisted) without electronic support"
@@ -143,122 +113,7 @@
       "ActivityCode": "01088",
       "METValue": 4.0,
       "ActivityDescription": "E-bike (electrically assisted) with high electronic support"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01200",
-      "METValue": 6.8,
-      "ActivityDescription": "Bicycling, stationary, general"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01210",
-      "METValue": 3.5,
-      "ActivityDescription": "Bicycling, stationary, 25-30 watts, very light to light effort"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01214",
-      "METValue": 4.0,
-      "ActivityDescription": "Bicycling, stationary, 50 watts, light effort"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01216",
-      "METValue": 5.0,
-      "ActivityDescription": "Bicycling, stationary, 60 watts, light to moderate effort"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01218",
-      "METValue": 5.8,
-      "ActivityDescription": "Bicycling, stationary, 70-80 watts"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01220",
-      "METValue": 6.0,
-      "ActivityDescription": "Bicycling, stationary, 90-100 watts, moderate to vigorous"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01224",
-      "METValue": 6.8,
-      "ActivityDescription": "Bicycling, stationary, 101-125 watts"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01228",
-      "METValue": 8.0,
-      "ActivityDescription": "Bicycling, stationary, 126-150 watts"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01232",
-      "METValue": 10.3,
-      "ActivityDescription": "Bicycling, stationary, 151-199 watts"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01236",
-      "METValue": 10.8,
-      "ActivityDescription": "Bicycling, stationary, 200-229 watts, vigorous"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01240",
-      "METValue": 12.5,
-      "ActivityDescription": "Bicycling, stationary, 230-250 watts, very vigorous"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01244",
-      "METValue": 13.8,
-      "ActivityDescription": "Bicycling, stationary, 270-305 watts, very vigorous"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01248",
-      "METValue": 16.3,
-      "ActivityDescription": "Bicycling, stationary, >325 watts, very vigorous"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01252",
-      "METValue": 5.5,
-      "ActivityDescription": "Bicycling, concentric only, 100 W"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01254",
-      "METValue": 11.0,
-      "ActivityDescription": "Bicycling, concentric only, 200 W"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01262",
-      "METValue": 2.3,
-      "ActivityDescription": "Bicycling, eccentric only, 100 to 149 W"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01264",
-      "METValue": 4.0,
-      "ActivityDescription": "Bicycling, eccentric only, 200 W"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01270",
-      "METValue": 9.0,
-      "ActivityDescription": "Bicycling, stationary, RPM/Spin bike class"
-    },
-    {
-      "MajorHeading": "Bicycling",
-      "ActivityCode": "01290",
-      "METValue": 8.8,
-      "ActivityDescription": "Bicycling, interactive virtual cycling, indoor cycle ergometer"
-    },
-    {
+    },  {
       "MajorHeading": "Bicycling",
       "ActivityCode": "01305",
       "METValue": 8.8,
@@ -340,7 +195,7 @@
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02030",
       "METValue": 3.5,
-      "ActivityDescription": "Calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor (Taylor Code 150)"
+      "ActivityDescription": "Calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor"
     },
     {
       "MajorHeading": "Conditioning Exercise",
@@ -404,12 +259,6 @@
     },
     {
       "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02055",
-      "METValue": 5.8,
-      "ActivityDescription": "Resistance Training, circuit, reciprocol supersets, peripheral hear action training"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02056",
       "METValue": 3.0,
       "ActivityDescription": "Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), general"
@@ -419,30 +268,6 @@
       "ActivityCode": "02057",
       "METValue": 6.5,
       "ActivityDescription": "Body weight resistance exercises (e.g., squat, lunge, push-up, crunch), high intensity"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02058",
-      "METValue": 9.8,
-      "ActivityDescription": "Kettle bell swings"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02060",
-      "METValue": 5.5,
-      "ActivityDescription": "Health club exercise, general (Taylor Code 160)"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02061",
-      "METValue": 5.0,
-      "ActivityDescription": "Health club exercise classes general, gym/weight training combined in one visit"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02062",
-      "METValue": 7.8,
-      "ActivityDescription": "Health club exercise, conditioning classes"
     },
     {
       "MajorHeading": "Conditioning Exercise",
@@ -461,12 +286,6 @@
       "ActivityCode": "02068",
       "METValue": 11.0,
       "ActivityDescription": "Rope skipping exercise, general"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02069",
-      "METValue": 9.0,
-      "ActivityDescription": "Jumping rope, Digi-Jump Maching, 120 jumps/minute"
     },
     {
       "MajorHeading": "Conditioning Exercise",
@@ -506,36 +325,6 @@
     },
     {
       "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02080",
-      "METValue": 6.8,
-      "ActivityDescription": "Ski machine, general"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02082",
-      "METValue": 10.5,
-      "ActivityDescription": "Ski ergometer, cross country, double poling, slow to moderate speed"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02084",
-      "METValue": 18.0,
-      "ActivityDescription": "Ski ergometer, cross country, double poling, fast to maximum speed"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02085",
-      "METValue": 10.5,
-      "ActivityDescription": "Slide board exercise, general"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02090",
-      "METValue": 6.0,
-      "ActivityDescription": "Slimnastics, jazzercise"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02101",
       "METValue": 2.3,
       "ActivityDescription": "Stretching, mild"
@@ -566,63 +355,9 @@
     },
     {
       "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02110",
-      "METValue": 6.8,
-      "ActivityDescription": "Teaching exercise classes (e.g., aerobic, water)"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02112",
-      "METValue": 2.8,
-      "ActivityDescription": "Therapeutic exercise ball, Fitball exercise"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02114",
-      "METValue": 9.5,
-      "ActivityDescription": "Therapeutic exercise ball, Fitball exercise, high intensity"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02115",
-      "METValue": 2.8,
-      "ActivityDescription": "Upper body exercise, arm ergometer, general, light"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02116",
-      "METValue": 2.0,
-      "ActivityDescription": "Arm Ergometer, hand bike, 15W"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02117",
-      "METValue": 2.8,
-      "ActivityDescription": "Arm Ergometer, hand bike, 25-30W"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02118",
-      "METValue": 3.5,
-      "ActivityDescription": "Arm Ergometer, hand bike, 45W"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02119",
-      "METValue": 4.3,
-      "ActivityDescription": "Upper body exercise, stationary bicycle - Airdyne (arms only) 40 rpm, moderate intensity"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02120",
       "METValue": 5.3,
       "ActivityDescription": "Water aerobics, water calisthenics, water exercise"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02135",
-      "METValue": 1.3,
-      "ActivityDescription": "Whirlpool, sitting"
     },
     {
       "MajorHeading": "Conditioning Exercise",
@@ -692,18 +427,6 @@
     },
     {
       "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02200",
-      "METValue": 5.3,
-      "ActivityDescription": "Native New Zealander PA, (e.g., Haka Powhiri, Poi, Moteatea, etc.), general moderate effort"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02205",
-      "METValue": 6.8,
-      "ActivityDescription": "Native New Zealander PA, general, vigorous effort"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02210",
       "METValue": 7.0,
       "ActivityDescription": "High intensity interval exercise, moderate effort"
@@ -713,12 +436,6 @@
       "ActivityCode": "02214",
       "METValue": 11.0,
       "ActivityDescription": "High intensity interval exercise, burpees, mountain climbers, squat jumps, Tabata, vigorous effort"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02225",
-      "METValue": 2.3,
-      "ActivityDescription": "Balance Exercise Assist Robot (BEAR), simulated skiing, tennis, rodeo"
     },
     {
       "MajorHeading": "Conditioning Exercise",
@@ -769,18 +486,6 @@
       "ActivityDescription": "Zumba, home video"
     },
     {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02340",
-      "METValue": 2.8,
-      "ActivityDescription": "Sit to stand exercise, 6-12 times/min"
-    },
-    {
-      "MajorHeading": "Conditioning Exercise",
-      "ActivityCode": "02344",
-      "METValue": 4.0,
-      "ActivityDescription": "Sit to stand exercise, 18-24 times/min"
-    },
-    {
       "MajorHeading": "Dancing",
       "ActivityCode": "03005",
       "METValue": 6.0,
@@ -806,27 +511,9 @@
     },
     {
       "MajorHeading": "Dancing",
-      "ActivityCode": "03014",
-      "METValue": 4.8,
-      "ActivityDescription": "Tap"
-    },
-    {
-      "MajorHeading": "Dancing",
       "ActivityCode": "03025",
       "METValue": 4.5,
       "ActivityDescription": "Ethnic or cultural dancing (e.g. Greek, Middle Eastern, hula, salsa, merengue, bamba y plena, flamenco, belly, and swing)"
-    },
-    {
-      "MajorHeading": "Dancing",
-      "ActivityCode": "03028",
-      "METValue": 5.5,
-      "ActivityDescription": "Chinese square dance, Ballet & Tibetan dance"
-    },
-    {
-      "MajorHeading": "Dancing",
-      "ActivityCode": "03029",
-      "METValue": 7.3,
-      "ActivityDescription": "Chinese square dance, aerobic dance"
     },
     {
       "MajorHeading": "Dancing",
@@ -854,12 +541,6 @@
     },
     {
       "MajorHeading": "Dancing",
-      "ActivityCode": "03039",
-      "METValue": 13.0,
-      "ActivityDescription": ""
-    },
-    {
-      "MajorHeading": "Dancing",
       "ActivityCode": "03040",
       "METValue": 3.0,
       "ActivityDescription": "Ballroom, slow, examples: waltz, foxtrot, slow dancing, samba tango, rumba, 19th century dance, mambo, cha cha"
@@ -869,18 +550,6 @@
       "ActivityCode": "03042",
       "METValue": 6.0,
       "ActivityDescription": "Ballroom Dance, Recreational (Waltz, Foxtrot, Cha-cha, Swing)"
-    },
-    {
-      "MajorHeading": "Dancing",
-      "ActivityCode": "03050",
-      "METValue": 5.5,
-      "ActivityDescription": "Anishinaabe Jingle dancing, brisk pace, other traditional American Indian dancing performed by women, moderate effort"
-    },
-    {
-      "MajorHeading": "Dancing",
-      "ActivityCode": "03060",
-      "METValue": 3.5,
-      "ActivityDescription": ""
     },
     {
       "MajorHeading": "Dancing",
@@ -914,21 +583,9 @@
     },
     {
       "MajorHeading": "Dancing",
-      "ActivityCode": "03085",
-      "METValue": 5.8,
-      "ActivityDescription": "Polynesian dance, Hawaiian hula slow, Maori haka, Tongan"
-    },
-    {
-      "MajorHeading": "Dancing",
       "ActivityCode": "03086",
       "METValue": 7.0,
       "ActivityDescription": "Polynesian dance, Hawaiian hula fast, Samoan sasa, Fijian style fast, Filipino Tinikling"
-    },
-    {
-      "MajorHeading": "Dancing",
-      "ActivityCode": "03087",
-      "METValue": 8.8,
-      "ActivityDescription": "Polynesian dance, Samoan slap, Tahitian"
     },
     {
       "MajorHeading": "Dancing",
@@ -988,13 +645,7 @@
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04040",
       "METValue": 3.5,
-      "ActivityDescription": "Fishing from river bank, standing (Taylor Code 660)"
-    },
-    {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04050",
-      "METValue": 6.0,
-      "ActivityDescription": "Fishing in stream, in waders (Taylor Code 670)"
+      "ActivityDescription": "Fishing from river bank, standing"
     },
     {
       "MajorHeading": "Fishing & Hunting",
@@ -1042,7 +693,7 @@
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04080",
       "METValue": 6.0,
-      "ActivityDescription": "Hunting, deer, elk, large game (Taylor Code 170)"
+      "ActivityDescription": "Hunting, deer, elk, large game"
     },
     {
       "MajorHeading": "Fishing & Hunting",
@@ -1090,7 +741,7 @@
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04110",
       "METValue": 6.0,
-      "ActivityDescription": "Hunting, pheasants or grouse (Taylor Code 680)"
+      "ActivityDescription": "Hunting, pheasants or grouse"
     },
     {
       "MajorHeading": "Fishing & Hunting",
@@ -1102,25 +753,13 @@
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04120",
       "METValue": 5.0,
-      "ActivityDescription": "Hunting, rabbit, squirrel, prairie chick, raccoon, small game (Taylor Code 690)"
+      "ActivityDescription": "Hunting, rabbit, squirrel, prairie chick, raccoon, small game"
     },
     {
       "MajorHeading": "Fishing & Hunting",
       "ActivityCode": "04123",
       "METValue": 3.3,
       "ActivityDescription": "Hunting pigs, wild"
-    },
-    {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04124",
-      "METValue": 2.0,
-      "ActivityDescription": "Trapping game, general"
-    },
-    {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04125",
-      "METValue": 9.5,
-      "ActivityDescription": "Hunting - hiking with hunting gear"
     },
     {
       "MajorHeading": "Fishing & Hunting",
@@ -1141,52 +780,10 @@
       "ActivityDescription": "Rifle exercises, shooting, kneeling or standing"
     },
     {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04150",
-      "METValue": 2.8,
-      "ActivityDescription": "Foraging, 0-9.9kg backpack"
-    },
-    {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04152",
-      "METValue": 3.0,
-      "ActivityDescription": "Foraging, 10-15kg backpack"
-    },
-    {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04160",
-      "METValue": 1.0,
-      "ActivityDescription": "Sitting in boat, passenger"
-    },
-    {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04164",
-      "METValue": 1.5,
-      "ActivityDescription": "Standing in boat"
-    },
-    {
-      "MajorHeading": "Fishing & Hunting",
-      "ActivityCode": "04168",
-      "METValue": 3.3,
-      "ActivityDescription": "Activities in a boat, lifting, lowering"
-    },
-    {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05010",
       "METValue": 3.3,
       "ActivityDescription": "Cleaning, sweeping carpet or floors, general"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05011",
-      "METValue": 2.3,
-      "ActivityDescription": "Cleaning, sweeping, slow, light effort"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05012",
-      "METValue": 3.8,
-      "ActivityDescription": "Cleaning, sweeping, fast, moderate effort"
     },
     {
       "MajorHeading": "Home Activities",
@@ -1211,12 +808,6 @@
       "ActivityCode": "05023",
       "METValue": 2.5,
       "ActivityDescription": "Mopping, standing, light effort"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05024",
-      "METValue": 4.5,
-      "ActivityDescription": "Polishing floors, standing, walking slowly, using electric polishing machine"
     },
     {
       "MajorHeading": "Home Activities",
@@ -1280,45 +871,9 @@
     },
     {
       "MajorHeading": "Home Activities",
-      "ActivityCode": "05044",
-      "METValue": 3.0,
-      "ActivityDescription": "Butchering animals, small"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05045",
-      "METValue": 6.0,
-      "ActivityDescription": "Butchering animals, large, vigorous effort"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05046",
-      "METValue": 2.3,
-      "ActivityDescription": "Cutting and smoking fish, drying fish or meat"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05048",
-      "METValue": 4.0,
-      "ActivityDescription": "Tanning hides, general"
-    },
-    {
-      "MajorHeading": "Home Activities",
       "ActivityCode": "05049",
       "METValue": 3.5,
       "ActivityDescription": "Cooking or food preparation, moderate effort"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05050",
-      "METValue": 2.0,
-      "ActivityDescription": ""
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05051",
-      "METValue": 2.3,
-      "ActivityDescription": "Cooking or food preparation, walking"
     },
     {
       "MajorHeading": "Home Activities",
@@ -1352,12 +907,6 @@
     },
     {
       "MajorHeading": "Home Activities",
-      "ActivityCode": "05057",
-      "METValue": 3.0,
-      "ActivityDescription": "Cooking Indian bread or other food on an outside stove"
-    },
-    {
-      "MajorHeading": "Home Activities",
       "ActivityCode": "05060",
       "METValue": 3.3,
       "ActivityDescription": "Food shopping with or without a grocery cart; carrying a 10 lb bag; standing or walking"
@@ -1388,12 +937,6 @@
     },
     {
       "MajorHeading": "Home Activities",
-      "ActivityCode": "05090",
-      "METValue": 2.3,
-      "ActivityDescription": ""
-    },
-    {
-      "MajorHeading": "Home Activities",
       "ActivityCode": "05091",
       "METValue": 2.0,
       "ActivityDescription": "Laundry, fold or hang clothes, sitting"
@@ -1418,12 +961,6 @@
     },
     {
       "MajorHeading": "Home Activities",
-      "ActivityCode": "05110",
-      "METValue": 5.0,
-      "ActivityDescription": "Maple syruping/sugar bushing (including carrying buckets, carrying wood)"
-    },
-    {
-      "MajorHeading": "Home Activities",
       "ActivityCode": "05120",
       "METValue": 5.8,
       "ActivityDescription": "Moving furniture, household items, carrying boxes"
@@ -1433,12 +970,6 @@
       "ActivityCode": "05121",
       "METValue": 5.0,
       "ActivityDescription": "Moving, lifting light loads"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05125",
-      "METValue": 4.8,
-      "ActivityDescription": "Organizing a room"
     },
     {
       "MajorHeading": "Home Activities",
@@ -1463,12 +994,6 @@
       "ActivityCode": "05140",
       "METValue": 3.0,
       "ActivityDescription": "Sweeping garage, sidewalk, or outside house"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05146",
-      "METValue": 3.8,
-      "ActivityDescription": ""
     },
     {
       "MajorHeading": "Home Activities",
@@ -1502,12 +1027,6 @@
     },
     {
       "MajorHeading": "Home Activities",
-      "ActivityCode": "05165",
-      "METValue": 3.5,
-      "ActivityDescription": "Walking, moderate effort tasks, non-cleaning (readying to leave, shut/lock doors, close windows, etc."
-    },
-    {
-      "MajorHeading": "Home Activities",
       "ActivityCode": "05170",
       "METValue": 2.3,
       "ActivityDescription": "Sitting, playing with child(ren), light effort, only active periods"
@@ -1529,24 +1048,6 @@
       "ActivityCode": "05180",
       "METValue": 5.8,
       "ActivityDescription": "Walking/running, playing with child(ren), vigorous effort, only active periods"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05181",
-      "METValue": 3.0,
-      "ActivityDescription": "Walking and carrying small child, child weighing 15 lbs or more"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05182",
-      "METValue": 2.5,
-      "ActivityDescription": "Walking and carrying small child, child weighing less than 15 lbs"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05183",
-      "METValue": 2.0,
-      "ActivityDescription": "Standing, holding child"
     },
     {
       "MajorHeading": "Home Activities",
@@ -1580,18 +1081,6 @@
     },
     {
       "MajorHeading": "Home Activities",
-      "ActivityCode": "05190",
-      "METValue": 2.5,
-      "ActivityDescription": "Sit, playing with animals, light, only active period"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05191",
-      "METValue": 2.8,
-      "ActivityDescription": "Stand, playing with animals, light effort, only active periods"
-    },
-    {
-      "MajorHeading": "Home Activities",
       "ActivityCode": "05192",
       "METValue": 2.8,
       "ActivityDescription": "Walk or run, playing with animals, general, light effort, only active periods"
@@ -1607,12 +1096,6 @@
       "ActivityCode": "05194",
       "METValue": 5.0,
       "ActivityDescription": "Walk/run, playing with animals, vigorous effort, only active periods"
-    },
-    {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05195",
-      "METValue": 3.5,
-      "ActivityDescription": "Standing, bathing dog"
     },
     {
       "MajorHeading": "Home Activities",
@@ -1633,112 +1116,10 @@
       "ActivityDescription": "Elder care, disabled adult, feeding, combing hair, light effort, only active periods"
     },
     {
-      "MajorHeading": "Home Activities",
-      "ActivityCode": "05300",
-      "METValue": 1.3,
-      "ActivityDescription": "Handwashing"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06010",
-      "METValue": 3.0,
-      "ActivityDescription": "Airplane repair"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06020",
-      "METValue": 4.0,
-      "ActivityDescription": "Automobile body work"
-    },
-    {
       "MajorHeading": "Home Repair",
       "ActivityCode": "06030",
       "METValue": 3.3,
       "ActivityDescription": "Automobile repair, light or moderate effort"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06040",
-      "METValue": 3.0,
-      "ActivityDescription": "Carpentry, general, workshop (Taylor Code 620)"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06050",
-      "METValue": 6.0,
-      "ActivityDescription": "Carpentry, outside house, (Taylor Code 640)"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06052",
-      "METValue": 3.8,
-      "ActivityDescription": "Carpentry, outside house, building a fence"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06060",
-      "METValue": 3.3,
-      "ActivityDescription": "Carpentry, finishing, varnishing, or refinishing cabinets or furniture"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06070",
-      "METValue": 6.0,
-      "ActivityDescription": "Carpentry, sawing hardwood, planing and drilling wood, moderate-to-vigorous effort"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06072",
-      "METValue": 4.0,
-      "ActivityDescription": "Carpentry, home remodeling tasks, moderate effort"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06074",
-      "METValue": 2.3,
-      "ActivityDescription": "Carpentry, home remodeling tasks, light effort"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06080",
-      "METValue": 5.0,
-      "ActivityDescription": "Caulking, chinking log cabin"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06090",
-      "METValue": 4.5,
-      "ActivityDescription": "Caulking, except log cabin"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06100",
-      "METValue": 5.0,
-      "ActivityDescription": "Cleaning gutters"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06110",
-      "METValue": 5.0,
-      "ActivityDescription": "Excavating garage"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06120",
-      "METValue": 5.0,
-      "ActivityDescription": "Hanging storm windows"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06122",
-      "METValue": 5.0,
-      "ActivityDescription": "Hanging sheet rock inside house"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06124",
-      "METValue": 3.0,
-      "ActivityDescription": "Hammering nails"
     },
     {
       "MajorHeading": "Home Repair",
@@ -1778,12 +1159,6 @@
     },
     {
       "MajorHeading": "Home Repair",
-      "ActivityCode": "06150",
-      "METValue": 5.0,
-      "ActivityDescription": "Painting, outside home (Taylor Code 650)"
-    },
-    {
-      "MajorHeading": "Home Repair",
       "ActivityCode": "06160",
       "METValue": 3.3,
       "ActivityDescription": "Painting inside house, wallpapering, scraping paint"
@@ -1792,7 +1167,7 @@
       "MajorHeading": "Home Repair",
       "ActivityCode": "06165",
       "METValue": 4.5,
-      "ActivityDescription": "Painting (Taylor Code 630)"
+      "ActivityDescription": "Painting"
     },
     {
       "MajorHeading": "Home Repair",
@@ -1808,42 +1183,6 @@
     },
     {
       "MajorHeading": "Home Repair",
-      "ActivityCode": "06180",
-      "METValue": 6.0,
-      "ActivityDescription": "Roofing"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06190",
-      "METValue": 4.5,
-      "ActivityDescription": "Sanding floors with a power sander"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06200",
-      "METValue": 4.5,
-      "ActivityDescription": "Scraping and painting sailboat or powerboat"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06205",
-      "METValue": 2.0,
-      "ActivityDescription": "Sharpening tools"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06210",
-      "METValue": 5.0,
-      "ActivityDescription": "Spreading dirt with a shovel"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06220",
-      "METValue": 4.5,
-      "ActivityDescription": "Washing and waxing hull of sailboat or airplane"
-    },
-    {
-      "MajorHeading": "Home Repair",
       "ActivityCode": "06225",
       "METValue": 2.0,
       "ActivityDescription": "Washing and waxing car"
@@ -1853,12 +1192,6 @@
       "ActivityCode": "06230",
       "METValue": 4.5,
       "ActivityDescription": "Washing fence, painting fence, moderate effort"
-    },
-    {
-      "MajorHeading": "Home Repair",
-      "ActivityCode": "06240",
-      "METValue": 3.3,
-      "ActivityDescription": "Wiring, tapping-splicing"
     },
     {
       "MajorHeading": "Inactivity",
@@ -1871,36 +1204,6 @@
       "ActivityCode": "07011",
       "METValue": 1.0,
       "ActivityDescription": "Lying quietly, doing nothing, lying in bed awake, listening to music (not talking or reading)"
-    },
-    {
-      "MajorHeading": "Inactivity",
-      "ActivityCode": "07020",
-      "METValue": 1.0,
-      "ActivityDescription": "Sit, watch television"
-    },
-    {
-      "MajorHeading": "Inactivity",
-      "ActivityCode": "07021",
-      "METValue": 1.0,
-      "ActivityDescription": "Sitting quietly, general"
-    },
-    {
-      "MajorHeading": "Inactivity",
-      "ActivityCode": "07022",
-      "METValue": 1.5,
-      "ActivityDescription": "Sitting quietly, fidgeting, general, fidgeting hands"
-    },
-    {
-      "MajorHeading": "Inactivity",
-      "ActivityCode": "07023",
-      "METValue": 1.8,
-      "ActivityDescription": "Sitting, fidget feet"
-    },
-    {
-      "MajorHeading": "Inactivity",
-      "ActivityCode": "07024",
-      "METValue": 1.3,
-      "ActivityDescription": "Sitting smoking"
     },
     {
       "MajorHeading": "Inactivity",
@@ -1928,24 +1231,6 @@
     },
     {
       "MajorHeading": "Inactivity",
-      "ActivityCode": "07041",
-      "METValue": 1.5,
-      "ActivityDescription": "Standing (fidgeting)"
-    },
-    {
-      "MajorHeading": "Inactivity",
-      "ActivityCode": "07045",
-      "METValue": 1.3,
-      "ActivityDescription": "Standing watching television"
-    },
-    {
-      "MajorHeading": "Inactivity",
-      "ActivityCode": "07050",
-      "METValue": 1.5,
-      "ActivityDescription": "Reclining, writing"
-    },
-    {
-      "MajorHeading": "Inactivity",
       "ActivityCode": "07060",
       "METValue": 1.3,
       "ActivityDescription": "Reclining, talking or talking on phone"
@@ -1964,81 +1249,9 @@
     },
     {
       "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08009",
-      "METValue": 4.1,
-      "ActivityDescription": "Carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to- moderate effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08010",
-      "METValue": 5.5,
-      "ActivityDescription": "Carrying, loading or stacking wood, loading/unloading or carrying lumber, moderate effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08019",
-      "METValue": 4.5,
-      "ActivityDescription": "Chopping wood, splitting logs, moderate effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08020",
-      "METValue": 6.5,
-      "ActivityDescription": "Chopping wood, splitting logs, vigorous effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08025",
-      "METValue": 3.5,
-      "ActivityDescription": "Clearing light brush, thinning garden, moderate effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08030",
-      "METValue": 6.3,
-      "ActivityDescription": "Clearing land, haul brush, undergrowth, or ground, vigorous effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08040",
-      "METValue": 5.0,
-      "ActivityDescription": "Digging sandbox, shoveling sand"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08045",
-      "METValue": 3.5,
-      "ActivityDescription": "Digging, spading, filling garden, composting, light-to-moderate effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08050",
-      "METValue": 5.0,
-      "ActivityDescription": "Digging, spading, filling garden, composting (Taylor Code 590)"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08052",
-      "METValue": 7.3,
-      "ActivityDescription": "Digging, spading, filling garden, composting, vigorous effort"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
       "ActivityCode": "08055",
       "METValue": 2.8,
       "ActivityDescription": "Driving tractor"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08057",
-      "METValue": 8.3,
-      "ActivityDescription": "Felling trees, large size"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08058",
-      "METValue": 5.3,
-      "ActivityDescription": "Felling trees, small-medium size"
     },
     {
       "MajorHeading": "Lawn & Garden",

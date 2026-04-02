@@ -8,12 +8,6 @@
     },
     {
       "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01004",
-      "METValue": 16.0,
-      "ActivityDescription": "Велосипедный спорт, горные гонки, соревновательные гонки"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
       "ActivityCode": "01008",
       "METValue": 8.5,
       "ActivityDescription": "Велосипед, BMX"
@@ -22,25 +16,19 @@
       "MajorHeading": "Езда на велосипеде",
       "ActivityCode": "01009",
       "METValue": 8.5,
-      "ActivityDescription": "Велосипед, горы, общий"
+      "ActivityDescription": "Велосипед, горы"
     },
     {
       "MajorHeading": "Езда на велосипеде",
       "ActivityCode": "01010",
       "METValue": 4.0,
-      "ActivityDescription": "Езда на велосипеде, <10 миль в час, отдых, работа или удовольствие (Код Тейлора 115)"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01011",
-      "METValue": 6.8,
-      "ActivityDescription": "Езда на велосипеде на работу/с работы, темп выбирается самостоятельно."
+      "ActivityDescription": "Езда на велосипеде, <10 миль в час"
     },
     {
       "MajorHeading": "Езда на велосипеде",
       "ActivityCode": "01013",
       "METValue": 5.8,
-      "ActivityDescription": "Езда на велосипеде по грунтовой или проселочной дороге, умеренный темп."
+      "ActivityDescription": "Езда на велосипеде по грунтовой дороге, умеренный темп."
     },
     {
       "MajorHeading": "Езда на велосипеде",
@@ -70,13 +58,13 @@
       "MajorHeading": "Езда на велосипеде",
       "ActivityCode": "01018",
       "METValue": 3.5,
-      "ActivityDescription": "Езда на велосипеде, досуг 5,5 миль/ч"
+      "ActivityDescription": "Езда на велосипеде 5,5 миль/ч"
     },
     {
       "MajorHeading": "Езда на велосипеде",
       "ActivityCode": "01019",
       "METValue": 5.8,
-      "ActivityDescription": "Езда на велосипеде, досуг, 9,4 миль в час"
+      "ActivityDescription": "Езда на велосипеде 9,4 миль в час"
     },
     {
       "MajorHeading": "Езда на велосипеде",
@@ -110,24 +98,6 @@
     },
     {
       "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01065",
-      "METValue": 8.5,
-      "ActivityDescription": "Езда на велосипеде, скорость 12 миль в час, сидя, руки на тормозных колпаках или руле, 80 об/мин."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01066",
-      "METValue": 9.0,
-      "ActivityDescription": "Езда на велосипеде, скорость 12 миль в час, стоя, руки на тормозных колпаках, 60 об/мин."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01070",
-      "METValue": 5.0,
-      "ActivityDescription": "Унициклинг"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
       "ActivityCode": "01080",
       "METValue": 6.8,
       "ActivityDescription": "Электронный велосипед (с электроприводом) без электронной поддержки"
@@ -143,120 +113,6 @@
       "ActivityCode": "01088",
       "METValue": 4.0,
       "ActivityDescription": "Электронный велосипед (с электроприводом) с высокой степенью электронной поддержки."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01200",
-      "METValue": 6.8,
-      "ActivityDescription": "Велосипеды, стационарные, общие"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01210",
-      "METValue": 3.5,
-      "ActivityDescription": "Велосипед, стационарный, 25–30 Вт, очень легкое усилие."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01214",
-      "METValue": 4.0,
-      "ActivityDescription": "Велосипед, стационарный, 50 Вт, легкое усилие"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01216",
-      "METValue": 5.0,
-      "ActivityDescription": "Езда на велосипеде, стационарная, 60 Вт, легкие и умеренные усилия."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01218",
-      "METValue": 5.8,
-      "ActivityDescription": "Велосипед, стационарный, 70-80 Вт"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01220",
-      "METValue": 6.0,
-      "ActivityDescription": "Езда на велосипеде, стационарная, 90–100 Вт, от умеренной до высокой"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01224",
-      "METValue": 6.8,
-      "ActivityDescription": "Велосипед, стационарный, 101–125 Вт."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01228",
-      "METValue": 8.0,
-      "ActivityDescription": "Велосипедный, стационарный, 126–150 Вт."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01232",
-      "METValue": 10.3,
-      "ActivityDescription": "Велосипед, стационарный, 151–199 Вт."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01236",
-      "METValue": 10.8,
-      "ActivityDescription": "Велосипед, стационарный, 200-229 Вт, энергичный"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01240",
-      "METValue": 12.5,
-      "ActivityDescription": "Велосипедный, стационарный, 230-250 Вт, очень мощный."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01244",
-      "METValue": 13.8,
-      "ActivityDescription": "Езда на велосипеде, стационарная, 270-305 Вт, очень мощная."
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01248",
-      "METValue": 16.3,
-      "ActivityDescription": "Езда на велосипеде, стационарный, >325 Вт, очень энергичный"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01252",
-      "METValue": 5.5,
-      "ActivityDescription": "Езда на велосипеде, только концентрическая, 100 Вт"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01254",
-      "METValue": 11.0,
-      "ActivityDescription": "Езда на велосипеде, только концентрическая, 200 Вт"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01262",
-      "METValue": 2.3,
-      "ActivityDescription": "Езда на велосипеде, только эксцентрик, от 100 до 149 Вт"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01264",
-      "METValue": 4.0,
-      "ActivityDescription": "Велосипедный, только эксцентрик, 200 Вт"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01270",
-      "METValue": 9.0,
-      "ActivityDescription": "Велосипед, стационарный, класс RPM/Spin Bike"
-    },
-    {
-      "MajorHeading": "Езда на велосипеде",
-      "ActivityCode": "01290",
-      "METValue": 8.8,
-      "ActivityDescription": "Езда на велосипеде, интерактивная виртуальная езда на велосипеде, велоэргометр в помещении"
     },
     {
       "MajorHeading": "Езда на велосипеде",
@@ -340,7 +196,7 @@
       "MajorHeading": "Кондиционирующее упражнение",
       "ActivityCode": "02030",
       "METValue": 3.5,
-      "ActivityDescription": "Гимнастика, легкие или умеренные усилия, общие (например, упражнения для спины), подъемы и опускания с пола (Код Тейлора 150)."
+      "ActivityDescription": "Гимнастика, легкие или умеренные усилия, общие (например, упражнения для спины), подъемы и опускания с пола"
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
@@ -404,12 +260,6 @@
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02055",
-      "METValue": 5.8,
-      "ActivityDescription": "Тренировка с отягощениями, круговая тренировка, суперсеты с реципроколом, тренировка периферических органов слуха"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
       "ActivityCode": "02056",
       "METValue": 3.0,
       "ActivityDescription": "Упражнения с отягощением (например, приседания, выпады, отжимания, скручивания), общие"
@@ -419,30 +269,6 @@
       "ActivityCode": "02057",
       "METValue": 6.5,
       "ActivityDescription": "Упражнения с отягощением (например, приседания, выпады, отжимания, скручивания), высокая интенсивность"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02058",
-      "METValue": 9.8,
-      "ActivityDescription": "Качели колокола чайника"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02060",
-      "METValue": 5.5,
-      "ActivityDescription": "Упражнения в оздоровительном клубе, общие (Код Тейлора 160)"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02061",
-      "METValue": 5.0,
-      "ActivityDescription": "Занятия в оздоровительном клубе общие, тренажерный зал/силовые тренировки в одном посещении"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02062",
-      "METValue": 7.8,
-      "ActivityDescription": "Занятия в оздоровительном клубе, занятия по физической подготовке"
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
@@ -461,12 +287,6 @@
       "ActivityCode": "02068",
       "METValue": 11.0,
       "ActivityDescription": "Упражнение по прыжкам со скакалкой, общее"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02069",
-      "METValue": 9.0,
-      "ActivityDescription": "Скакалка, Digi-Jump Maching, 120 прыжков в минуту."
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
@@ -506,36 +326,6 @@
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02080",
-      "METValue": 6.8,
-      "ActivityDescription": "Лыжная машина, общее"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02082",
-      "METValue": 10.5,
-      "ActivityDescription": "Лыжный эргометр, бег по пересеченной местности, двойная опора, скорость от медленной до умеренной."
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02084",
-      "METValue": 18.0,
-      "ActivityDescription": "Лыжный эргометр, бег по пересеченной местности, двойная опора, от быстрого до максимальной скорости."
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02085",
-      "METValue": 10.5,
-      "ActivityDescription": "Упражнение со слайд-доской, общее"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02090",
-      "METValue": 6.0,
-      "ActivityDescription": "Слимнастика, джаз-эрциз"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
       "ActivityCode": "02101",
       "METValue": 2.3,
       "ActivityDescription": "Растяжка, легкая"
@@ -566,63 +356,9 @@
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02110",
-      "METValue": 6.8,
-      "ActivityDescription": "Обучение физическим упражнениям (например, аэробике, воде)"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02112",
-      "METValue": 2.8,
-      "ActivityDescription": "Лечебный мяч для упражнений, упражнения на фитболе"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02114",
-      "METValue": 9.5,
-      "ActivityDescription": "Лечебный мяч для упражнений, упражнения на фитболе, высокая интенсивность"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02115",
-      "METValue": 2.8,
-      "ActivityDescription": "Упражнения для верхней части тела, эргометр для рук, общие, легкие"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02116",
-      "METValue": 2.0,
-      "ActivityDescription": "Ручной эргометр, ручной велосипед, 15 Вт"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02117",
-      "METValue": 2.8,
-      "ActivityDescription": "Ручной эргометр, ручной велосипед, 25-30 Вт"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02118",
-      "METValue": 3.5,
-      "ActivityDescription": "Ручной эргометр, ручной велосипед, 45 Вт"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02119",
-      "METValue": 4.3,
-      "ActivityDescription": "Упражнения для верхней части тела, велотренажер — Airdyne (только руки), 40 об/мин, умеренная интенсивность"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
       "ActivityCode": "02120",
       "METValue": 5.3,
       "ActivityDescription": "Аквааэробика, водная гимнастика, водные упражнения"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02135",
-      "METValue": 1.3,
-      "ActivityDescription": "Водоворот, сидя"
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
@@ -692,18 +428,6 @@
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02200",
-      "METValue": 5.3,
-      "ActivityDescription": "Уроженец Новой Зеландии ПА (например, Хака Поухири, Пои, Мотеатеа и т. д.), общее умеренное усилие"
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02205",
-      "METValue": 6.8,
-      "ActivityDescription": "Уроженец Новой Зеландии, штат Пенсильвания, общие, энергичные усилия."
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
       "ActivityCode": "02210",
       "METValue": 7.0,
       "ActivityDescription": "Интервальные упражнения высокой интенсивности, умеренные усилия."
@@ -713,12 +437,6 @@
       "ActivityCode": "02214",
       "METValue": 11.0,
       "ActivityDescription": "Интервальные упражнения высокой интенсивности, берпи, альпинисты, прыжки с приседа, Табата, энергичные усилия."
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02225",
-      "METValue": 2.3,
-      "ActivityDescription": "Робот-помощник в упражнениях на баланс (BEAR), имитация катания на лыжах, тенниса, родео"
     },
     {
       "MajorHeading": "Кондиционирующее упражнение",
@@ -769,18 +487,6 @@
       "ActivityDescription": "Зумба, домашнее видео"
     },
     {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02340",
-      "METValue": 2.8,
-      "ActivityDescription": "Упражнение «сидя-стоя», 6-12 раз/мин."
-    },
-    {
-      "MajorHeading": "Кондиционирующее упражнение",
-      "ActivityCode": "02344",
-      "METValue": 4.0,
-      "ActivityDescription": "Упражнение «сидя-стоя», 18-24 раз/мин."
-    },
-    {
       "MajorHeading": "Танцы",
       "ActivityCode": "03005",
       "METValue": 6.0,
@@ -806,27 +512,9 @@
     },
     {
       "MajorHeading": "Танцы",
-      "ActivityCode": "03014",
-      "METValue": 4.8,
-      "ActivityDescription": "Кран"
-    },
-    {
-      "MajorHeading": "Танцы",
       "ActivityCode": "03025",
       "METValue": 4.5,
       "ActivityDescription": "Этнические или культурные танцы (например, греческие, ближневосточные, хула, сальса, меренге, бамба и плена, фламенко, живота и свинг)"
-    },
-    {
-      "MajorHeading": "Танцы",
-      "ActivityCode": "03028",
-      "METValue": 5.5,
-      "ActivityDescription": "Китайская кадриль, балет и тибетский танец"
-    },
-    {
-      "MajorHeading": "Танцы",
-      "ActivityCode": "03029",
-      "METValue": 7.3,
-      "ActivityDescription": "Китайская кадриль, аэробный танец"
     },
     {
       "MajorHeading": "Танцы",
@@ -854,12 +542,6 @@
     },
     {
       "MajorHeading": "Танцы",
-      "ActivityCode": "03039",
-      "METValue": 13.0,
-      "ActivityDescription": ""
-    },
-    {
-      "MajorHeading": "Танцы",
       "ActivityCode": "03040",
       "METValue": 3.0,
       "ActivityDescription": "Бальный зал, медленный, примеры: вальс, фокстрот, медленный танец, самба-танго, румба, танец 19 века, мамбо, ча-ча."
@@ -869,18 +551,6 @@
       "ActivityCode": "03042",
       "METValue": 6.0,
       "ActivityDescription": "Бальные танцы, развлекательные (вальс, фокстрот, ча-ча, свинг)"
-    },
-    {
-      "MajorHeading": "Танцы",
-      "ActivityCode": "03050",
-      "METValue": 5.5,
-      "ActivityDescription": "Анишинаабе Джингл-танец, быстрый темп, другие традиционные танцы американских индейцев в исполнении женщин, умеренные усилия."
-    },
-    {
-      "MajorHeading": "Танцы",
-      "ActivityCode": "03060",
-      "METValue": 3.5,
-      "ActivityDescription": ""
     },
     {
       "MajorHeading": "Танцы",
@@ -914,21 +584,9 @@
     },
     {
       "MajorHeading": "Танцы",
-      "ActivityCode": "03085",
-      "METValue": 5.8,
-      "ActivityDescription": "Полинезийский танец, гавайская хула медленная, хака маори, тонга"
-    },
-    {
-      "MajorHeading": "Танцы",
       "ActivityCode": "03086",
       "METValue": 7.0,
       "ActivityDescription": "Полинезийский танец, гавайский пост хула, самоанский саса, пост по-фиджийски, филиппинский тиниклинг"
-    },
-    {
-      "MajorHeading": "Танцы",
-      "ActivityCode": "03087",
-      "METValue": 8.8,
-      "ActivityDescription": "Полинезийский танец, Самоанская пощечина, Таитянский"
     },
     {
       "MajorHeading": "Танцы",
@@ -988,13 +646,7 @@
       "MajorHeading": "Рыбалка и охота",
       "ActivityCode": "04040",
       "METValue": 3.5,
-      "ActivityDescription": "Рыбалка с берега реки стоя (Код Тейлора 660)"
-    },
-    {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04050",
-      "METValue": 6.0,
-      "ActivityDescription": "Рыбалка в ручье, в куликах (Код Тейлора 670)"
+      "ActivityDescription": "Рыбалка с берега реки стоя"
     },
     {
       "MajorHeading": "Рыбалка и охота",
@@ -1042,7 +694,7 @@
       "MajorHeading": "Рыбалка и охота",
       "ActivityCode": "04080",
       "METValue": 6.0,
-      "ActivityDescription": "Охота, олень, лось, крупная дичь (Код Тейлора 170)"
+      "ActivityDescription": "Охота, олень, лось, крупная дичь"
     },
     {
       "MajorHeading": "Рыбалка и охота",
@@ -1090,7 +742,7 @@
       "MajorHeading": "Рыбалка и охота",
       "ActivityCode": "04110",
       "METValue": 6.0,
-      "ActivityDescription": "Охота, фазаны или тетерева (Код Тейлора 680)"
+      "ActivityDescription": "Охота, фазаны или тетерева"
     },
     {
       "MajorHeading": "Рыбалка и охота",
@@ -1102,25 +754,13 @@
       "MajorHeading": "Рыбалка и охота",
       "ActivityCode": "04120",
       "METValue": 5.0,
-      "ActivityDescription": "Охота, кролик, белка, луговой цыпленок, енот, мелкая дичь (код Тейлора 690)"
+      "ActivityDescription": "Охота, кролик, белка, луговой цыпленок, енот, мелкая дичь"
     },
     {
       "MajorHeading": "Рыбалка и охота",
       "ActivityCode": "04123",
       "METValue": 3.3,
       "ActivityDescription": "Охотничьи свиньи, дикие"
-    },
-    {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04124",
-      "METValue": 2.0,
-      "ActivityDescription": "Игра-ловушка, общее"
-    },
-    {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04125",
-      "METValue": 9.5,
-      "ActivityDescription": "Охота – походы с охотничьим снаряжением."
     },
     {
       "MajorHeading": "Рыбалка и охота",
@@ -1141,52 +781,10 @@
       "ActivityDescription": "Упражнения по стрельбе из винтовки, стрельба, стоя на коленях или стоя."
     },
     {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04150",
-      "METValue": 2.8,
-      "ActivityDescription": "Собирательство, рюкзак 0–9,9 кг."
-    },
-    {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04152",
-      "METValue": 3.0,
-      "ActivityDescription": "Собирательство, рюкзак 10-15 кг."
-    },
-    {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04160",
-      "METValue": 1.0,
-      "ActivityDescription": "Сидя в лодке, пассажир"
-    },
-    {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04164",
-      "METValue": 1.5,
-      "ActivityDescription": "Стоя в лодке"
-    },
-    {
-      "MajorHeading": "Рыбалка и охота",
-      "ActivityCode": "04168",
-      "METValue": 3.3,
-      "ActivityDescription": "Действия в лодке, подъем, спуск"
-    },
-    {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05010",
       "METValue": 3.3,
       "ActivityDescription": "Уборка, подметание ковров и полов, общие"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05011",
-      "METValue": 2.3,
-      "ActivityDescription": "Уборка, подметание, медленно, с легким усилием."
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05012",
-      "METValue": 3.8,
-      "ActivityDescription": "Уборка, подметание, быстро, умеренное усилие."
     },
     {
       "MajorHeading": "Домашняя деятельность",
@@ -1211,12 +809,6 @@
       "ActivityCode": "05023",
       "METValue": 2.5,
       "ActivityDescription": "Мытье полов, стоя, легкое усилие"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05024",
-      "METValue": 4.5,
-      "ActivityDescription": "Полировка полов стоя, медленно при ходьбе, с использованием электрической полировальной машины."
     },
     {
       "MajorHeading": "Домашняя деятельность",
@@ -1280,45 +872,9 @@
     },
     {
       "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05044",
-      "METValue": 3.0,
-      "ActivityDescription": "Разделка животных, мелких"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05045",
-      "METValue": 6.0,
-      "ActivityDescription": "Забой животных, большие, энергичные усилия"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05046",
-      "METValue": 2.3,
-      "ActivityDescription": "Разделка и копчение рыбы, сушка рыбы или мяса"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05048",
-      "METValue": 4.0,
-      "ActivityDescription": "Дубление шкур, общее"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05049",
       "METValue": 3.5,
-      "ActivityDescription": "Приготовление пищи или приготовление пищи, умеренные усилия"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05050",
-      "METValue": 2.0,
-      "ActivityDescription": ""
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05051",
-      "METValue": 2.3,
-      "ActivityDescription": "Приготовление пищи или приготовление еды, прогулки"
+      "ActivityDescription": "Приготовление пищи, умеренные усилия"
     },
     {
       "MajorHeading": "Домашняя деятельность",
@@ -1352,12 +908,6 @@
     },
     {
       "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05057",
-      "METValue": 3.0,
-      "ActivityDescription": "Приготовление индийского хлеба или другой еды на уличной плите"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05060",
       "METValue": 3.3,
       "ActivityDescription": "Покупка продуктов питания с продуктовой тележкой или без нее; носить с собой сумку весом 10 фунтов; стоять или ходить"
@@ -1388,12 +938,6 @@
     },
     {
       "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05090",
-      "METValue": 2.3,
-      "ActivityDescription": ""
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05091",
       "METValue": 2.0,
       "ActivityDescription": "Стирать, складывать или развешивать одежду, сидя"
@@ -1418,12 +962,6 @@
     },
     {
       "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05110",
-      "METValue": 5.0,
-      "ActivityDescription": "Заправка кленовым сиропом/сахарная втулка (включая ведра и дрова)"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05120",
       "METValue": 5.8,
       "ActivityDescription": "Переезд мебели, предметов домашнего обихода, коробок для переноски."
@@ -1433,12 +971,6 @@
       "ActivityCode": "05121",
       "METValue": 5.0,
       "ActivityDescription": "Перемещение, подъем легких грузов"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05125",
-      "METValue": 4.8,
-      "ActivityDescription": "Организация комнаты"
     },
     {
       "MajorHeading": "Домашняя деятельность",
@@ -1463,12 +995,6 @@
       "ActivityCode": "05140",
       "METValue": 3.0,
       "ActivityDescription": "Подметание гаража, тротуара или придомовой территории"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05146",
-      "METValue": 3.8,
-      "ActivityDescription": ""
     },
     {
       "MajorHeading": "Домашняя деятельность",
@@ -1502,12 +1028,6 @@
     },
     {
       "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05165",
-      "METValue": 3.5,
-      "ActivityDescription": "Ходьба, выполнение задач средней сложности, отказ от уборки (собираюсь уйти, закрыть/запереть двери, закрыть окна и т. д.)."
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05170",
       "METValue": 2.3,
       "ActivityDescription": "Сидение, игра с ребенком(детьми), легкие усилия, только активные периоды"
@@ -1529,24 +1049,6 @@
       "ActivityCode": "05180",
       "METValue": 5.8,
       "ActivityDescription": "Ходьба/бег, игры с ребенком(детьми), энергичные усилия, только активные периоды."
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05181",
-      "METValue": 3.0,
-      "ActivityDescription": "Прогулка и переноска маленького ребенка, ребенка весом 15 фунтов и более."
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05182",
-      "METValue": 2.5,
-      "ActivityDescription": "Прогулка и переноска маленького ребенка, ребенок весом менее 15 фунтов"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05183",
-      "METValue": 2.0,
-      "ActivityDescription": "Стою, держу ребенка"
     },
     {
       "MajorHeading": "Домашняя деятельность",
@@ -1580,18 +1082,6 @@
     },
     {
       "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05190",
-      "METValue": 2.5,
-      "ActivityDescription": "Сидим, играем с животными, свет, только активный период."
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05191",
-      "METValue": 2.8,
-      "ActivityDescription": "Стоять, играть с животными, легкие усилия, только активные периоды."
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05192",
       "METValue": 2.8,
       "ActivityDescription": "Ходьба или бег, игры с животными, общие, легкие усилия, только активные периоды"
@@ -1607,12 +1097,6 @@
       "ActivityCode": "05194",
       "METValue": 5.0,
       "ActivityDescription": "Ходьба/бег, игры с животными, энергичные усилия, только активные периоды"
-    },
-    {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05195",
-      "METValue": 3.5,
-      "ActivityDescription": "Стоящая, купающаяся собака"
     },
     {
       "MajorHeading": "Домашняя деятельность",
@@ -1633,112 +1117,10 @@
       "ActivityDescription": "Уход за пожилыми людьми, инвалидами, кормление, расчесывание волос, легкие усилия, только активные периоды"
     },
     {
-      "MajorHeading": "Домашняя деятельность",
-      "ActivityCode": "05300",
-      "METValue": 1.3,
-      "ActivityDescription": "Мытье рук"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06010",
-      "METValue": 3.0,
-      "ActivityDescription": "Ремонт самолетов"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06020",
-      "METValue": 4.0,
-      "ActivityDescription": "Кузовные работы автомобиля"
-    },
-    {
       "MajorHeading": "Ремонт дома",
       "ActivityCode": "06030",
       "METValue": 3.3,
       "ActivityDescription": "Ремонт автомобилей, легкие или умеренные усилия"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06040",
-      "METValue": 3.0,
-      "ActivityDescription": "Плотницкие работы, общие, мастерские (код Тейлора 620)"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06050",
-      "METValue": 6.0,
-      "ActivityDescription": "Плотницкие работы во дворе дома (код Тейлора 640)"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06052",
-      "METValue": 3.8,
-      "ActivityDescription": "Плотницкие работы, наружный дом, строительство забора"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06060",
-      "METValue": 3.3,
-      "ActivityDescription": "Плотницкие работы, отделка, лакировка или повторная полировка шкафов или мебели"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06070",
-      "METValue": 6.0,
-      "ActivityDescription": "Плотницкие работы, распиловка твердых пород древесины, строгание и сверление древесины, усилия от умеренной до энергичной."
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06072",
-      "METValue": 4.0,
-      "ActivityDescription": "Плотницкие работы, ремонт дома, умеренные усилия."
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06074",
-      "METValue": 2.3,
-      "ActivityDescription": "Плотницкие работы, ремонт дома, легкие усилия"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06080",
-      "METValue": 5.0,
-      "ActivityDescription": "Конопачение, долбление бревенчатого сруба"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06090",
-      "METValue": 4.5,
-      "ActivityDescription": "Конопатка, кроме сруба"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06100",
-      "METValue": 5.0,
-      "ActivityDescription": "Очистка желобов"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06110",
-      "METValue": 5.0,
-      "ActivityDescription": "Раскопки гаража"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06120",
-      "METValue": 5.0,
-      "ActivityDescription": "Подвесные штормовые окна"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06122",
-      "METValue": 5.0,
-      "ActivityDescription": "Подвешивание листового камня внутри дома"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06124",
-      "METValue": 3.0,
-      "ActivityDescription": "Забивание гвоздей"
     },
     {
       "MajorHeading": "Ремонт дома",
@@ -1778,12 +1160,6 @@
     },
     {
       "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06150",
-      "METValue": 5.0,
-      "ActivityDescription": "Покраска вне дома (код Тейлора 650)"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
       "ActivityCode": "06160",
       "METValue": 3.3,
       "ActivityDescription": "Покраска дома, поклейка обоев, соскабливание краски."
@@ -1792,55 +1168,13 @@
       "MajorHeading": "Ремонт дома",
       "ActivityCode": "06165",
       "METValue": 4.5,
-      "ActivityDescription": "Живопись (код Тейлора 630)"
+      "ActivityDescription": "Живопись"
     },
     {
       "MajorHeading": "Ремонт дома",
       "ActivityCode": "06167",
       "METValue": 3.0,
       "ActivityDescription": "Сантехника, общее"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06170",
-      "METValue": 3.0,
-      "ActivityDescription": "Надевание и снятие брезента – парусник"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06180",
-      "METValue": 6.0,
-      "ActivityDescription": "Кровельные работы"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06190",
-      "METValue": 4.5,
-      "ActivityDescription": "Шлифование полов электрошлифовальной машинкой"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06200",
-      "METValue": 4.5,
-      "ActivityDescription": "Зачистка и покраска парусника или моторной лодки"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06205",
-      "METValue": 2.0,
-      "ActivityDescription": "Инструменты для заточки"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06210",
-      "METValue": 5.0,
-      "ActivityDescription": "Разбрасывание грязи лопатой"
-    },
-    {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06220",
-      "METValue": 4.5,
-      "ActivityDescription": "Мойка и натирание воском корпуса парусника или самолета"
     },
     {
       "MajorHeading": "Ремонт дома",
@@ -1855,12 +1189,6 @@
       "ActivityDescription": "Мойка забора, покраска забора, умеренные усилия."
     },
     {
-      "MajorHeading": "Ремонт дома",
-      "ActivityCode": "06240",
-      "METValue": 3.3,
-      "ActivityDescription": "Электропроводка, врезка-сращивание"
-    },
-    {
       "MajorHeading": "Бездействие",
       "ActivityCode": "07009",
       "METValue": 1.0,
@@ -1871,36 +1199,6 @@
       "ActivityCode": "07011",
       "METValue": 1.0,
       "ActivityDescription": "Лежишь тихо, ничего не делаешь, лежишь в постели без сна, слушаешь музыку (не разговариваешь и не читаешь)"
-    },
-    {
-      "MajorHeading": "Бездействие",
-      "ActivityCode": "07020",
-      "METValue": 1.0,
-      "ActivityDescription": "Сиди, смотри телевизор"
-    },
-    {
-      "MajorHeading": "Бездействие",
-      "ActivityCode": "07021",
-      "METValue": 1.0,
-      "ActivityDescription": "Сижу тихо, генерал"
-    },
-    {
-      "MajorHeading": "Бездействие",
-      "ActivityCode": "07022",
-      "METValue": 1.5,
-      "ActivityDescription": "Сидит тихо, ерзает, генерал, ерзает руками."
-    },
-    {
-      "MajorHeading": "Бездействие",
-      "ActivityCode": "07023",
-      "METValue": 1.8,
-      "ActivityDescription": "Сижу, ерзаю ногами"
-    },
-    {
-      "MajorHeading": "Бездействие",
-      "ActivityCode": "07024",
-      "METValue": 1.3,
-      "ActivityDescription": "Сидя курю"
     },
     {
       "MajorHeading": "Бездействие",
@@ -1928,24 +1226,6 @@
     },
     {
       "MajorHeading": "Бездействие",
-      "ActivityCode": "07041",
-      "METValue": 1.5,
-      "ActivityDescription": "Стоя (ерзает)"
-    },
-    {
-      "MajorHeading": "Бездействие",
-      "ActivityCode": "07045",
-      "METValue": 1.3,
-      "ActivityDescription": "Стою и смотрю телевизор"
-    },
-    {
-      "MajorHeading": "Бездействие",
-      "ActivityCode": "07050",
-      "METValue": 1.5,
-      "ActivityDescription": "Лежа, пишу"
-    },
-    {
-      "MajorHeading": "Бездействие",
       "ActivityCode": "07060",
       "METValue": 1.3,
       "ActivityDescription": "Лежа, разговаривая или разговаривая по телефону"
@@ -1964,81 +1244,9 @@
     },
     {
       "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08009",
-      "METValue": 4.1,
-      "ActivityDescription": "Перенос, погрузка или штабелирование древесины, погрузка/разгрузка или переноска пиломатериалов, легкие или умеренные усилия."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08010",
-      "METValue": 5.5,
-      "ActivityDescription": "Перенос, погрузка или штабелирование древесины, погрузка/разгрузка или переноска пиломатериалов, умеренные усилия."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08019",
-      "METValue": 4.5,
-      "ActivityDescription": "Рубка дров, расколка бревен, умеренное усилие."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08020",
-      "METValue": 6.5,
-      "ActivityDescription": "Рубка дров, колка бревен, энергичные усилия."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08025",
-      "METValue": 3.5,
-      "ActivityDescription": "Расчистка легкой кистью, прореживание сада, умеренные усилия."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08030",
-      "METValue": 6.3,
-      "ActivityDescription": "Расчистка земли, вытаскивание кустарника, подлеска или земли, энергичные усилия"
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08040",
-      "METValue": 5.0,
-      "ActivityDescription": "Копаем песочницу, сгребаем песок."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08045",
-      "METValue": 3.5,
-      "ActivityDescription": "Копание, перекопка, засыпка сада, компостирование, легкие и умеренные усилия."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08050",
-      "METValue": 5.0,
-      "ActivityDescription": "Копание, перекопка, засыпка сада, компостирование (Код Тейлора 590)"
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08052",
-      "METValue": 7.3,
-      "ActivityDescription": "Копание, перекопка, засыпка сада, компостирование, энергичные усилия."
-    },
-    {
-      "MajorHeading": "Газон и Сад",
       "ActivityCode": "08055",
       "METValue": 2.8,
       "ActivityDescription": "Вождение трактора"
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08057",
-      "METValue": 8.3,
-      "ActivityDescription": "Валка деревьев больших размеров"
-    },
-    {
-      "MajorHeading": "Газон и Сад",
-      "ActivityCode": "08058",
-      "METValue": 5.3,
-      "ActivityDescription": "Вырубка деревьев малого и среднего размера"
     },
     {
       "MajorHeading": "Газон и Сад",

@@ -146,7 +146,7 @@
       "METValue": 7.3,
       "ActivityDescription": "Аэробика",
       "systemIcon": "figure.mixed.cardio"
-	},
+    },
     {
       "MajorHeading": "Функциональные тренировки",
       "ActivityCode": "02005",
@@ -746,265 +746,309 @@
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05010",
       "METValue": 3.3,
-      "ActivityDescription": "Уборка, подметание ковров и полов"
+      "ActivityDescription": "Уборка, подметание ковров и полов",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05020",
       "METValue": 3.5,
-      "ActivityDescription": "Тяжелая или серьезная уборка (например, мойка машины, уборка гаража), умеренные усилия."
+      "ActivityDescription": "Тяжелая или серьезная уборка (например, мойка машины, уборка гаража), умеренные усилия.",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05021",
       "METValue": 3.5,
-      "ActivityDescription": "Уборка, мытье полов, стоя, умеренные усилия."
+      "ActivityDescription": "Уборка, мытье полов, стоя, умеренные усилия.",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05022",
       "METValue": 3.3,
-      "ActivityDescription": "Мойка окон, мытье окон"
+      "ActivityDescription": "Мойка окон, мытье окон",
+      "systemIcon": "sparkles"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05023",
       "METValue": 2.5,
-      "ActivityDescription": "Мытье полов, стоя, легкое усилие"
+      "ActivityDescription": "Мытье полов, стоя, легкое усилие",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05025",
       "METValue": 2.8,
-      "ActivityDescription": "Несколько домашних дел одновременно, легкие усилия"
+      "ActivityDescription": "Несколько домашних дел одновременно, легкие усилия",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05026",
       "METValue": 3.3,
-      "ActivityDescription": "Несколько домашних дел одновременно, умеренные усилия"
+      "ActivityDescription": "Несколько домашних дел одновременно, умеренные усилия",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05027",
       "METValue": 4.3,
-      "ActivityDescription": "Несколько домашних дел одновременно, энергичные усилия"
+      "ActivityDescription": "Несколько домашних дел одновременно, энергичные усилия",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05030",
       "METValue": 3.3,
-      "ActivityDescription": "Уборка дома, умеренные усилия"
+      "ActivityDescription": "Уборка дома, умеренные усилия",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05035",
       "METValue": 3.3,
-      "ActivityDescription": "Кухонная деятельность, (например, приготовление пищи, мытье посуды, уборка) умеренная нагрузка"
+      "ActivityDescription": "Кухонная деятельность, (например, приготовление пищи, мытье посуды, уборка) умеренная нагрузка",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05040",
       "METValue": 2.5,
-      "ActivityDescription": "Уборка, (приведение в порядок, смена белья, вынос мусора), легкая работа."
+      "ActivityDescription": "Уборка, (приведение в порядок, смена белья, вынос мусора), легкая работа.",
+      "systemIcon": "trash.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05041",
       "METValue": 2.0,
-      "ActivityDescription": "Мытьё посуды"
+      "ActivityDescription": "Мытьё посуды",
+      "systemIcon": "drop.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05042",
       "METValue": 2.0,
-      "ActivityDescription": "Мытьё посуды, уборка посуды со стола"
+      "ActivityDescription": "Мытьё посуды, уборка посуды со стола",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05043",
       "METValue": 3.0,
-      "ActivityDescription": "Уборка пылесосом, умеренные усилия."
+      "ActivityDescription": "Уборка пылесосом, умеренные усилия.",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05049",
       "METValue": 3.5,
-      "ActivityDescription": "Приготовление пищи, умеренные усилия"
+      "ActivityDescription": "Приготовление пищи, умеренные усилия",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05052",
       "METValue": 2.3,
-      "ActivityDescription": "Подача еды, накрытие/уборка стола"
+      "ActivityDescription": "Подача еды, накрытие/уборка стола",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05053",
       "METValue": 2.5,
-      "ActivityDescription": "Кормление домашних животных"
+      "ActivityDescription": "Кормление домашних животных",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05060",
       "METValue": 3.3,
-      "ActivityDescription": "Покупка продуктов, закупки в супермаркете"
+      "ActivityDescription": "Покупка продуктов, закупки в супермаркете",
+      "systemIcon": "cart.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05070",
       "METValue": 1.8,
-      "ActivityDescription": "Глажение"
+      "ActivityDescription": "Глажение",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05080",
       "METValue": 1.3,
-      "ActivityDescription": "Вязание, шитье, легкие усилия, упаковка подарков"
+      "ActivityDescription": "Вязание, шитье, легкие усилия, упаковка подарков",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05082",
       "METValue": 2.8,
-      "ActivityDescription": "Шитьё на машине"
+      "ActivityDescription": "Шитьё на машине",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05091",
       "METValue": 2.0,
-      "ActivityDescription": "Стирка одежды"
+      "ActivityDescription": "Стирка одежды",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05092",
       "METValue": 4.0,
-      "ActivityDescription": "Стирка, умеренные усилия"
+      "ActivityDescription": "Стирка, умеренные усилия",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05095",
       "METValue": 2.0,
-      "ActivityDescription": "Стирка, развешивание белья"
+      "ActivityDescription": "Стирка, развешивание белья",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05100",
       "METValue": 3.0,
-      "ActivityDescription": "Смена постельного белья"
+      "ActivityDescription": "Смена постельного белья",
+      "systemIcon": "bed.double.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05121",
       "METValue": 5.0,
-      "ActivityDescription": "Перемещение, подъем легких грузов"
+      "ActivityDescription": "Перемещение, подъем легких грузов",
+      "systemIcon": "archivebox.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05130",
       "METValue": 3.5,
-      "ActivityDescription": "Мытье полов стоя на четвереньках, мытье ванной комнаты, ванны, умеренные усилия."
+      "ActivityDescription": "Мытье полов стоя на четвереньках, мытье ванной комнаты, ванны, умеренные усилия.",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05131",
       "METValue": 2.0,
-      "ActivityDescription": "Мытье полов стоя на четвереньках, мытье ванной комнаты, ванны, легкие усилия."
+      "ActivityDescription": "Мытье полов стоя на четвереньках, мытье ванной комнаты, ванны, легкие усилия.",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05132",
       "METValue": 6.5,
-      "ActivityDescription": "Мытье полов, стоя на четвереньках, мытье ванной комнаты, ванны, энергичные усилия."
+      "ActivityDescription": "Мытье полов, стоя на четвереньках, мытье ванной комнаты, ванны, энергичные усилия.",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05140",
       "METValue": 3.0,
-      "ActivityDescription": "Подметание гаража, тротуара или придомовой территории"
+      "ActivityDescription": "Подметание гаража, тротуара или придомовой территории",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05148",
       "METValue": 2.0,
-      "ActivityDescription": "Полив растений"
+      "ActivityDescription": "Полив растений",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05150",
       "METValue": 9.0,
-      "ActivityDescription": "Перенос коробок или мебели."
+      "ActivityDescription": "Перенос коробок или мебели.",
+      "systemIcon": "archivebox.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05171",
       "METValue": 2.8,
-      "ActivityDescription": "Игра с ребенком(детьми), легкие усилия"
+      "ActivityDescription": "Игра с ребенком(детьми), легкие усилия",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05175",
       "METValue": 3.5,
-      "ActivityDescription": "Ходьба/бег, игры с ребенком(детьми), умеренная нагрузка"
+      "ActivityDescription": "Ходьба/бег, игры с ребенком(детьми), умеренная нагрузка",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05180",
       "METValue": 5.8,
-      "ActivityDescription": "Ходьба/бег, игры с ребенком(детьми), энергичные усилия"
+      "ActivityDescription": "Ходьба/бег, игры с ребенком(детьми), энергичные усилия",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05184",
       "METValue": 2.5,
-      "ActivityDescription": "Уход за детьми, младенцами"
+      "ActivityDescription": "Уход за детьми, младенцами",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05185",
       "METValue": 2.0,
-      "ActivityDescription": "Уход за детьми: одевание, купание, уход, кормление"
+      "ActivityDescription": "Уход за детьми: одевание, купание, уход, кормление",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05189",
       "METValue": 2.0,
-      "ActivityDescription": "Кормление грудью, сидя или лежа"
+      "ActivityDescription": "Кормление грудью, сидя или лежа",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05192",
       "METValue": 2.8,
-      "ActivityDescription": "Ходьба или бег, игры с животными, легкие усилия"
+      "ActivityDescription": "Ходьба или бег, игры с животными, легкие усилия",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05193",
       "METValue": 4.0,
-      "ActivityDescription": "Ходьба/бег, игры с животными, умеренная нагрузка"
+      "ActivityDescription": "Ходьба/бег, игры с животными, умеренная нагрузка",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05194",
       "METValue": 5.0,
-      "ActivityDescription": "Ходьба/бег, игры с животными, энергичные усилия"
+      "ActivityDescription": "Ходьба/бег, игры с животными, энергичные усилия",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05197",
       "METValue": 2.3,
-      "ActivityDescription": "Уход за животными"
+      "ActivityDescription": "Уход за животными",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05200",
       "METValue": 3.0,
-      "ActivityDescription": "Уход за пожилыми людьми, взрослыми с ограниченными возможностями, купание, одевание, перемещение в постель и вставание с нее"
+      "ActivityDescription": "Уход за пожилыми людьми, взрослыми с ограниченными возможностями, купание, одевание, перемещение в постель и вставание с нее",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Домашняя деятельность",
       "ActivityCode": "05205",
       "METValue": 1.8,
-      "ActivityDescription": "Уход за пожилыми людьми, инвалидами, кормление, расчесывание волос, легкие усилия"
+      "ActivityDescription": "Уход за пожилыми людьми, инвалидами, кормление, расчесывание волос, легкие усилия",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Ремонт дома",
@@ -1283,61 +1327,71 @@
       "MajorHeading": "Свободное время",
       "ActivityCode": "09000",
       "METValue": 1.3,
-      "ActivityDescription": "Игра в настольную игру"
+      "ActivityDescription": "Игра в настольную игру",
+      "systemIcon": "dice.fill"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09005",
       "METValue": 2.5,
-      "ActivityDescription": "Азартные игры в казино"
+      "ActivityDescription": "Азартные игры в казино",
+      "systemIcon": "dice.fill"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09010",
       "METValue": 1.5,
-      "ActivityDescription": "Игра в карты"
+      "ActivityDescription": "Игра в карты",
+      "systemIcon": "suit.spade.fill"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09013",
       "METValue": 1.5,
-      "ActivityDescription": "Игра в шахматы"
+      "ActivityDescription": "Игра в шахматы",
+      "systemIcon": "square.grid.3x3.fill"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09020",
       "METValue": 1.8,
-      "ActivityDescription": "Рисование"
+      "ActivityDescription": "Рисование",
+      "systemIcon": "pencil"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09030",
       "METValue": 1.0,
-      "ActivityDescription": "Чтение, книга, газета, журнал."
+      "ActivityDescription": "Чтение, книга, газета, журнал.",
+      "systemIcon": "book.fill"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09040",
       "METValue": 1.3,
-      "ActivityDescription": "Работа за столом, печатаю."
+      "ActivityDescription": "Работа за столом, печатаю.",
+      "systemIcon": "keyboard"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09060",
       "METValue": 1.5,
-      "ActivityDescription": "Сидячая учёба, включая чтение или письмо, легкие усилия."
+      "ActivityDescription": "Сидячая учёба, включая чтение или письмо, легкие усилия.",
+      "systemIcon": "book.fill"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09106",
       "METValue": 3.5,
-      "ActivityDescription": "Туризм/путешествие/отпуск, связанный с ходьбой"
+      "ActivityDescription": "Туризм/путешествие/отпуск, связанный с ходьбой",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Свободное время",
       "ActivityCode": "09110",
       "METValue": 2.5,
-      "ActivityDescription": "Кемпинг"
+      "ActivityDescription": "Кемпинг",
+      "systemIcon": "tent.fill"
     },
     {
       "MajorHeading": "Музыкальные инструменты",
@@ -1476,373 +1530,435 @@
       "MajorHeading": "Работа",
       "ActivityCode": "11006",
       "METValue": 3.0,
-      "ActivityDescription": "Стюардесса авиакомпании"
+      "ActivityDescription": "Стюардесса авиакомпании",
+      "systemIcon": "airplane"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11008",
       "METValue": 4.8,
-      "ActivityDescription": "Сбор яблок"
+      "ActivityDescription": "Сбор яблок",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11010",
       "METValue": 4.0,
-      "ActivityDescription": "Пекарь"
+      "ActivityDescription": "Пекарь",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11015",
       "METValue": 2.0,
-      "ActivityDescription": "Пекарь, легкие усилия"
+      "ActivityDescription": "Пекарь, легкие усилия",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11050",
       "METValue": 8.0,
-      "ActivityDescription": "Перенос тяжелых грузов (например, кирпичей, инструментов)"
+      "ActivityDescription": "Перенос тяжелых грузов (например, кирпичей, инструментов)",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11060",
       "METValue": 8.0,
-      "ActivityDescription": "Перенос умеренных грузов вверх по лестнице, перемещение коробок, 11–22 кг."
+      "ActivityDescription": "Перенос умеренных грузов вверх по лестнице, перемещение коробок, 11–22 кг.",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11070",
       "METValue": 4.0,
-      "ActivityDescription": "Горничная, горничная в отеле, застилание постели, уборка ванной."
+      "ActivityDescription": "Горничная, горничная в отеле, застилание постели, уборка ванной.",
+      "systemIcon": "bed.double.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11072",
       "METValue": 4.3,
-      "ActivityDescription": "Уборка, уборка коммерческих помещений"
+      "ActivityDescription": "Уборка, уборка коммерческих помещений",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11080",
       "METValue": 5.3,
-      "ActivityDescription": "Добыча угля"
+      "ActivityDescription": "Добыча угля",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11115",
       "METValue": 2.5,
-      "ActivityDescription": "Повар, шеф-повар"
+      "ActivityDescription": "Повар, шеф-повар",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11120",
       "METValue": 4.0,
-      "ActivityDescription": "Строительство, наружная отделка, реконструкция, новые постройки (например, ремонт крыши и т. д.)"
+      "ActivityDescription": "Строительство, наружная отделка, реконструкция, новые постройки (например, ремонт крыши и т. д.)",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11124",
       "METValue": 2.3,
-      "ActivityDescription": "Строительство, арматура, гибка/фиксация стержней"
+      "ActivityDescription": "Строительство, арматура, гибка/фиксация стержней",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11130",
       "METValue": 3.3,
-      "ActivityDescription": "Электромонтажные работы (например, подключение проводов, врезка соединений)"
+      "ActivityDescription": "Электромонтажные работы (например, подключение проводов, врезка соединений)",
+      "systemIcon": "bolt.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11135",
       "METValue": 1.8,
-      "ActivityDescription": "Инженер (например, механик или электрик)"
+      "ActivityDescription": "Инженер (например, механик или электрик)",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11145",
       "METValue": 7.8,
-      "ActivityDescription": "Сельское хозяйство, энергичная работа (например, прессование сена, уборка сарая)"
+      "ActivityDescription": "Сельское хозяйство, энергичная работа (например, прессование сена, уборка сарая)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11147",
       "METValue": 2.0,
-      "ActivityDescription": "Сельское хозяйство, легкая работа (например, уборка сараев для животных, приготовление корма для животных)"
+      "ActivityDescription": "Сельское хозяйство, легкая работа (например, уборка сараев для животных, приготовление корма для животных)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11170",
       "METValue": 2.8,
-      "ActivityDescription": "Сельское хозяйство, задачи по вождению (например, вождение трактора или комбайна)"
+      "ActivityDescription": "Сельское хозяйство, задачи по вождению (например, вождение трактора или комбайна)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11180",
       "METValue": 3.5,
-      "ActivityDescription": "Сельское хозяйство, кормление мелких животных"
+      "ActivityDescription": "Сельское хозяйство, кормление мелких животных",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11190",
       "METValue": 4.3,
-      "ActivityDescription": "Сельское хозяйство, кормление крупного рогатого скота, лошадей"
+      "ActivityDescription": "Сельское хозяйство, кормление крупного рогатого скота, лошадей",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11195",
       "METValue": 3.8,
-      "ActivityDescription": "Сельское хозяйство, рис, посадка, переработка зерна"
+      "ActivityDescription": "Сельское хозяйство, рис, посадка, переработка зерна",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11222",
       "METValue": 3.0,
-      "ActivityDescription": "Сельское хозяйство, доение коров"
+      "ActivityDescription": "Сельское хозяйство, доение коров",
+      "systemIcon": "drop.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11240",
       "METValue": 8.0,
-      "ActivityDescription": "Пожарный"
+      "ActivityDescription": "Пожарный",
+      "systemIcon": "flame.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11375",
       "METValue": 3.8,
-      "ActivityDescription": "Сборщик мусора, сброс мусорных баков в грузовик, уборка улиц."
+      "ActivityDescription": "Сборщик мусора, сброс мусорных баков в грузовик, уборка улиц.",
+      "systemIcon": "trash.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11378",
       "METValue": 1.8,
-      "ActivityDescription": "Парикмахер"
+      "ActivityDescription": "Парикмахер",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11380",
       "METValue": 7.3,
-      "ActivityDescription": "Уход за лошадьми, включая кормление, уборку стойл, купание, расчесывание, стрижку, тренировку лошадей."
+      "ActivityDescription": "Уход за лошадьми, включая кормление, уборку стойл, купание, расчесывание, стрижку, тренировку лошадей.",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11383",
       "METValue": 4.5,
-      "ActivityDescription": "Верховая езда"
+      "ActivityDescription": "Верховая езда",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11390",
       "METValue": 7.8,
-      "ActivityDescription": "Скачки"
+      "ActivityDescription": "Скачки",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11413",
       "METValue": 3.0,
-      "ActivityDescription": "Кухонная горничная"
+      "ActivityDescription": "Кухонная горничная",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11415",
       "METValue": 4.0,
-      "ActivityDescription": "Газонщик, работа во дворе"
+      "ActivityDescription": "Газонщик, работа во дворе",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11418",
       "METValue": 3.3,
-      "ActivityDescription": "Работник прачечной"
+      "ActivityDescription": "Работник прачечной",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11420",
       "METValue": 3.0,
-      "ActivityDescription": "Слесарь"
+      "ActivityDescription": "Слесарь",
+      "systemIcon": "lock.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11485",
       "METValue": 5.5,
-      "ActivityDescription": "Массажист"
+      "ActivityDescription": "Массажист",
+      "systemIcon": "figure.flexibility"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11486",
       "METValue": 2.3,
-      "ActivityDescription": "Почтальон"
+      "ActivityDescription": "Почтальон",
+      "systemIcon": "envelope.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11495",
       "METValue": 12.0,
-      "ActivityDescription": "Прыжки с аквалангом или подводное плавание с аквалангом в качестве водолаза"
+      "ActivityDescription": "Прыжки с аквалангом или подводное плавание с аквалангом в качестве водолаза",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11516",
       "METValue": 3.0,
-      "ActivityDescription": "Сантехник"
+      "ActivityDescription": "Сантехник",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11520",
       "METValue": 2.0,
-      "ActivityDescription": "Полиграфист, работник бумажной промышленности"
+      "ActivityDescription": "Полиграфист, работник бумажной промышленности",
+      "systemIcon": "printer.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11524",
       "METValue": 3.8,
-      "ActivityDescription": "Полицейский"
+      "ActivityDescription": "Полицейский",
+      "systemIcon": "shield.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11525",
       "METValue": 2.5,
-      "ActivityDescription": "Полиция, регулирует движение"
+      "ActivityDescription": "Полиция, регулирует движение",
+      "systemIcon": "shield.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11526",
       "METValue": 2.0,
-      "ActivityDescription": "Полиция, за рулем патрульной машины"
+      "ActivityDescription": "Полиция, за рулем патрульной машины",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11527",
       "METValue": 1.3,
-      "ActivityDescription": "Полиция едет в патрульной машине"
+      "ActivityDescription": "Полиция едет в патрульной машине",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11528",
       "METValue": 4.0,
-      "ActivityDescription": "Полиция производит арест"
+      "ActivityDescription": "Полиция производит арест",
+      "systemIcon": "shield.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11550",
       "METValue": 8.8,
-      "ActivityDescription": "Работа лопатой, энергичные усилия."
+      "ActivityDescription": "Работа лопатой, энергичные усилия.",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11560",
       "METValue": 5.0,
-      "ActivityDescription": "Работа лопатой, умеренное усилие."
+      "ActivityDescription": "Работа лопатой, умеренное усилие.",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11580",
       "METValue": 1.5,
-      "ActivityDescription": "Сидячая работа, легкие усилия (например, работа в офисе, работа в химической лаборатории, легкий сборочный ремонт, ремонт часов, чтение, работа за столом)"
+      "ActivityDescription": "Сидячая работа, легкие усилия (например, работа в офисе, работа в химической лаборатории, легкий сборочный ремонт, ремонт часов, чтение, работа за столом)",
+      "systemIcon": "desktopcomputer"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11582",
       "METValue": 1.3,
-      "ActivityDescription": "Работа за компьютером"
+      "ActivityDescription": "Работа за компьютером",
+      "systemIcon": "desktopcomputer"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11650",
       "METValue": 2.3,
-      "ActivityDescription": "Уход за пациентами, медицинская деятельность"
+      "ActivityDescription": "Уход за пациентами, медицинская деятельность",
+      "systemIcon": "stethoscope"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11660",
       "METValue": 3.5,
-      "ActivityDescription": "Уход за пациентами, уборка/подготовка помещения"
+      "ActivityDescription": "Уход за пациентами, уборка/подготовка помещения",
+      "systemIcon": "cross.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11720",
       "METValue": 2.3,
-      "ActivityDescription": "Пошив одежды, раскрой ткани"
+      "ActivityDescription": "Пошив одежды, раскрой ткани",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11740",
       "METValue": 1.8,
-      "ActivityDescription": "Пошив одежды, ручное шитье"
+      "ActivityDescription": "Пошив одежды, ручное шитье",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11750",
       "METValue": 2.5,
-      "ActivityDescription": "Пошив одежды на швейной машинке"
+      "ActivityDescription": "Пошив одежды на швейной машинке",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11763",
       "METValue": 2.0,
-      "ActivityDescription": "Пошив одежды, ткачество, легкая работа (например, отделочные работы, стирка, крашение)"
+      "ActivityDescription": "Пошив одежды, ткачество, легкая работа (например, отделочные работы, стирка, крашение)",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11766",
       "METValue": 6.5,
-      "ActivityDescription": "Вождение грузовика, погрузка и разгрузка грузовика, привязка груза, переноска тяжелых грузов."
+      "ActivityDescription": "Вождение грузовика, погрузка и разгрузка грузовика, привязка груза, переноска тяжелых грузов.",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11767",
       "METValue": 2.0,
-      "ActivityDescription": "Вождение грузовика, грузовика доставки, такси, маршрутного автобуса, школьного автобуса"
+      "ActivityDescription": "Вождение грузовика, грузовика доставки, такси, маршрутного автобуса, школьного автобуса",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11797",
       "METValue": 3.8,
-      "ActivityDescription": "Ходьба со скоростью 4 км в час, медленная скорость, перенос тяжелых предметов весом более 11 кг."
+      "ActivityDescription": "Ходьба со скоростью 4 км в час, медленная скорость, перенос тяжелых предметов весом более 11 кг.",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11800",
       "METValue": 4.5,
-      "ActivityDescription": "Ходьба со скоростью 5 км в час, умеренная, с переноской легких предметов весом менее 11 кг."
+      "ActivityDescription": "Ходьба со скоростью 5 км в час, умеренная, с переноской легких предметов весом менее 11 кг.",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11810",
       "METValue": 4.5,
-      "ActivityDescription": "Ходьба со скоростью 6 км в час, быстрая ходьба с предметами весом менее 11 кг."
+      "ActivityDescription": "Ходьба со скоростью 6 км в час, быстрая ходьба с предметами весом менее 11 кг.",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11820",
       "METValue": 4.0,
-      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом от 11 до 22 кг."
+      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом от 11 до 22 кг.",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11830",
       "METValue": 5.5,
-      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом от 22 до 33 кг."
+      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом от 22 до 33 кг.",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11840",
       "METValue": 7.0,
-      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом от 34 до 45 кг."
+      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом от 34 до 45 кг.",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11850",
       "METValue": 7.3,
-      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом около 45 кг и более."
+      "ActivityDescription": "Ходьба или спуск по лестнице, неся предметы весом около 45 кг и более.",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11860",
       "METValue": 2.3,
-      "ActivityDescription": "Работа на складе, Погрузка/разгрузка коробок"
+      "ActivityDescription": "Работа на складе, Погрузка/разгрузка коробок",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Работа",
       "ActivityCode": "11862",
       "METValue": 4.3,
-      "ActivityDescription": "Работа на складе, Коробки для переезда (~5 кг)"
+      "ActivityDescription": "Работа на складе, Коробки для переезда (~5 кг)",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Бег",
@@ -2093,7 +2209,8 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15080",
       "METValue": 2.5,
-      "ActivityDescription": "Бильярд"
+      "ActivityDescription": "Бильярд",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Спорт",
@@ -2134,7 +2251,8 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15130",
       "METValue": 7.0,
-      "ActivityDescription": "Брумбол"
+      "ActivityDescription": "Брумбол",
+      "systemIcon": "figure.hockey"
     },
     {
       "MajorHeading": "Спорт",
@@ -2154,13 +2272,15 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15160",
       "METValue": 3.3,
-      "ActivityDescription": "Крокет"
+      "ActivityDescription": "Крокет",
+      "systemIcon": "figure.golf"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15180",
       "METValue": 2.5,
-      "ActivityDescription": "Дартс"
+      "ActivityDescription": "Дартс",
+      "systemIcon": "target"
     },
     {
       "MajorHeading": "Спорт",
@@ -2229,43 +2349,50 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15370",
       "METValue": 5.5,
-      "ActivityDescription": "Верховая езда"
+      "ActivityDescription": "Верховая езда",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15380",
       "METValue": 4.5,
-      "ActivityDescription": "Уход за лошадьми"
+      "ActivityDescription": "Уход за лошадьми",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15390",
       "METValue": 5.8,
-      "ActivityDescription": "Верховая езда, рысью"
+      "ActivityDescription": "Верховая езда, рысью",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15395",
       "METValue": 7.3,
-      "ActivityDescription": "Верховая езда, галоп"
+      "ActivityDescription": "Верховая езда, галоп",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15400",
       "METValue": 3.8,
-      "ActivityDescription": "Верховая езда, прогулки"
+      "ActivityDescription": "Верховая езда, прогулки",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15402",
       "METValue": 9.0,
-      "ActivityDescription": "Верховая езда, прыжки"
+      "ActivityDescription": "Верховая езда, прыжки",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15403",
       "METValue": 6.0,
-      "ActivityDescription": "Верховая езда, рейнинг"
+      "ActivityDescription": "Верховая езда, рейнинг",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
@@ -2285,7 +2412,8 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15432",
       "METValue": 14.3,
-      "ActivityDescription": "Тхэквондо"
+      "ActivityDescription": "Тхэквондо",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Спорт",
@@ -2298,7 +2426,8 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15440",
       "METValue": 4.0,
-      "ActivityDescription": "Жонглирование"
+      "ActivityDescription": "Жонглирование",
+      "systemIcon": "figure.gymnastics"
     },
     {
       "MajorHeading": "Спорт",
@@ -2325,7 +2454,8 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15450",
       "METValue": 7.0,
-      "ActivityDescription": "Кикбол"
+      "ActivityDescription": "Кикбол",
+      "systemIcon": "figure.soccer"
     },
     {
       "MajorHeading": "Спорт",
@@ -2359,19 +2489,22 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15470",
       "METValue": 4.0,
-      "ActivityDescription": "Мотокросс, мотоспорт по бездорожью"
+      "ActivityDescription": "Мотокросс, мотоспорт по бездорожью",
+      "systemIcon": "motorcycle"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15475",
       "METValue": 5.3,
-      "ActivityDescription": "Мотогонки"
+      "ActivityDescription": "Мотогонки",
+      "systemIcon": "motorcycle"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15477",
       "METValue": 7.0,
-      "ActivityDescription": "Нетбол"
+      "ActivityDescription": "Нетбол",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Спорт",
@@ -2391,13 +2524,15 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15503",
       "METValue": 1.8,
-      "ActivityDescription": "Полеты на параплане"
+      "ActivityDescription": "Полеты на параплане",
+      "systemIcon": "wind"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15510",
       "METValue": 8.0,
-      "ActivityDescription": "Поло, верхом на лошади"
+      "ActivityDescription": "Поло, верхом на лошади",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
@@ -2466,19 +2601,22 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15542",
       "METValue": 4.0,
-      "ActivityDescription": "Родео-спорт, легкие усилия"
+      "ActivityDescription": "Родео-спорт, легкие усилия",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15544",
       "METValue": 5.5,
-      "ActivityDescription": "Родео-спорт, умеренные усилия."
+      "ActivityDescription": "Родео-спорт, умеренные усилия.",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15546",
       "METValue": 7.0,
-      "ActivityDescription": "Родео-спорт, энергичные усилия."
+      "ActivityDescription": "Родео-спорт, энергичные усилия.",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Спорт",
@@ -2568,25 +2706,29 @@
       "MajorHeading": "Спорт",
       "ActivityCode": "15595",
       "METValue": 6.8,
-      "ActivityDescription": "Скейтборд, лонгборд, 13,3 км/ч, медленная скорость."
+      "ActivityDescription": "Скейтборд, лонгборд, 13,3 км/ч, медленная скорость.",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15596",
       "METValue": 8.3,
-      "ActivityDescription": "Скейтборд, лонгборд, 16,2 км/ч, типичная скорость."
+      "ActivityDescription": "Скейтборд, лонгборд, 16,2 км/ч, типичная скорость.",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15597",
       "METValue": 10.5,
-      "ActivityDescription": "Скейтборд, лонгборд, 18,4 км/ч, быстрая скорость."
+      "ActivityDescription": "Скейтборд, лонгборд, 18,4 км/ч, быстрая скорость.",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Спорт",
       "ActivityCode": "15600",
       "METValue": 3.5,
-      "ActivityDescription": "Прыжки с парашютом, бейсджампинг, банджи-джампинг"
+      "ActivityDescription": "Прыжки с парашютом, бейсджампинг, банджи-джампинг",
+      "systemIcon": "airplane.departure"
     },
     {
       "MajorHeading": "Спорт",
@@ -3012,7 +3154,8 @@
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18090",
       "METValue": 3.0,
-      "ActivityDescription": "Дайвинг"
+      "ActivityDescription": "Дайвинг",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
@@ -3032,67 +3175,78 @@
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18110",
       "METValue": 4.0,
-      "ActivityDescription": "Велосипедный катер"
+      "ActivityDescription": "Велосипедный катер",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18150",
       "METValue": 6.0,
-      "ActivityDescription": "Катание на водных лыжах"
+      "ActivityDescription": "Катание на водных лыжах",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18160",
       "METValue": 7.0,
-      "ActivityDescription": "Катание на гидроцикле"
+      "ActivityDescription": "Катание на гидроцикле",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18180",
       "METValue": 15.8,
-      "ActivityDescription": "Скидайвинг, быстро"
+      "ActivityDescription": "Скидайвинг, быстро",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18190",
       "METValue": 11.8,
-      "ActivityDescription": "Скидайвинг, умеренный"
+      "ActivityDescription": "Скидайвинг, умеренный",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18200",
       "METValue": 7.0,
-      "ActivityDescription": "Прыжки с аквалангом, подводное плавание"
+      "ActivityDescription": "Прыжки с аквалангом, подводное плавание",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18202",
       "METValue": 5.3,
-      "ActivityDescription": "Подводное плавание с аквалангом, легкие усилия."
+      "ActivityDescription": "Подводное плавание с аквалангом, легкие усилия.",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18204",
       "METValue": 5.8,
-      "ActivityDescription": "Подводное плавание, умеренные усилия."
+      "ActivityDescription": "Подводное плавание, умеренные усилия.",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18206",
       "METValue": 5.5,
-      "ActivityDescription": "Подводное плавание, профессиональный дайвер"
+      "ActivityDescription": "Подводное плавание, профессиональный дайвер",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18208",
       "METValue": 6.8,
-      "ActivityDescription": "Подводное плавание, дайвер-любитель"
+      "ActivityDescription": "Подводное плавание, дайвер-любитель",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18210",
       "METValue": 5.0,
-      "ActivityDescription": "Подводное плавание"
+      "ActivityDescription": "Подводное плавание",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Водные развлечения",
@@ -3119,7 +3273,8 @@
       "MajorHeading": "Водные развлечения",
       "ActivityCode": "18224",
       "METValue": 6.5,
-      "ActivityDescription": "Сапсерфинг"
+      "ActivityDescription": "Сапсерфинг",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Водные развлечения",
@@ -3377,7 +3532,8 @@
       "MajorHeading": "Зимние развлечения",
       "ActivityCode": "19180",
       "METValue": 7.0,
-      "ActivityDescription": "Катание на санях"
+      "ActivityDescription": "Катание на санях",
+      "systemIcon": "figure.snowboarding"
     },
     {
       "MajorHeading": "Зимние развлечения",
@@ -3404,13 +3560,15 @@
       "MajorHeading": "Зимние развлечения",
       "ActivityCode": "19252",
       "METValue": 5.3,
-      "ActivityDescription": "Уборка снега вручную, умеренное усилие."
+      "ActivityDescription": "Уборка снега вручную, умеренное усилие.",
+      "systemIcon": "snowflake"
     },
     {
       "MajorHeading": "Зимние развлечения",
       "ActivityCode": "19254",
       "METValue": 7.5,
-      "ActivityDescription": "Уборка снега вручную, энергичное усилие."
+      "ActivityDescription": "Уборка снега вручную, энергичное усилие.",
+      "systemIcon": "snowflake"
     },
     {
       "MajorHeading": "Зимние развлечения",
@@ -3479,7 +3637,8 @@
       "MajorHeading": "Зимние развлечения",
       "ActivityCode": "19400",
       "METValue": 9.0,
-      "ActivityDescription": "Альпинизм, скалолазание, спуск по веревке."
+      "ActivityDescription": "Альпинизм, скалолазание, спуск по веревке.",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Зимние развлечения",
@@ -3492,49 +3651,57 @@
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21010",
       "METValue": 2.5,
-      "ActivityDescription": "Сидячая, умеренная работа"
+      "ActivityDescription": "Сидячая, умеренная работа",
+      "systemIcon": "person.fill"
     },
     {
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21015",
       "METValue": 1.8,
-      "ActivityDescription": "Стоячая, легкая работа"
+      "ActivityDescription": "Стоячая, легкая работа",
+      "systemIcon": "person.fill"
     },
     {
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21016",
       "METValue": 2.0,
-      "ActivityDescription": "Сидение, уход за детьми, только активные периоды"
+      "ActivityDescription": "Сидение, уход за детьми, только активные периоды",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21017",
       "METValue": 3.5,
-      "ActivityDescription": "Стояние, уход за ребенком, только активные периоды"
+      "ActivityDescription": "Стояние, уход за ребенком, только активные периоды",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21018",
       "METValue": 3.5,
-      "ActivityDescription": "Игры с детьми, умеренные, только активные периоды"
+      "ActivityDescription": "Игры с детьми, умеренные, только активные периоды",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21019",
       "METValue": 5.8,
-      "ActivityDescription": "Игра с детьми, энергичный, только активные периоды"
+      "ActivityDescription": "Игра с детьми, энергичный, только активные периоды",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21020",
       "METValue": 3.3,
-      "ActivityDescription": "Стоячая, легкая/умеренная работа (например, упаковка коробок, сборка/ремонт, установка стульев/мебели)"
+      "ActivityDescription": "Стоячая, легкая/умеренная работа (например, упаковка коробок, сборка/ремонт, установка стульев/мебели)",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Волонтерская деятельность",
       "ActivityCode": "21030",
       "METValue": 4.5,
-      "ActivityDescription": "Стоячая, умеренная/тяжелая работа"
+      "ActivityDescription": "Стоячая, умеренная/тяжелая работа",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Видеоигры",
@@ -3585,110 +3752,110 @@
       "ActivityDescription": "Тренировка/упражнения в виртуальной реальности, высокая интенсивность",
       "systemIcon": "gamecontroller.fill"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22361",
       "METValue": 2.8,
       "ActivityDescription": "Ходьба по беговой дорожке со скоростью 4 км/ч, беговая дорожка",
-      "systemIcon": ""
+      "systemIcon": "figure.walk"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22362",
       "METValue": 3.5,
       "ActivityDescription": "Ходьба по беговой дорожке со скоростью 5 км/ч, беговая дорожка",
-      "systemIcon": ""
+      "systemIcon": "figure.walk"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22363",
       "METValue": 4.8,
       "ActivityDescription": "Ходьба по беговой дорожке со скоростью 6 км/ч, беговая дорожка",
-      "systemIcon": ""
+      "systemIcon": "figure.walk"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22364",
       "METValue": 8.5,
       "ActivityDescription": "Лестничный тренажёр, лестница",
-      "systemIcon": ""
+      "systemIcon": "figure.stair.stepper"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22365",
       "METValue": 3.5,
       "ActivityDescription": "Силовая тренировка в тренажерном зале, лёгкие веса",
-      "systemIcon": ""
+      "systemIcon": "figure.strengthtraining.traditional"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22366",
       "METValue": 5.0,
       "ActivityDescription": "Силовая тренировка в тренажерном зале, средние веса",
-      "systemIcon": ""
+      "systemIcon": "figure.strengthtraining.traditional"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22367",
       "METValue": 6.0,
       "ActivityDescription": "Силовая тренировка в тренажерном зале, тяжёлые веса",
-      "systemIcon": ""
+      "systemIcon": "figure.strengthtraining.traditional"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22368",
       "METValue": 2.3,
       "ActivityDescription": "Растяжка",
-      "systemIcon": ""
+      "systemIcon": "figure.flexibility"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22369",
       "METValue": 5.0,
       "ActivityDescription": "Эллипс",
-      "systemIcon": ""
+      "systemIcon": "figure.elliptical"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22370",
       "METValue": 5.5,
       "ActivityDescription": "Велотренажёр",
-      "systemIcon": ""
+      "systemIcon": "figure.indoor.cycle"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22371",
       "METValue": 7.0,
       "ActivityDescription": "Гребной тренажёр, гребля",
-      "systemIcon": ""
+      "systemIcon": "figure.indoor.rowing"
     },
-	{
+    {
       "MajorHeading": "Нестандартная активность",
       "ActivityCode": "22372",
       "METValue": 2.2,
       "ActivityDescription": "Модельная работа (съёмка, позирование, переодевание)",
-	  "systemIcon": ""
+      "systemIcon": "camera.fill"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22373",
       "METValue": 5.0,
       "ActivityDescription": "Интервальная тренировка, лёгкая",
-	  "systemIcon": ""
+      "systemIcon": "figure.highintensity.intervaltraining"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22374",
       "METValue": 7.0,
       "ActivityDescription": "Интервальная тренировка, умеренная",
-	  "systemIcon": ""
+      "systemIcon": "figure.highintensity.intervaltraining"
     },
-	{
+    {
       "MajorHeading": "Тренировки в зале",
       "ActivityCode": "22375",
       "METValue": 10.0,
       "ActivityDescription": "Интервальная тренировка, сложная",
-	  "systemIcon": ""
+      "systemIcon": "figure.highintensity.intervaltraining"
     }
   ]
 }

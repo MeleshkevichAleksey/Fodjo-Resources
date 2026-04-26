@@ -299,14 +299,14 @@
       "ActivityCode": "02070",
       "METValue": 7.3,
       "ActivityDescription": "Rowing, stationary ergometer, vigorous effort",
-      "systemIcon": "figure.indoor.rowing"
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Conditioning Exercise",
       "ActivityCode": "02071",
       "METValue": 5.0,
       "ActivityDescription": "Rowing, stationary ergometer, moderate effort",
-      "systemIcon": "figure.indoor.rowing"
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Conditioning Exercise",
@@ -746,265 +746,309 @@
       "MajorHeading": "Home Activities",
       "ActivityCode": "05010",
       "METValue": 3.3,
-      "ActivityDescription": "Cleaning, sweeping carpet or floors"
+      "ActivityDescription": "Cleaning, sweeping carpet or floors",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05020",
       "METValue": 3.5,
-      "ActivityDescription": "Cleaning heavy or major (e.g., wash car, clean garage), moderate effort"
+      "ActivityDescription": "Cleaning heavy or major (e.g., wash car, clean garage), moderate effort",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05021",
       "METValue": 3.5,
-      "ActivityDescription": "Cleaning, mopping, standing, moderate effort"
+      "ActivityDescription": "Cleaning, mopping, standing, moderate effort",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05022",
       "METValue": 3.3,
-      "ActivityDescription": "Cleaning windows, washing windows"
+      "ActivityDescription": "Cleaning windows, washing windows",
+      "systemIcon": "sparkles"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05023",
       "METValue": 2.5,
-      "ActivityDescription": "Mopping, standing, light effort"
+      "ActivityDescription": "Mopping, standing, light effort",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05025",
       "METValue": 2.8,
-      "ActivityDescription": "Multiple household tasks all at once, light effort"
+      "ActivityDescription": "Multiple household tasks all at once, light effort",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05026",
       "METValue": 3.3,
-      "ActivityDescription": "Multiple household tasks all at once, moderate effort"
+      "ActivityDescription": "Multiple household tasks all at once, moderate effort",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05027",
       "METValue": 4.3,
-      "ActivityDescription": "Multiple household tasks all at once, vigorous effort"
+      "ActivityDescription": "Multiple household tasks all at once, vigorous effort",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05030",
       "METValue": 3.3,
-      "ActivityDescription": "Cleaning house, moderate effort"
+      "ActivityDescription": "Cleaning house, moderate effort",
+      "systemIcon": "house.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05035",
       "METValue": 3.3,
-      "ActivityDescription": "Kitchen activity, (e.g., cooking, washing dishes, cleaning up) moderate effort"
+      "ActivityDescription": "Kitchen activity, (e.g., cooking, washing dishes, cleaning up) moderate effort",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05040",
       "METValue": 2.5,
-      "ActivityDescription": "Cleaning, (straightening up, changing linen, carrying out trash), light effort"
+      "ActivityDescription": "Cleaning, (straightening up, changing linen, carrying out trash), light effort",
+      "systemIcon": "trash.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05041",
       "METValue": 2.0,
-      "ActivityDescription": "Wash dishes"
+      "ActivityDescription": "Wash dishes",
+      "systemIcon": "drop.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05042",
       "METValue": 2.0,
-      "ActivityDescription": "Wash dishes, clearing dishes from table"
+      "ActivityDescription": "Wash dishes, clearing dishes from table",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05043",
       "METValue": 3.0,
-      "ActivityDescription": "Vacuuming, moderate effort"
+      "ActivityDescription": "Vacuuming, moderate effort",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05049",
       "METValue": 3.5,
-      "ActivityDescription": "Cooking or food preparation, moderate effort"
+      "ActivityDescription": "Cooking or food preparation, moderate effort",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05052",
       "METValue": 2.3,
-      "ActivityDescription": "Serving food, setting/cleaning table"
+      "ActivityDescription": "Serving food, setting/cleaning table",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05053",
       "METValue": 2.5,
-      "ActivityDescription": "Feeding household animals"
+      "ActivityDescription": "Feeding household animals",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05060",
       "METValue": 3.3,
-      "ActivityDescription": "Food shopping"
+      "ActivityDescription": "Food shopping",
+      "systemIcon": "cart.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05070",
       "METValue": 1.8,
-      "ActivityDescription": "Ironing"
+      "ActivityDescription": "Ironing",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05080",
       "METValue": 1.3,
-      "ActivityDescription": "Knitting, sewing, light effort, wrapping presents"
+      "ActivityDescription": "Knitting, sewing, light effort, wrapping presents",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05082",
       "METValue": 2.8,
-      "ActivityDescription": "Sewing with a machine"
+      "ActivityDescription": "Sewing with a machine",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05091",
       "METValue": 2.0,
-      "ActivityDescription": "Laundry"
+      "ActivityDescription": "Laundry",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05092",
       "METValue": 4.0,
-      "ActivityDescription": "Laundry, moderate effort"
+      "ActivityDescription": "Laundry, moderate effort",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05095",
       "METValue": 2.0,
-      "ActivityDescription": "Laundry, hanging out laundry"
+      "ActivityDescription": "Laundry, hanging out laundry",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05100",
       "METValue": 3.0,
-      "ActivityDescription": "Making bed, changing linens"
+      "ActivityDescription": "Making bed, changing linens",
+      "systemIcon": "bed.double.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05121",
       "METValue": 5.0,
-      "ActivityDescription": "Moving, lifting light loads"
+      "ActivityDescription": "Moving, lifting light loads",
+      "systemIcon": "archivebox.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05130",
       "METValue": 3.5,
-      "ActivityDescription": "Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, moderate effort"
+      "ActivityDescription": "Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, moderate effort",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05131",
       "METValue": 2.0,
-      "ActivityDescription": "Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, light effort"
+      "ActivityDescription": "Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, light effort",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05132",
       "METValue": 6.5,
-      "ActivityDescription": "Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, vigorous effort"
+      "ActivityDescription": "Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, vigorous effort",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05140",
       "METValue": 3.0,
-      "ActivityDescription": "Sweeping garage, sidewalk, or outside house"
+      "ActivityDescription": "Sweeping garage, sidewalk, or outside house",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05148",
       "METValue": 2.0,
-      "ActivityDescription": "Watering plants"
+      "ActivityDescription": "Watering plants",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05150",
       "METValue": 9.0,
-      "ActivityDescription": "Moving carrying boxes or furniture"
+      "ActivityDescription": "Moving carrying boxes or furniture",
+      "systemIcon": "archivebox.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05171",
       "METValue": 2.8,
-      "ActivityDescription": "Playing with child(ren), light effort, only active periods"
+      "ActivityDescription": "Playing with child(ren), light effort, only active periods",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05175",
       "METValue": 3.5,
-      "ActivityDescription": "Walking/running, playing with child(ren), moderate effort"
+      "ActivityDescription": "Walking/running, playing with child(ren), moderate effort",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05180",
       "METValue": 5.8,
-      "ActivityDescription": "Walking/running, playing with child(ren), vigorous effort"
+      "ActivityDescription": "Walking/running, playing with child(ren), vigorous effort",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05184",
       "METValue": 2.5,
-      "ActivityDescription": "Child care, infant"
+      "ActivityDescription": "Child care, infant",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05185",
       "METValue": 2.0,
-      "ActivityDescription": "Child care: dressing, bathing, grooming, feeding"
+      "ActivityDescription": "Child care: dressing, bathing, grooming, feeding",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05189",
       "METValue": 2.0,
-      "ActivityDescription": "Breastfeeding, sitting or reclining"
+      "ActivityDescription": "Breastfeeding, sitting or reclining",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05192",
       "METValue": 2.8,
-      "ActivityDescription": "Walk or run, playing with animals, light effort"
+      "ActivityDescription": "Walk or run, playing with animals, light effort",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05193",
       "METValue": 4.0,
-      "ActivityDescription": "Walk/run, playing with animals, moderate effort"
+      "ActivityDescription": "Walk/run, playing with animals, moderate effort",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05194",
       "METValue": 5.0,
-      "ActivityDescription": "Walk/run, playing with animals, vigorous effort"
+      "ActivityDescription": "Walk/run, playing with animals, vigorous effort",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05197",
       "METValue": 2.3,
-      "ActivityDescription": "Animal care"
+      "ActivityDescription": "Animal care",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05200",
       "METValue": 3.0,
-      "ActivityDescription": "Elder care, disabled adult, bathing, dressing, moving into and out of bed"
+      "ActivityDescription": "Elder care, disabled adult, bathing, dressing, moving into and out of bed",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Home Activities",
       "ActivityCode": "05205",
       "METValue": 1.8,
-      "ActivityDescription": "Elder care, disabled adult, feeding, combing hair, light effort"
+      "ActivityDescription": "Elder care, disabled adult, feeding, combing hair, light effort",
+      "systemIcon": "figure.roll"
     },
     {
       "MajorHeading": "Home Repair",
@@ -1057,16 +1101,16 @@
     },
     {
       "MajorHeading": "Home Repair",
-      "ActivityCode": "06165",
-      "METValue": 4.5,
-      "ActivityDescription": "Painting",
+      "ActivityCode": "06160",
+      "METValue": 3.3,
+      "ActivityDescription": "Painting house, wallpapering, scraping paint",
       "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Home Repair",
-      "ActivityCode": "06170",
-      "METValue": 3.0,
-      "ActivityDescription": "Put on and removal of tarp – sailboat",
+      "ActivityCode": "06165",
+      "METValue": 4.5,
+      "ActivityDescription": "Painting",
       "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
@@ -1095,13 +1139,6 @@
       "ActivityCode": "08055",
       "METValue": 2.8,
       "ActivityDescription": "Driving tractor",
-      "systemIcon": "leaf.fill"
-    },
-    {
-      "MajorHeading": "Lawn & Garden",
-      "ActivityCode": "08060",
-      "METValue": 5.8,
-      "ActivityDescription": "Gardening with heavy power tools, using chain saw, tilling a garden",
       "systemIcon": "leaf.fill"
     },
     {
@@ -1290,61 +1327,71 @@
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09000",
       "METValue": 1.3,
-      "ActivityDescription": "Board game playing"
+      "ActivityDescription": "Board game playing",
+      "systemIcon": "dice.fill"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09005",
       "METValue": 2.5,
-      "ActivityDescription": "Casino gambling"
+      "ActivityDescription": "Casino gambling",
+      "systemIcon": "dice.fill"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09010",
       "METValue": 1.5,
-      "ActivityDescription": "Card playing"
+      "ActivityDescription": "Card playing",
+      "systemIcon": "suit.spade.fill"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09013",
       "METValue": 1.5,
-      "ActivityDescription": "Chess game"
+      "ActivityDescription": "Chess game",
+      "systemIcon": "square.grid.3x3.fill"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09020",
       "METValue": 1.8,
-      "ActivityDescription": "Drawing"
+      "ActivityDescription": "Drawing",
+      "systemIcon": "pencil"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09030",
       "METValue": 1.0,
-      "ActivityDescription": "Reading, book, newspaper, magazine"
+      "ActivityDescription": "Reading, book, newspaper, magazine",
+      "systemIcon": "book.fill"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09040",
       "METValue": 1.3,
-      "ActivityDescription": "Desk work, typing"
+      "ActivityDescription": "Desk work, typing",
+      "systemIcon": "keyboard"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09060",
       "METValue": 1.5,
-      "ActivityDescription": "Sitting studying, including reading or writing, light effort"
+      "ActivityDescription": "Sitting studying, including reading or writing, light effort",
+      "systemIcon": "book.fill"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09106",
       "METValue": 3.5,
-      "ActivityDescription": "Touring/traveling/vacation involving walking"
+      "ActivityDescription": "Touring/traveling/vacation involving walking",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Miscellaneous",
       "ActivityCode": "09110",
       "METValue": 2.5,
-      "ActivityDescription": "Camping"
+      "ActivityDescription": "Camping",
+      "systemIcon": "tent.fill"
     },
     {
       "MajorHeading": "Music Playing",
@@ -1453,9 +1500,9 @@
     },
     {
       "MajorHeading": "Music Playing",
-      "ActivityCode": "10125",
-      "METValue": 3.0,
-      "ActivityDescription": "Guitar, rock and roll band, standing",
+      "ActivityCode": "10120",
+      "METValue": 2.0,
+      "ActivityDescription": "Playing guitar",
       "systemIcon": "music.note"
     },
     {
@@ -1483,373 +1530,435 @@
       "MajorHeading": "Occupation",
       "ActivityCode": "11006",
       "METValue": 3.0,
-      "ActivityDescription": "Airline flight attendant"
+      "ActivityDescription": "Airline flight attendant",
+      "systemIcon": "airplane"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11008",
       "METValue": 4.8,
-      "ActivityDescription": "Apple Harvesting"
+      "ActivityDescription": "Apple Harvesting",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11010",
       "METValue": 4.0,
-      "ActivityDescription": "Baker"
+      "ActivityDescription": "Baker",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11015",
       "METValue": 2.0,
-      "ActivityDescription": "Baker, light effort"
+      "ActivityDescription": "Baker, light effort",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11050",
       "METValue": 8.0,
-      "ActivityDescription": "Carrying heavy loads (e.g., bricks, tools)"
+      "ActivityDescription": "Carrying heavy loads (e.g., bricks, tools)",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11060",
       "METValue": 8.0,
-      "ActivityDescription": "Carrying moderate loads up stairs, moving boxes, 25-49 lbs"
+      "ActivityDescription": "Carrying moderate loads up stairs, moving boxes, 25-49 lbs",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11070",
       "METValue": 4.0,
-      "ActivityDescription": "Chambermaid, hotel housekeeper, making bed, cleaning bathroom"
+      "ActivityDescription": "Chambermaid, hotel housekeeper, making bed, cleaning bathroom",
+      "systemIcon": "bed.double.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11072",
       "METValue": 4.3,
-      "ActivityDescription": "Cleaning, vacuuming commercial space"
+      "ActivityDescription": "Cleaning, vacuuming commercial space",
+      "systemIcon": "broom.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11080",
       "METValue": 5.3,
-      "ActivityDescription": "Coal mining"
+      "ActivityDescription": "Coal mining",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11115",
       "METValue": 2.5,
-      "ActivityDescription": "Cook, chef"
+      "ActivityDescription": "Cook, chef",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11120",
       "METValue": 4.0,
-      "ActivityDescription": "Construction, outside, remodeling, new structures (e.g., roof repair, miscellaneous)"
+      "ActivityDescription": "Construction, outside, remodeling, new structures (e.g., roof repair, miscellaneous)",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11124",
       "METValue": 2.3,
-      "ActivityDescription": "Construction, rebar, bar bending/fixing"
+      "ActivityDescription": "Construction, rebar, bar bending/fixing",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11130",
       "METValue": 3.3,
-      "ActivityDescription": "Electrical work (e.g., hook up wire, tapping splicing)"
+      "ActivityDescription": "Electrical work (e.g., hook up wire, tapping splicing)",
+      "systemIcon": "bolt.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11135",
       "METValue": 1.8,
-      "ActivityDescription": "Engineer (e.g., mechanical or electrical)"
+      "ActivityDescription": "Engineer (e.g., mechanical or electrical)",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11145",
       "METValue": 7.8,
-      "ActivityDescription": "Farming, vigorous effort (e.g., baling hay, cleaning barn)"
+      "ActivityDescription": "Farming, vigorous effort (e.g., baling hay, cleaning barn)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11147",
       "METValue": 2.0,
-      "ActivityDescription": "Farming, light effort, (e.g., cleaning animal sheds, preparing animal feed)"
+      "ActivityDescription": "Farming, light effort, (e.g., cleaning animal sheds, preparing animal feed)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11170",
       "METValue": 2.8,
-      "ActivityDescription": "Farming, driving tasks (e.g., driving tractor or harvester)"
+      "ActivityDescription": "Farming, driving tasks (e.g., driving tractor or harvester)",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11180",
       "METValue": 3.5,
-      "ActivityDescription": "Farming, feeding small animals"
+      "ActivityDescription": "Farming, feeding small animals",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11190",
       "METValue": 4.3,
-      "ActivityDescription": "Farming, feeding cattle, horses"
+      "ActivityDescription": "Farming, feeding cattle, horses",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11195",
       "METValue": 3.8,
-      "ActivityDescription": "Farming, rice, planting, grain milling activities"
+      "ActivityDescription": "Farming, rice, planting, grain milling activities",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11222",
       "METValue": 3.0,
-      "ActivityDescription": "Farming, milking Cows"
+      "ActivityDescription": "Farming, milking Cows",
+      "systemIcon": "drop.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11240",
       "METValue": 8.0,
-      "ActivityDescription": "Fire fighter"
+      "ActivityDescription": "Fire fighter",
+      "systemIcon": "flame.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11375",
       "METValue": 3.8,
-      "ActivityDescription": "Garbage collector, dumping bins into truck, street cleaning"
+      "ActivityDescription": "Garbage collector, dumping bins into truck, street cleaning",
+      "systemIcon": "trash.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11378",
       "METValue": 1.8,
-      "ActivityDescription": "Hairstylist"
+      "ActivityDescription": "Hairstylist",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11380",
       "METValue": 7.3,
-      "ActivityDescription": "Horse grooming, including feeding, cleaning stalls, bathing, brushing, clipping, exercising horses."
+      "ActivityDescription": "Horse grooming, including feeding, cleaning stalls, bathing, brushing, clipping, exercising horses.",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11383",
       "METValue": 4.5,
-      "ActivityDescription": "Horseback riding"
+      "ActivityDescription": "Horseback riding",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11390",
       "METValue": 7.8,
-      "ActivityDescription": "Horse racing"
+      "ActivityDescription": "Horse racing",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11413",
       "METValue": 3.0,
-      "ActivityDescription": "Kitchen maid"
+      "ActivityDescription": "Kitchen maid",
+      "systemIcon": "fork.knife"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11415",
       "METValue": 4.0,
-      "ActivityDescription": "Lawn keeper, yardwork"
+      "ActivityDescription": "Lawn keeper, yardwork",
+      "systemIcon": "leaf.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11418",
       "METValue": 3.3,
-      "ActivityDescription": "Laundry worker"
+      "ActivityDescription": "Laundry worker",
+      "systemIcon": "tshirt.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11420",
       "METValue": 3.0,
-      "ActivityDescription": "Locksmith"
+      "ActivityDescription": "Locksmith",
+      "systemIcon": "lock.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11485",
       "METValue": 5.5,
-      "ActivityDescription": "Massage therapist"
+      "ActivityDescription": "Massage therapist",
+      "systemIcon": "figure.flexibility"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11486",
       "METValue": 2.3,
-      "ActivityDescription": "Mail carrier"
+      "ActivityDescription": "Mail carrier",
+      "systemIcon": "envelope.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11495",
       "METValue": 12.0,
-      "ActivityDescription": "Skindiving or SCUBA diving as a frogman"
+      "ActivityDescription": "Skindiving or SCUBA diving as a frogman",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11516",
       "METValue": 3.0,
-      "ActivityDescription": "Plumbing activities"
+      "ActivityDescription": "Plumbing activities",
+      "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11520",
       "METValue": 2.0,
-      "ActivityDescription": "Printing, paper industry worker"
+      "ActivityDescription": "Printing, paper industry worker",
+      "systemIcon": "printer.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11524",
       "METValue": 3.8,
-      "ActivityDescription": "Police Officer"
+      "ActivityDescription": "Police Officer",
+      "systemIcon": "shield.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11525",
       "METValue": 2.5,
-      "ActivityDescription": "Police, directing traffic"
+      "ActivityDescription": "Police, directing traffic",
+      "systemIcon": "shield.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11526",
       "METValue": 2.0,
-      "ActivityDescription": "Police, driving a squad car"
+      "ActivityDescription": "Police, driving a squad car",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11527",
       "METValue": 1.3,
-      "ActivityDescription": "Police, riding in a squad car"
+      "ActivityDescription": "Police, riding in a squad car",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11528",
       "METValue": 4.0,
-      "ActivityDescription": "Police, making an arrest"
+      "ActivityDescription": "Police, making an arrest",
+      "systemIcon": "shield.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11550",
       "METValue": 8.8,
-      "ActivityDescription": "Shoveling, deep digging, vigorous effort"
+      "ActivityDescription": "Shoveling, deep digging, vigorous effort",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11560",
       "METValue": 5.0,
-      "ActivityDescription": "Shoveling, moderate effort"
+      "ActivityDescription": "Shoveling, moderate effort",
+      "systemIcon": "hammer.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11580",
       "METValue": 1.5,
-      "ActivityDescription": "Sitting work, light effort (e.g., office work, chemistry lab work, light assembly repair, watch repair, reading, desk work)"
+      "ActivityDescription": "Sitting work, light effort (e.g., office work, chemistry lab work, light assembly repair, watch repair, reading, desk work)",
+      "systemIcon": "desktopcomputer"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11582",
       "METValue": 1.3,
-      "ActivityDescription": "Computer work"
+      "ActivityDescription": "Computer work",
+      "systemIcon": "desktopcomputer"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11650",
       "METValue": 2.3,
-      "ActivityDescription": "Patient care, healthcare activites"
+      "ActivityDescription": "Patient care, healthcare activites",
+      "systemIcon": "stethoscope"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11660",
       "METValue": 3.5,
-      "ActivityDescription": "Patient care, room cleaning/preperation"
+      "ActivityDescription": "Patient care, room cleaning/preperation",
+      "systemIcon": "cross.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11720",
       "METValue": 2.3,
-      "ActivityDescription": "Tailoring, cutting fabric"
+      "ActivityDescription": "Tailoring, cutting fabric",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11740",
       "METValue": 1.8,
-      "ActivityDescription": "Tailoring, hand sewing"
+      "ActivityDescription": "Tailoring, hand sewing",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11750",
       "METValue": 2.5,
-      "ActivityDescription": "Tailoring, machine sewing"
+      "ActivityDescription": "Tailoring, machine sewing",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11763",
       "METValue": 2.0,
-      "ActivityDescription": "Tailoring, weaving, light effort (e.g., finishing operations, washing, dyeing)"
+      "ActivityDescription": "Tailoring, weaving, light effort (e.g., finishing operations, washing, dyeing)",
+      "systemIcon": "scissors"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11766",
       "METValue": 6.5,
-      "ActivityDescription": "Truck driving, loading and unloading truck, tying down load, carrying heavy loads"
+      "ActivityDescription": "Truck driving, loading and unloading truck, tying down load, carrying heavy loads",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11767",
       "METValue": 2.0,
-      "ActivityDescription": "Truck driving, delivery truck, taxi, shuttlebus, school bus"
+      "ActivityDescription": "Truck driving, delivery truck, taxi, shuttlebus, school bus",
+      "systemIcon": "car.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11797",
       "METValue": 3.8,
-      "ActivityDescription": "Walking, 2.5 mph, slow speed, carrying heavy objects more than 25 lbs"
+      "ActivityDescription": "Walking, 2.5 mph, slow speed, carrying heavy objects more than 25 lbs",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11800",
       "METValue": 4.5,
-      "ActivityDescription": "Walking, 3.0 mph, moderately and carrying light objects less than 25 lbs"
+      "ActivityDescription": "Walking, 3.0 mph, moderately and carrying light objects less than 25 lbs",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11810",
       "METValue": 4.5,
-      "ActivityDescription": "Walking, 3.5 mph, briskly and carrying objects less than 25 lbs"
+      "ActivityDescription": "Walking, 3.5 mph, briskly and carrying objects less than 25 lbs",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11820",
       "METValue": 4.0,
-      "ActivityDescription": "Walking or walk downstairs, carrying objects about 25 to 49 lbs"
+      "ActivityDescription": "Walking or walk downstairs, carrying objects about 25 to 49 lbs",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11830",
       "METValue": 5.5,
-      "ActivityDescription": "Walking or walk downstairs, carrying objects about 50 to 74 lbs"
+      "ActivityDescription": "Walking or walk downstairs, carrying objects about 50 to 74 lbs",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11840",
       "METValue": 7.0,
-      "ActivityDescription": "Walking or walk downstairs, carrying objects about 75 to 99 lbs"
+      "ActivityDescription": "Walking or walk downstairs, carrying objects about 75 to 99 lbs",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11850",
       "METValue": 7.3,
-      "ActivityDescription": "Walking or walk downstairs, carrying objects about 100 lbs or more"
+      "ActivityDescription": "Walking or walk downstairs, carrying objects about 100 lbs or more",
+      "systemIcon": "figure.walk"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11860",
       "METValue": 2.3,
-      "ActivityDescription": "Warehouse/Shipping Center, Loading/Unloading boxes"
+      "ActivityDescription": "Warehouse/Shipping Center, Loading/Unloading boxes",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Occupation",
       "ActivityCode": "11862",
       "METValue": 4.3,
-      "ActivityDescription": "Warehouse/Shipping Center, Moving boxes (~5kg)"
+      "ActivityDescription": "Warehouse/Shipping Center, Moving boxes (~5kg)",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Running",
@@ -2014,13 +2123,6 @@
     },
     {
       "MajorHeading": "Running",
-      "ActivityCode": "12343",
-      "METValue": 14.8,
-      "ActivityDescription": "Running uphill, 1.4 to 1.59 mph, 30% incline",
-      "systemIcon": "figure.run"
-    },
-    {
-      "MajorHeading": "Running",
       "ActivityCode": "12410",
       "METValue": 11.0,
       "ActivityDescription": "Running curved treadmill, 5.0 to 5.9 mph",
@@ -2107,7 +2209,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15080",
       "METValue": 2.5,
-      "ActivityDescription": "Billiards"
+      "ActivityDescription": "Billiards",
+      "systemIcon": "figure.mixed.cardio"
     },
     {
       "MajorHeading": "Sports",
@@ -2148,7 +2251,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15130",
       "METValue": 7.0,
-      "ActivityDescription": "Broomball"
+      "ActivityDescription": "Broomball",
+      "systemIcon": "figure.hockey"
     },
     {
       "MajorHeading": "Sports",
@@ -2168,13 +2272,15 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15160",
       "METValue": 3.3,
-      "ActivityDescription": "Croquet"
+      "ActivityDescription": "Croquet",
+      "systemIcon": "figure.golf"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15180",
       "METValue": 2.5,
-      "ActivityDescription": "Darts"
+      "ActivityDescription": "Darts",
+      "systemIcon": "target"
     },
     {
       "MajorHeading": "Sports",
@@ -2243,43 +2349,50 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15370",
       "METValue": 5.5,
-      "ActivityDescription": "Horseback riding"
+      "ActivityDescription": "Horseback riding",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15380",
       "METValue": 4.5,
-      "ActivityDescription": "Horse grooming"
+      "ActivityDescription": "Horse grooming",
+      "systemIcon": "pawprint.fill"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15390",
       "METValue": 5.8,
-      "ActivityDescription": "Horseback riding, trotting"
+      "ActivityDescription": "Horseback riding, trotting",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15395",
       "METValue": 7.3,
-      "ActivityDescription": "Horseback riding, canter or gallop"
+      "ActivityDescription": "Horseback riding, canter or gallop",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15400",
       "METValue": 3.8,
-      "ActivityDescription": "Horseback riding, walking"
+      "ActivityDescription": "Horseback riding, walking",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15402",
       "METValue": 9.0,
-      "ActivityDescription": "Horseback riding, jumping"
+      "ActivityDescription": "Horseback riding, jumping",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15403",
       "METValue": 6.0,
-      "ActivityDescription": "Horseback riding, reining"
+      "ActivityDescription": "Horseback riding, reining",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
@@ -2299,7 +2412,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15432",
       "METValue": 14.3,
-      "ActivityDescription": "Taekwondo"
+      "ActivityDescription": "Taekwondo",
+      "systemIcon": "figure.martial.arts"
     },
     {
       "MajorHeading": "Sports",
@@ -2312,7 +2426,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15440",
       "METValue": 4.0,
-      "ActivityDescription": "Juggling"
+      "ActivityDescription": "Juggling",
+      "systemIcon": "figure.gymnastics"
     },
     {
       "MajorHeading": "Sports",
@@ -2339,7 +2454,8 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15450",
       "METValue": 7.0,
-      "ActivityDescription": "Kickball"
+      "ActivityDescription": "Kickball",
+      "systemIcon": "figure.soccer"
     },
     {
       "MajorHeading": "Sports",
@@ -2373,19 +2489,22 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15470",
       "METValue": 4.0,
-      "ActivityDescription": "Motocross, off-road motor sports"
+      "ActivityDescription": "Motocross, off-road motor sports",
+      "systemIcon": "motorcycle"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15475",
       "METValue": 5.3,
-      "ActivityDescription": "Motorcycle racing"
+      "ActivityDescription": "Motorcycle racing",
+      "systemIcon": "motorcycle"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15477",
       "METValue": 7.0,
-      "ActivityDescription": "Netball"
+      "ActivityDescription": "Netball",
+      "systemIcon": "figure.basketball"
     },
     {
       "MajorHeading": "Sports",
@@ -2405,13 +2524,15 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15503",
       "METValue": 1.8,
-      "ActivityDescription": "Paragliding"
+      "ActivityDescription": "Paragliding",
+      "systemIcon": "wind"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15510",
       "METValue": 8.0,
-      "ActivityDescription": "Polo, on horseback"
+      "ActivityDescription": "Polo, on horseback",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
@@ -2480,19 +2601,22 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15542",
       "METValue": 4.0,
-      "ActivityDescription": "Rodeo sports, light effort"
+      "ActivityDescription": "Rodeo sports, light effort",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15544",
       "METValue": 5.5,
-      "ActivityDescription": "Rodeo sports, moderate effort"
+      "ActivityDescription": "Rodeo sports, moderate effort",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15546",
       "METValue": 7.0,
-      "ActivityDescription": "Rodeo sports, vigorous effort"
+      "ActivityDescription": "Rodeo sports, vigorous effort",
+      "systemIcon": "figure.equestrian.sports"
     },
     {
       "MajorHeading": "Sports",
@@ -2582,25 +2706,29 @@
       "MajorHeading": "Sports",
       "ActivityCode": "15595",
       "METValue": 6.8,
-      "ActivityDescription": "Skateboard, longboard, 13.3 km/h, slow speed"
+      "ActivityDescription": "Skateboard, longboard, 13.3 km/h, slow speed",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15596",
       "METValue": 8.3,
-      "ActivityDescription": "Skateboard, longboard, 16.2 km/h, typical speed"
+      "ActivityDescription": "Skateboard, longboard, 16.2 km/h, typical speed",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15597",
       "METValue": 10.5,
-      "ActivityDescription": "Skateboard, longboard, 18.4 km/h, fast speed"
+      "ActivityDescription": "Skateboard, longboard, 18.4 km/h, fast speed",
+      "systemIcon": "figure.skating"
     },
     {
       "MajorHeading": "Sports",
       "ActivityCode": "15600",
       "METValue": 3.5,
-      "ActivityDescription": "Skydiving, base-jumping, bungee jumping"
+      "ActivityDescription": "Skydiving, base-jumping, bungee jumping",
+      "systemIcon": "airplane.departure"
     },
     {
       "MajorHeading": "Sports",
@@ -3026,7 +3154,8 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18090",
       "METValue": 3.0,
-      "ActivityDescription": "Diving"
+      "ActivityDescription": "Diving",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
@@ -3046,67 +3175,78 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18110",
       "METValue": 4.0,
-      "ActivityDescription": "Paddle boat"
+      "ActivityDescription": "Paddle boat",
+      "systemIcon": "figure.outdoor.rowing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18150",
       "METValue": 6.0,
-      "ActivityDescription": "Skiing, water or wake boarding"
+      "ActivityDescription": "Skiing, water or wake boarding",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18160",
       "METValue": 7.0,
-      "ActivityDescription": "Jet skiing"
+      "ActivityDescription": "Jet skiing",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18180",
       "METValue": 15.8,
-      "ActivityDescription": "Skindiving, fast"
+      "ActivityDescription": "Skindiving, fast",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18190",
       "METValue": 11.8,
-      "ActivityDescription": "Skindiving, moderate"
+      "ActivityDescription": "Skindiving, moderate",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18200",
       "METValue": 7.0,
-      "ActivityDescription": "Skindiving, scuba diving"
+      "ActivityDescription": "Skindiving, scuba diving",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18202",
       "METValue": 5.3,
-      "ActivityDescription": "Scuba diving, light effort"
+      "ActivityDescription": "Scuba diving, light effort",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18204",
       "METValue": 5.8,
-      "ActivityDescription": "Scuba diving, moderate effort"
+      "ActivityDescription": "Scuba diving, moderate effort",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18206",
       "METValue": 5.5,
-      "ActivityDescription": "Scuba diving, professional diver"
+      "ActivityDescription": "Scuba diving, professional diver",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18208",
       "METValue": 6.8,
-      "ActivityDescription": "Scuba diving, recreational diver"
+      "ActivityDescription": "Scuba diving, recreational diver",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
       "ActivityCode": "18210",
       "METValue": 5.0,
-      "ActivityDescription": "Snorkeling"
+      "ActivityDescription": "Snorkeling",
+      "systemIcon": "figure.open.water.swim"
     },
     {
       "MajorHeading": "Water Activities",
@@ -3133,7 +3273,8 @@
       "MajorHeading": "Water Activities",
       "ActivityCode": "18224",
       "METValue": 6.5,
-      "ActivityDescription": "Stand up paddle boarding"
+      "ActivityDescription": "Stand up paddle boarding",
+      "systemIcon": "figure.surfing"
     },
     {
       "MajorHeading": "Water Activities",
@@ -3391,7 +3532,8 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19180",
       "METValue": 7.0,
-      "ActivityDescription": "Sledding, tobogganing"
+      "ActivityDescription": "Sledding, tobogganing",
+      "systemIcon": "figure.snowboarding"
     },
     {
       "MajorHeading": "Winter Activities",
@@ -3418,13 +3560,15 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19252",
       "METValue": 5.3,
-      "ActivityDescription": "Snow shoveling, by hand, moderate effort"
+      "ActivityDescription": "Snow shoveling, by hand, moderate effort",
+      "systemIcon": "snowflake"
     },
     {
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19254",
       "METValue": 7.5,
-      "ActivityDescription": "Snow shoveling, by hand, vigorous effort"
+      "ActivityDescription": "Snow shoveling, by hand, vigorous effort",
+      "systemIcon": "snowflake"
     },
     {
       "MajorHeading": "Winter Activities",
@@ -3493,7 +3637,8 @@
       "MajorHeading": "Winter Activities",
       "ActivityCode": "19400",
       "METValue": 9.0,
-      "ActivityDescription": "Mountaineering, downhill climbing, walking down with rope"
+      "ActivityDescription": "Mountaineering, downhill climbing, walking down with rope",
+      "systemIcon": "figure.hiking"
     },
     {
       "MajorHeading": "Winter Activities",
@@ -3506,49 +3651,57 @@
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21010",
       "METValue": 2.5,
-      "ActivityDescription": "Sitting, moderate work"
+      "ActivityDescription": "Sitting, moderate work",
+      "systemIcon": "person.fill"
     },
     {
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21015",
       "METValue": 1.8,
-      "ActivityDescription": "Standing, light work"
+      "ActivityDescription": "Standing, light work",
+      "systemIcon": "person.fill"
     },
     {
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21016",
       "METValue": 2.0,
-      "ActivityDescription": "Sitting, child care, only active periods"
+      "ActivityDescription": "Sitting, child care, only active periods",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21017",
       "METValue": 3.5,
-      "ActivityDescription": "Standing, child care, only active periods"
+      "ActivityDescription": "Standing, child care, only active periods",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21018",
       "METValue": 3.5,
-      "ActivityDescription": "Play with children, moderate, only active periods"
+      "ActivityDescription": "Play with children, moderate, only active periods",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21019",
       "METValue": 5.8,
-      "ActivityDescription": "Play with children, vigorous, only active periods"
+      "ActivityDescription": "Play with children, vigorous, only active periods",
+      "systemIcon": "figure.and.child.holdinghands"
     },
     {
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21020",
       "METValue": 3.3,
-      "ActivityDescription": "Standing, light/moderate work (e.g., pack boxes, assemble/repair, set up chairs/furniture)"
+      "ActivityDescription": "Standing, light/moderate work (e.g., pack boxes, assemble/repair, set up chairs/furniture)",
+      "systemIcon": "shippingbox.fill"
     },
     {
       "MajorHeading": "Volunteer Activities",
       "ActivityCode": "21030",
       "METValue": 4.5,
-      "ActivityDescription": "Standing, moderate/heavy work"
+      "ActivityDescription": "Standing, moderate/heavy work",
+      "systemIcon": "figure.strengthtraining.functional"
     },
     {
       "MajorHeading": "Video Games",
@@ -3599,110 +3752,110 @@
       "ActivityDescription": "Conditioning/exercise virtual reality fitness, vigorous intensity",
       "systemIcon": "gamecontroller.fill"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22361",
-      "METValue": 2.0,
+      "METValue": 2.8,
       "ActivityDescription": "Walking on a treadmill at a speed of 4 km/h (2.5 miles/h)",
-      "systemIcon": ""
+      "systemIcon": "figure.walk"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22362",
       "METValue": 3.5,
       "ActivityDescription": "Walking on a treadmill at a speed of 5 km/h (3 miles/h)",
-      "systemIcon": ""
+      "systemIcon": "figure.walk"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22363",
       "METValue": 4.8,
       "ActivityDescription": "Walking on a treadmill at a speed of 6 km/h (3.7 miles/h)",
-      "systemIcon": ""
+      "systemIcon": "figure.walk"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22364",
       "METValue": 8.5,
       "ActivityDescription": "Stair climber, stairs",
-      "systemIcon": ""
+      "systemIcon": "figure.stair.stepper"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22365",
       "METValue": 3.5,
       "ActivityDescription": "Strength training at the gym, light weights",
-      "systemIcon": ""
+      "systemIcon": "figure.strengthtraining.traditional"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22366",
       "METValue": 5.0,
       "ActivityDescription": "Strength training at the gym, medium weights",
-      "systemIcon": ""
+      "systemIcon": "figure.strengthtraining.traditional"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22367",
       "METValue": 6.0,
       "ActivityDescription": "Strength training at the gym, heavy weights",
-      "systemIcon": ""
+      "systemIcon": "figure.strengthtraining.traditional"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22368",
       "METValue": 2.3,
       "ActivityDescription": "Stretching",
-      "systemIcon": ""
+      "systemIcon": "figure.flexibility"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22369",
       "METValue": 5.0,
       "ActivityDescription": "Ellipse",
-      "systemIcon": ""
+      "systemIcon": "figure.elliptical"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22370",
       "METValue": 5.5,
       "ActivityDescription": "Stationary bike",
-      "systemIcon": ""
+      "systemIcon": "figure.indoor.cycle"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22371",
       "METValue": 7.0,
       "ActivityDescription": "Rowing machine",
-      "systemIcon": ""
+      "systemIcon": "figure.indoor.rowing"
     },
-	{
+    {
       "MajorHeading": "Non standard activity",
       "ActivityCode": "22372",
       "METValue": 2.2,
       "ActivityDescription": "Modeling work (photoshoot, posing, outfit changes)",
-      "systemIcon": ""
+      "systemIcon": "camera.fill"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22373",
       "METValue": 5.0,
       "ActivityDescription": "Interval training light",
-      "systemIcon": ""
+      "systemIcon": "figure.highintensity.intervaltraining"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22374",
       "METValue": 7.0,
       "ActivityDescription": "Interval training, moderate",
-      "systemIcon": ""
+      "systemIcon": "figure.highintensity.intervaltraining"
     },
-	{
+    {
       "MajorHeading": "Gym training",
       "ActivityCode": "22375",
       "METValue": 10.0,
       "ActivityDescription": "Interval training intense",
-      "systemIcon": ""
+      "systemIcon": "figure.highintensity.intervaltraining"
     }
   ]
 }

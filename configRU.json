@@ -1073,7 +1073,7 @@
       "MajorHeading": "Ремонт дома",
       "ActivityCode": "06225",
       "METValue": 2.0,
-      "ActivityDescription": "Мойка автомобиля"
+      "ActivityDescription": "Мойка автомобиля",
       "systemIcon": "wrench.and.screwdriver.fill"
     },
     {
@@ -3689,6 +3689,6 @@
       "METValue": 10.0,
       "ActivityDescription": "Интервальная тренировка, сложная",
 	  "systemIcon": ""
-    },
+    }
   ]
 }

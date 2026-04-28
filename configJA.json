@@ -1,0 +1,3861 @@
+{
+  "activities": [
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01003",
+      "METValue": 14.0,
+      "ActivityDescription": "自転車、坂道、激しい",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01008",
+      "METValue": 8.5,
+      "ActivityDescription": "自転車、BMX",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01009",
+      "METValue": 8.5,
+      "ActivityDescription": "自転車、坂道",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01010",
+      "METValue": 4.0,
+      "ActivityDescription": "自転車、時速16km未満",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01013",
+      "METValue": 5.8,
+      "ActivityDescription": "自転車、砂利道、中程度のペース",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01014",
+      "METValue": 7.0,
+      "ActivityDescription": "自転車",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01015",
+      "METValue": 4.3,
+      "ActivityDescription": "自転車、軽いペース",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01016",
+      "METValue": 7.0,
+      "ActivityDescription": "自転車、中程度のペース",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01017",
+      "METValue": 9.0,
+      "ActivityDescription": "自転車、激しいペース",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01018",
+      "METValue": 3.5,
+      "ActivityDescription": "自転車、時速8km",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01019",
+      "METValue": 5.8,
+      "ActivityDescription": "自転車、時速15km",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01020",
+      "METValue": 6.8,
+      "ActivityDescription": "自転車、時速16〜30km、ゆっくり、軽い努力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01030",
+      "METValue": 8.0,
+      "ActivityDescription": "自転車、時速19〜22km、中程度の努力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01040",
+      "METValue": 10.0,
+      "ActivityDescription": "自転車、時速22〜25km、レース、速い、激しい努力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01050",
+      "METValue": 12.0,
+      "ActivityDescription": "自転車、時速25〜30km、レース/ドラフティング時速30km超、非常に速い",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01060",
+      "METValue": 16.8,
+      "ActivityDescription": "自転車、時速32km超、レース、ドラフティングなし",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01080",
+      "METValue": 6.8,
+      "ActivityDescription": "電動自転車（電動）、電気アシストなし",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01084",
+      "METValue": 6.0,
+      "ActivityDescription": "電動自転車（電動）、軽い電気アシスト",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01088",
+      "METValue": 4.0,
+      "ActivityDescription": "電動自転車（電動）、高い電気アシスト",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "サイクリング",
+      "ActivityCode": "01305",
+      "METValue": 8.8,
+      "ActivityDescription": "自転車、高強度",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02000",
+      "METValue": 7.3,
+      "ActivityDescription": "エアロビクス",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02005",
+      "METValue": 4.8,
+      "ActivityDescription": "ダンスエアロビクス、低強度、中程度の努力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02006",
+      "METValue": 8.0,
+      "ActivityDescription": "ダンスエアロビクス、高強度、激しい努力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02007",
+      "METValue": 10.0,
+      "ActivityDescription": "ダンスエアロビクス、4〜7kgのウェイト使用",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02008",
+      "METValue": 5.0,
+      "ActivityDescription": "軍隊式障害物コース運動、訓練キャンプ",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02020",
+      "METValue": 7.5,
+      "ActivityDescription": "自重体操（例：腕立て伏せ、スクワット、懸垂、ジャンプ）、激しい努力",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02022",
+      "METValue": 3.8,
+      "ActivityDescription": "体操（例：腕立て伏せ、スクワット、懸垂、ランジ）、中程度の努力",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02024",
+      "METValue": 2.8,
+      "ActivityDescription": "体操（例：カールアップ、腹筋、プランク）、軽い努力",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02030",
+      "METValue": 3.5,
+      "ActivityDescription": "体操、軽〜中程度の努力",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02032",
+      "METValue": 6.0,
+      "ActivityDescription": "サーキットトレーニング、自重運動",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02034",
+      "METValue": 3.5,
+      "ActivityDescription": "サーキットトレーニング、軽い努力",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02035",
+      "METValue": 5.0,
+      "ActivityDescription": "サーキットトレーニング、中程度の努力",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02040",
+      "METValue": 7.5,
+      "ActivityDescription": "ウェイトサーキットトレーニング、高強度",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02048",
+      "METValue": 5.0,
+      "ActivityDescription": "エリプティカルトレーナー、中程度の強度",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02049",
+      "METValue": 9.0,
+      "ActivityDescription": "エリプティカルトレーナー、激しい努力",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02052",
+      "METValue": 5.0,
+      "ActivityDescription": "ウェイトトレーニング、スクワット、デッドリフト、低速または爆発的な努力",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02054",
+      "METValue": 3.5,
+      "ActivityDescription": "ウェイトトレーニング",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02056",
+      "METValue": 3.0,
+      "ActivityDescription": "ウェイト運動（例：スクワット、ランジ、腕立て伏せ、クランチ）",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02057",
+      "METValue": 6.5,
+      "ActivityDescription": "ウェイト運動（例：スクワット、ランジ、腕立て伏せ、クランチ）、高強度",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02064",
+      "METValue": 3.8,
+      "ActivityDescription": "ホームトレーニング",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02065",
+      "METValue": 9.3,
+      "ActivityDescription": "ステアクライマー・エルゴメーター",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02068",
+      "METValue": 11.0,
+      "ActivityDescription": "縄跳び",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02070",
+      "METValue": 7.3,
+      "ActivityDescription": "ローイング、固定エルゴメーター、激しい努力",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02071",
+      "METValue": 5.0,
+      "ActivityDescription": "固定エルゴメーターローイング、中程度の強度",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02078",
+      "METValue": 11.0,
+      "ActivityDescription": "シャトルラン（前後左右）",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02101",
+      "METValue": 2.3,
+      "ActivityDescription": "ストレッチ、軽い",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02103",
+      "METValue": 1.8,
+      "ActivityDescription": "マットピラティス",
+      "systemIcon": "figure.pilates"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02105",
+      "METValue": 2.8,
+      "ActivityDescription": "ピラティス",
+      "systemIcon": "figure.pilates"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02108",
+      "METValue": 4.5,
+      "ActivityDescription": "ポールダンス",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02120",
+      "METValue": 5.3,
+      "ActivityDescription": "水中エアロビクス、水中体操",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02140",
+      "METValue": 2.5,
+      "ActivityDescription": "動画またはTV番組のエクササイズ（例：ヨガ、ストレッチ）、軽い努力",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02143",
+      "METValue": 4.0,
+      "ActivityDescription": "動画またはTV番組のエクササイズ（例：有酸素運動）、中程度",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02145",
+      "METValue": 6.0,
+      "ActivityDescription": "動画またはTV番組のエクササイズ（例：有酸素運動）、激しい",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02150",
+      "METValue": 2.3,
+      "ActivityDescription": "ヨガ、ハタ",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02153",
+      "METValue": 8.0,
+      "ActivityDescription": "ヨガ、ハタ、高強度",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02155",
+      "METValue": 3.0,
+      "ActivityDescription": "ホットヨガ",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02160",
+      "METValue": 4.0,
+      "ActivityDescription": "パワーヨガ",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02170",
+      "METValue": 2.0,
+      "ActivityDescription": "ヨガ、ナディショーダナ",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02175",
+      "METValue": 2.3,
+      "ActivityDescription": "ヨガ",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02180",
+      "METValue": 3.5,
+      "ActivityDescription": "ヨガ、スーリヤ・ナマスカール",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02185",
+      "METValue": 2.7,
+      "ActivityDescription": "ヨガ、ヴィンヤサ",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02210",
+      "METValue": 7.0,
+      "ActivityDescription": "高強度インターバルトレーニング（HIIT）",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02214",
+      "METValue": 11.0,
+      "ActivityDescription": "HIIT、バーピー、スクワットジャンプ、激しい努力",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02230",
+      "METValue": 5.8,
+      "ActivityDescription": "フラフープ",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02280",
+      "METValue": 7.9,
+      "ActivityDescription": "バーチャルリアリティフィットネス、高強度",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02300",
+      "METValue": 3.0,
+      "ActivityDescription": "スティック運動",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02310",
+      "METValue": 6.5,
+      "ActivityDescription": "ズンバ、グループレッスン",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ファンクショナルトレーニング",
+      "ActivityCode": "02315",
+      "METValue": 5.5,
+      "ActivityDescription": "ホームズンバ",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03005",
+      "METValue": 6.0,
+      "ActivityDescription": "アフロキューバンサルサ（キューバチャチャチャ、マンボ、アフロルンバ、コントラティエンポ、オリシャ動作）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03010",
+      "METValue": 5.0,
+      "ActivityDescription": "バレエ、リハーサルまたはレッスン",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03011",
+      "METValue": 6.3,
+      "ActivityDescription": "バレエ練習（プリエ、タンデュ、ジュテ、ロン・ドゥ・ジャンブ、フォンデュ、グランバットマン、ソテ、タン・ルヴェ）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03012",
+      "METValue": 6.8,
+      "ActivityDescription": "バレエ、激しい努力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03025",
+      "METValue": 4.5,
+      "ActivityDescription": "民族または文化ダンス（例：ギリシャ、中東、フラ、サルサ、メレンゲ、フラメンコ、スウィング）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03030",
+      "METValue": 5.5,
+      "ActivityDescription": "社交ダンス、速い",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03031",
+      "METValue": 9.8,
+      "ActivityDescription": "ナイトクラブまたは民俗ダンス、激しい努力（例：ナイトクラブ、ディスコ、ラインダンス、アイリッシュステップ、ポルカ）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03033",
+      "METValue": 5.0,
+      "ActivityDescription": "民俗ダンス、中程度の努力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03038",
+      "METValue": 11.3,
+      "ActivityDescription": "社交ダンス、競技",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03040",
+      "METValue": 3.0,
+      "ActivityDescription": "ボールルーム、ゆっくり（例：ワルツ、フォックストロット、スローダンス、サンバ、タンゴ、ルンバ、マンボ、チャチャ）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03042",
+      "METValue": 6.0,
+      "ActivityDescription": "社交ダンス、レクリエーション（ワルツ、フォックストロット、チャチャ、スウィング）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03070",
+      "METValue": 3.8,
+      "ActivityDescription": "モダンダンス",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03072",
+      "METValue": 4.3,
+      "ActivityDescription": "モダンダンス、ナイトクラブ",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03075",
+      "METValue": 8.5,
+      "ActivityDescription": "フラメンコ",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03078",
+      "METValue": 4.5,
+      "ActivityDescription": "ジャズダンス",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03080",
+      "METValue": 10.3,
+      "ActivityDescription": "ミュージカルシアター、歌とダンス",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03086",
+      "METValue": 7.0,
+      "ActivityDescription": "ポリネシアンダンス、ハワイアンフラ、サモアササ、フィジーダンス、フィリピンティニクリング",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03090",
+      "METValue": 4.8,
+      "ActivityDescription": "パートナーとのサルサダンス",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03091",
+      "METValue": 6.3,
+      "ActivityDescription": "動画でのサルサダンス",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "ダンス",
+      "ActivityCode": "03093",
+      "METValue": 5.5,
+      "ActivityDescription": "スクエアダンス、アメリカンウエスタン、カントリー",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04001",
+      "METValue": 3.5,
+      "ActivityDescription": "釣り",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04005",
+      "METValue": 4.5,
+      "ActivityDescription": "釣り、カニ漁",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04007",
+      "METValue": 4.0,
+      "ActivityDescription": "釣り、素手で魚を捕まえる",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04020",
+      "METValue": 4.0,
+      "ActivityDescription": "川岸での釣りと散歩",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04030",
+      "METValue": 2.0,
+      "ActivityDescription": "ボートまたはカヌーに座って釣り",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04040",
+      "METValue": 3.5,
+      "ActivityDescription": "川岸に立って釣り",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04060",
+      "METValue": 2.0,
+      "ActivityDescription": "氷上釣り",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04062",
+      "METValue": 3.5,
+      "ActivityDescription": "釣り、網の設置と魚の収穫",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04065",
+      "METValue": 2.3,
+      "ActivityDescription": "立って銛で釣り",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04070",
+      "METValue": 2.5,
+      "ActivityDescription": "狩猟、弓矢またはクロスボウ",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04080",
+      "METValue": 6.0,
+      "ActivityDescription": "大型獲物の狩猟",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04083",
+      "METValue": 4.0,
+      "ActivityDescription": "大型海洋動物の狩猟",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04086",
+      "METValue": 2.0,
+      "ActivityDescription": "車両、航空機またはボートからの大型獲物の狩猟",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04100",
+      "METValue": 5.0,
+      "ActivityDescription": "狩猟",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04120",
+      "METValue": 5.0,
+      "ActivityDescription": "小型獲物の狩猟",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04130",
+      "METValue": 2.5,
+      "ActivityDescription": "ピストルまたはスタンディング射撃",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04140",
+      "METValue": 2.3,
+      "ActivityDescription": "射撃訓練、伏せ射撃",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣りと狩猟",
+      "ActivityCode": "04145",
+      "METValue": 2.5,
+      "ActivityDescription": "ライフル射撃訓練",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05010",
+      "METValue": 3.3,
+      "ActivityDescription": "清掃、カーペットと床の掃き掃除",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05020",
+      "METValue": 3.5,
+      "ActivityDescription": "重い清掃（例：洗車、ガレージ清掃）、中程度の努力",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05021",
+      "METValue": 3.5,
+      "ActivityDescription": "清掃、立って床を拭く、中程度の努力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05022",
+      "METValue": 3.3,
+      "ActivityDescription": "窓拭き",
+      "systemIcon": "sparkles"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05023",
+      "METValue": 2.5,
+      "ActivityDescription": "立って床を拭く、軽い努力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05025",
+      "METValue": 2.8,
+      "ActivityDescription": "複数の家事を同時に行う、軽い努力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05026",
+      "METValue": 3.3,
+      "ActivityDescription": "複数の家事を同時に行う、中程度の努力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05027",
+      "METValue": 4.3,
+      "ActivityDescription": "複数の家事を同時に行う、激しい努力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05030",
+      "METValue": 3.3,
+      "ActivityDescription": "家の掃除、中程度の努力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05035",
+      "METValue": 3.3,
+      "ActivityDescription": "キッチン作業（例：料理、皿洗い、清掃）、中程度の強度",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05040",
+      "METValue": 2.5,
+      "ActivityDescription": "清掃（片付け、寝具交換、ゴミ捨て）、軽い作業",
+      "systemIcon": "trash.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05041",
+      "METValue": 2.0,
+      "ActivityDescription": "皿洗い",
+      "systemIcon": "drop.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05042",
+      "METValue": 2.0,
+      "ActivityDescription": "皿洗い、食卓の片付け",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05043",
+      "METValue": 3.0,
+      "ActivityDescription": "掃除機がけ、中程度の努力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05049",
+      "METValue": 3.5,
+      "ActivityDescription": "料理、中程度の努力",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05052",
+      "METValue": 2.3,
+      "ActivityDescription": "食事の提供、食卓の準備/片付け",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05053",
+      "METValue": 2.5,
+      "ActivityDescription": "ペットへの餌やり",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05060",
+      "METValue": 3.3,
+      "ActivityDescription": "食料品の買い物、スーパーマーケットでの買い物",
+      "systemIcon": "cart.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05070",
+      "METValue": 1.8,
+      "ActivityDescription": "アイロンがけ",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05080",
+      "METValue": 1.3,
+      "ActivityDescription": "編み物、裁縫、軽い努力、ギフト包装",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05082",
+      "METValue": 2.8,
+      "ActivityDescription": "ミシンで裁縫",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05091",
+      "METValue": 2.0,
+      "ActivityDescription": "洗濯",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05092",
+      "METValue": 4.0,
+      "ActivityDescription": "洗濯、中程度の努力",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05095",
+      "METValue": 2.0,
+      "ActivityDescription": "洗濯、洗濯物を干す",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05100",
+      "METValue": 3.0,
+      "ActivityDescription": "寝具の交換",
+      "systemIcon": "bed.double.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05121",
+      "METValue": 5.0,
+      "ActivityDescription": "移動、軽い荷物の持ち上げ",
+      "systemIcon": "archivebox.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05130",
+      "METValue": 3.5,
+      "ActivityDescription": "四つん這いで床を拭く、浴室清掃、中程度の努力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05131",
+      "METValue": 2.0,
+      "ActivityDescription": "四つん這いで床を拭く、浴室清掃、軽い努力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05132",
+      "METValue": 6.5,
+      "ActivityDescription": "四つん這いで床を拭く、浴室清掃、激しい努力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05140",
+      "METValue": 3.0,
+      "ActivityDescription": "ガレージ、歩道または敷地内の掃き掃除",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05148",
+      "METValue": 2.0,
+      "ActivityDescription": "植物への水やり",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05150",
+      "METValue": 9.0,
+      "ActivityDescription": "箱や家具の運搬",
+      "systemIcon": "archivebox.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05171",
+      "METValue": 2.8,
+      "ActivityDescription": "子供と遊ぶ、軽い努力",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05175",
+      "METValue": 3.5,
+      "ActivityDescription": "歩く/走る、子供と遊ぶ、中程度の強度",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05180",
+      "METValue": 5.8,
+      "ActivityDescription": "歩く/走る、子供と遊ぶ、激しい努力",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05184",
+      "METValue": 2.5,
+      "ActivityDescription": "赤ちゃん/乳幼児のケア",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05185",
+      "METValue": 2.0,
+      "ActivityDescription": "子供のケア：着替え、入浴、世話、授乳",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05189",
+      "METValue": 2.0,
+      "ActivityDescription": "母乳育児、座っているまたは横になっている",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05192",
+      "METValue": 2.8,
+      "ActivityDescription": "歩くまたは走る、動物と遊ぶ、軽い努力",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05193",
+      "METValue": 4.0,
+      "ActivityDescription": "歩く/走る、動物と遊ぶ、中程度の強度",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05194",
+      "METValue": 5.0,
+      "ActivityDescription": "歩く/走る、動物と遊ぶ、激しい努力",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05197",
+      "METValue": 2.3,
+      "ActivityDescription": "動物のケア",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05200",
+      "METValue": 3.0,
+      "ActivityDescription": "高齢者または障害者のケア、入浴、着替え、ベッドへの移動",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "家事活動",
+      "ActivityCode": "05205",
+      "METValue": 1.8,
+      "ActivityDescription": "高齢者、障害者のケア、食事提供、髪とかし、軽い努力",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06030",
+      "METValue": 3.3,
+      "ActivityDescription": "車の修理、軽〜中程度の努力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06126",
+      "METValue": 2.5,
+      "ActivityDescription": "家の修理、軽い作業",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06127",
+      "METValue": 4.5,
+      "ActivityDescription": "家の修理、中程度の努力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06128",
+      "METValue": 6.0,
+      "ActivityDescription": "家の修理、激しい努力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06130",
+      "METValue": 4.5,
+      "ActivityDescription": "カーペットの設置または取り外し",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06140",
+      "METValue": 3.8,
+      "ActivityDescription": "タイルまたはリノリウムの設置",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06144",
+      "METValue": 3.0,
+      "ActivityDescription": "家電製品の修理",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06160",
+      "METValue": 3.3,
+      "ActivityDescription": "家のペンキ塗り、壁紙貼り、ペンキ剥がし",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06165",
+      "METValue": 4.5,
+      "ActivityDescription": "絵画",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06225",
+      "METValue": 2.0,
+      "ActivityDescription": "洗車",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家の修理",
+      "ActivityCode": "06230",
+      "METValue": 4.5,
+      "ActivityDescription": "フェンスの清掃、フェンスのペンキ塗り、中程度の努力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "休息",
+      "ActivityCode": "07075",
+      "METValue": 1.0,
+      "ActivityDescription": "瞑想",
+      "systemIcon": "zzz"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08055",
+      "METValue": 2.8,
+      "ActivityDescription": "トラクター運転",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08066",
+      "METValue": 2.0,
+      "ActivityDescription": "園芸",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08095",
+      "METValue": 5.5,
+      "ActivityDescription": "芝刈り、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08100",
+      "METValue": 2.5,
+      "ActivityDescription": "自走式芝刈り機",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08110",
+      "METValue": 6.0,
+      "ActivityDescription": "手動芝刈り機、激しい努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08125",
+      "METValue": 4.5,
+      "ActivityDescription": "電動芝刈り機、軽〜中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08135",
+      "METValue": 2.6,
+      "ActivityDescription": "苗または植物の移植、軽い努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08140",
+      "METValue": 4.3,
+      "ActivityDescription": "苗木、低木の植え付け、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08145",
+      "METValue": 4.3,
+      "ActivityDescription": "農作物または庭の植え付け、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08150",
+      "METValue": 4.5,
+      "ActivityDescription": "木の植え付け",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08160",
+      "METValue": 4.0,
+      "ActivityDescription": "芝または落ち葉のレーキがけ、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08165",
+      "METValue": 4.0,
+      "ActivityDescription": "芝のレーキがけ",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08190",
+      "METValue": 4.0,
+      "ActivityDescription": "草、落ち葉の片付け",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08195",
+      "METValue": 5.3,
+      "ActivityDescription": "手で雪かき、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08200",
+      "METValue": 6.0,
+      "ActivityDescription": "手で雪のレーキがけ",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08202",
+      "METValue": 7.5,
+      "ActivityDescription": "手で雪のレーキがけ、激しい努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08210",
+      "METValue": 3.8,
+      "ActivityDescription": "手鎌で低木または木の剪定",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08230",
+      "METValue": 4.0,
+      "ActivityDescription": "芝または庭への水やり",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08239",
+      "METValue": 3.8,
+      "ActivityDescription": "除草、庭の耕作、軽〜中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08240",
+      "METValue": 4.5,
+      "ActivityDescription": "除草、庭の手入れ、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08241",
+      "METValue": 5.0,
+      "ActivityDescription": "クワで除草、庭の手入れ、中〜激しい努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08245",
+      "METValue": 3.8,
+      "ActivityDescription": "園芸、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08246",
+      "METValue": 3.5,
+      "ActivityDescription": "木から果物またはコーヒーの収穫、中程度の努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08248",
+      "METValue": 4.5,
+      "ActivityDescription": "収穫、木から果物の採取、激しい努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08260",
+      "METValue": 2.3,
+      "ActivityDescription": "庭仕事、軽い努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08261",
+      "METValue": 4.0,
+      "ActivityDescription": "庭仕事、中程度の強度",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "庭と園芸",
+      "ActivityCode": "08262",
+      "METValue": 6.0,
+      "ActivityDescription": "庭仕事、激しい努力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09000",
+      "METValue": 1.3,
+      "ActivityDescription": "ボードゲーム",
+      "systemIcon": "dice.fill"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09005",
+      "METValue": 2.5,
+      "ActivityDescription": "カジノでのギャンブル",
+      "systemIcon": "dice.fill"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09010",
+      "METValue": 1.5,
+      "ActivityDescription": "カードゲーム",
+      "systemIcon": "suit.spade.fill"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09013",
+      "METValue": 1.5,
+      "ActivityDescription": "チェス",
+      "systemIcon": "square.grid.3x3.fill"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09020",
+      "METValue": 1.8,
+      "ActivityDescription": "絵を描く",
+      "systemIcon": "pencil"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09030",
+      "METValue": 1.0,
+      "ActivityDescription": "読書、本、新聞、雑誌",
+      "systemIcon": "book.fill"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09040",
+      "METValue": 1.3,
+      "ActivityDescription": "デスクワーク、タイピング",
+      "systemIcon": "keyboard"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09060",
+      "METValue": 1.5,
+      "ActivityDescription": "座って勉強、読書または筆記、軽い努力",
+      "systemIcon": "book.fill"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09106",
+      "METValue": 3.5,
+      "ActivityDescription": "観光/旅行/バケーション、ウォーキングを含む",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "余暇",
+      "ActivityCode": "09110",
+      "METValue": 2.5,
+      "ActivityDescription": "キャンプ",
+      "systemIcon": "tent.fill"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10010",
+      "METValue": 1.8,
+      "ActivityDescription": "アコーディオン演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10020",
+      "METValue": 2.3,
+      "ActivityDescription": "チェロ演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10030",
+      "METValue": 2.3,
+      "ActivityDescription": "オーケストラ指揮",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10035",
+      "METValue": 2.5,
+      "ActivityDescription": "コントラバス演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10040",
+      "METValue": 3.8,
+      "ActivityDescription": "ドラム演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10045",
+      "METValue": 3.0,
+      "ActivityDescription": "ドラム演奏（例：ボンゴ、コンガ、ベンベ）、中程度",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10048",
+      "METValue": 8.3,
+      "ActivityDescription": "ドラム演奏、コンサート/ライブショー",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10050",
+      "METValue": 2.0,
+      "ActivityDescription": "フルート演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10070",
+      "METValue": 2.3,
+      "ActivityDescription": "ピアノ演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10074",
+      "METValue": 2.0,
+      "ActivityDescription": "楽器演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10077",
+      "METValue": 2.0,
+      "ActivityDescription": "オルガン演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10080",
+      "METValue": 3.5,
+      "ActivityDescription": "トロンボーン演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10090",
+      "METValue": 2.5,
+      "ActivityDescription": "トランペット演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10100",
+      "METValue": 2.5,
+      "ActivityDescription": "バイオリン演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10110",
+      "METValue": 1.8,
+      "ActivityDescription": "木管楽器演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10120",
+      "METValue": 2.0,
+      "ActivityDescription": "ギター演奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10130",
+      "METValue": 4.0,
+      "ActivityDescription": "マーチングバンド、中程度のペース",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10131",
+      "METValue": 5.5,
+      "ActivityDescription": "マーチングバンド、速いペース",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "楽器演奏",
+      "ActivityCode": "10135",
+      "METValue": 3.5,
+      "ActivityDescription": "マーチングバンド、ドラム奏者",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11006",
+      "METValue": 3.0,
+      "ActivityDescription": "航空会社のスチュワーデス",
+      "systemIcon": "airplane"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11008",
+      "METValue": 4.8,
+      "ActivityDescription": "リンゴの収穫",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11010",
+      "METValue": 4.0,
+      "ActivityDescription": "パン職人",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11015",
+      "METValue": 2.0,
+      "ActivityDescription": "パン職人、軽い努力",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11050",
+      "METValue": 8.0,
+      "ActivityDescription": "重い荷物の運搬（例：レンガ、工具）",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11060",
+      "METValue": 8.0,
+      "ActivityDescription": "階段での中程度の荷物運搬、箱の移動、11〜22kg",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11070",
+      "METValue": 4.0,
+      "ActivityDescription": "家政婦、ホテルのハウスキーパー、ベッドメイキング、浴室清掃",
+      "systemIcon": "bed.double.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11072",
+      "METValue": 4.3,
+      "ActivityDescription": "清掃、商業施設の清掃",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11080",
+      "METValue": 5.3,
+      "ActivityDescription": "石炭採掘",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11115",
+      "METValue": 2.5,
+      "ActivityDescription": "料理人、シェフ",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11120",
+      "METValue": 4.0,
+      "ActivityDescription": "建設、外装仕上げ、リノベーション、新築（例：屋根修理）",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11124",
+      "METValue": 2.3,
+      "ActivityDescription": "建設、鉄筋、鉄棒の曲げ/固定",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11130",
+      "METValue": 3.3,
+      "ActivityDescription": "電気工事（例：配線接続、接続部の設置）",
+      "systemIcon": "bolt.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11135",
+      "METValue": 1.8,
+      "ActivityDescription": "エンジニア（例：機械工または電気工）",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11145",
+      "METValue": 7.8,
+      "ActivityDescription": "農業、激しい作業（例：干し草のプレス、納屋の清掃）",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11147",
+      "METValue": 2.0,
+      "ActivityDescription": "農業、軽い作業（例：動物小屋の清掃、飼料の準備）",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11170",
+      "METValue": 2.8,
+      "ActivityDescription": "農業、運転作業（例：トラクターまたはコンバインの運転）",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11180",
+      "METValue": 3.5,
+      "ActivityDescription": "農業、小動物への餌やり",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11190",
+      "METValue": 4.3,
+      "ActivityDescription": "農業、牛・馬への餌やり",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11195",
+      "METValue": 3.8,
+      "ActivityDescription": "農業、稲作、播種、穀物加工",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11222",
+      "METValue": 3.0,
+      "ActivityDescription": "農業、牛の搾乳",
+      "systemIcon": "drop.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11240",
+      "METValue": 8.0,
+      "ActivityDescription": "消防士",
+      "systemIcon": "flame.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11375",
+      "METValue": 3.8,
+      "ActivityDescription": "ゴミ収集員、ゴミ箱をトラックに空ける、街路清掃",
+      "systemIcon": "trash.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11378",
+      "METValue": 1.8,
+      "ActivityDescription": "美容師",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11380",
+      "METValue": 7.3,
+      "ActivityDescription": "馬の世話（餌やり、厩舎清掃、入浴、ブラッシング、グルーミング、調教を含む）",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11383",
+      "METValue": 4.5,
+      "ActivityDescription": "乗馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11390",
+      "METValue": 7.8,
+      "ActivityDescription": "競馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11413",
+      "METValue": 3.0,
+      "ActivityDescription": "キッチンアシスタント",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11415",
+      "METValue": 4.0,
+      "ActivityDescription": "庭師、庭仕事",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11418",
+      "METValue": 3.3,
+      "ActivityDescription": "クリーニング店員",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11420",
+      "METValue": 3.0,
+      "ActivityDescription": "錠前師",
+      "systemIcon": "lock.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11485",
+      "METValue": 5.5,
+      "ActivityDescription": "マッサージ師",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11486",
+      "METValue": 2.3,
+      "ActivityDescription": "郵便配達員",
+      "systemIcon": "envelope.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11495",
+      "METValue": 12.0,
+      "ActivityDescription": "潜水またはスキューバダイビング、ダイバーとして",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11516",
+      "METValue": 3.0,
+      "ActivityDescription": "配管工",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11520",
+      "METValue": 2.0,
+      "ActivityDescription": "印刷工、製紙業従事者",
+      "systemIcon": "printer.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11524",
+      "METValue": 3.8,
+      "ActivityDescription": "警察官",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11525",
+      "METValue": 2.5,
+      "ActivityDescription": "警察、交通整理",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11526",
+      "METValue": 2.0,
+      "ActivityDescription": "警察、パトカーの運転",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11527",
+      "METValue": 1.3,
+      "ActivityDescription": "警察、パトカーに乗車",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11528",
+      "METValue": 4.0,
+      "ActivityDescription": "警察、逮捕の実施",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11550",
+      "METValue": 8.8,
+      "ActivityDescription": "シャベル作業、激しい努力",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11560",
+      "METValue": 5.0,
+      "ActivityDescription": "シャベル作業、中程度の努力",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11580",
+      "METValue": 1.5,
+      "ActivityDescription": "座り仕事、軽い努力（例：オフィス作業、化学実験室、軽い組み立て、時計修理、読書、デスクワーク）",
+      "systemIcon": "desktopcomputer"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11582",
+      "METValue": 1.3,
+      "ActivityDescription": "コンピューター作業",
+      "systemIcon": "desktopcomputer"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11650",
+      "METValue": 2.3,
+      "ActivityDescription": "患者ケア、医療活動",
+      "systemIcon": "stethoscope"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11660",
+      "METValue": 3.5,
+      "ActivityDescription": "患者ケア、清掃/スペース準備",
+      "systemIcon": "cross.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11720",
+      "METValue": 2.3,
+      "ActivityDescription": "衣料品製作、生地の裁断",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11740",
+      "METValue": 1.8,
+      "ActivityDescription": "衣料品製作、手縫い",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11750",
+      "METValue": 2.5,
+      "ActivityDescription": "ミシンで衣料品製作",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11763",
+      "METValue": 2.0,
+      "ActivityDescription": "衣料品製作、織物、軽い作業（例：仕上げ、洗濯、染色）",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11766",
+      "METValue": 6.5,
+      "ActivityDescription": "トラック運転、積み下ろし、荷物固定、重い荷物の運搬",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11767",
+      "METValue": 2.0,
+      "ActivityDescription": "トラック運転、配送トラック、タクシー、路線バス、スクールバス",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11797",
+      "METValue": 3.8,
+      "ActivityDescription": "時速4kmウォーキング、ゆっくり、11kg超の重い荷物運搬",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11800",
+      "METValue": 4.5,
+      "ActivityDescription": "時速5kmウォーキング、中程度、11kg未満の軽い荷物運搬",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11810",
+      "METValue": 4.5,
+      "ActivityDescription": "時速6kmウォーキング、速歩、11kg未満の荷物運搬",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11820",
+      "METValue": 4.0,
+      "ActivityDescription": "歩くまたは階段を下りる、11〜22kgの荷物運搬",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11830",
+      "METValue": 5.5,
+      "ActivityDescription": "歩くまたは階段を下りる、22〜33kgの荷物運搬",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11840",
+      "METValue": 7.0,
+      "ActivityDescription": "歩くまたは階段を下りる、34〜45kgの荷物運搬",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11850",
+      "METValue": 7.3,
+      "ActivityDescription": "歩くまたは階段を下りる、約45kg以上の荷物運搬",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11860",
+      "METValue": 2.3,
+      "ActivityDescription": "倉庫作業、箱の積み下ろし",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "仕事",
+      "ActivityCode": "11862",
+      "METValue": 4.3,
+      "ActivityDescription": "倉庫作業、引越し用箱（〜5kg）",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12020",
+      "METValue": 7.5,
+      "ActivityDescription": "ジョギング",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12025",
+      "METValue": 4.8,
+      "ActivityDescription": "その場ランニング",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12026",
+      "METValue": 3.3,
+      "ActivityDescription": "時速4〜6kmジョギング",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12028",
+      "METValue": 6.5,
+      "ActivityDescription": "ランニング、時速6〜7km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12029",
+      "METValue": 7.8,
+      "ActivityDescription": "ランニング、時速7〜8km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12030",
+      "METValue": 8.5,
+      "ActivityDescription": "ランニング、時速8〜9km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12045",
+      "METValue": 9.0,
+      "ActivityDescription": "ランニング、時速9〜10km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12060",
+      "METValue": 10.5,
+      "ActivityDescription": "ランニング、時速11km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12080",
+      "METValue": 11.8,
+      "ActivityDescription": "ランニング、時速12km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12100",
+      "METValue": 12.5,
+      "ActivityDescription": "ランニング、時速13km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12115",
+      "METValue": 14.8,
+      "ActivityDescription": "ランニング、時速15〜15.5km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12120",
+      "METValue": 14.8,
+      "ActivityDescription": "ランニング、時速16km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12132",
+      "METValue": 18.5,
+      "ActivityDescription": "ランニング、時速19km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12134",
+      "METValue": 19.8,
+      "ActivityDescription": "ランニング、時速20km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12140",
+      "METValue": 9.3,
+      "ActivityDescription": "ランニング、クロスカントリー",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12150",
+      "METValue": 8.0,
+      "ActivityDescription": "ランニング（テイラーコード200）",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12170",
+      "METValue": 15.0,
+      "ActivityDescription": "階段ランニング",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12180",
+      "METValue": 10.0,
+      "ActivityDescription": "トラックランニング",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12200",
+      "METValue": 13.3,
+      "ActivityDescription": "ランニング、マラソン",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12255",
+      "METValue": 10.3,
+      "ActivityDescription": "坂道ランニング、時速7km、傾斜5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12260",
+      "METValue": 13.3,
+      "ActivityDescription": "坂道ランニング、時速10km、傾斜5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12265",
+      "METValue": 15.5,
+      "ActivityDescription": "坂道ランニング、時速11km、傾斜5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12325",
+      "METValue": 17.5,
+      "ActivityDescription": "坂道ランニング、時速8〜9km、傾斜15%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12410",
+      "METValue": 11.0,
+      "ActivityDescription": "曲面トレッドミル、時速8〜9km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12412",
+      "METValue": 12.0,
+      "ActivityDescription": "曲面トレッドミル、時速11〜12km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12414",
+      "METValue": 14.0,
+      "ActivityDescription": "曲面トレッドミル、時速13〜14km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12555",
+      "METValue": 7.8,
+      "ActivityDescription": "裸足ランニング、時速6〜9km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12560",
+      "METValue": 12.0,
+      "ActivityDescription": "裸足ランニング、時速10〜13km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "ランニング",
+      "ActivityCode": "12620",
+      "METValue": 13.0,
+      "ActivityDescription": "トライアスロン、ランニング",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15010",
+      "METValue": 4.3,
+      "ActivityDescription": "アーチェリー（狩猟を除く）",
+      "systemIcon": "figure.archery"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15020",
+      "METValue": 7.0,
+      "ActivityDescription": "バドミントン、競技",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15025",
+      "METValue": 9.0,
+      "ActivityDescription": "バドミントン、大会、マッチプレー",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15030",
+      "METValue": 5.5,
+      "ActivityDescription": "バドミントン、レクリエーション、シングルスとダブルス",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15040",
+      "METValue": 8.0,
+      "ActivityDescription": "バスケットボール",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15072",
+      "METValue": 9.3,
+      "ActivityDescription": "バスケットボール、トレーニング",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15080",
+      "METValue": 2.5,
+      "ActivityDescription": "ビリヤード",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15090",
+      "METValue": 3.0,
+      "ActivityDescription": "ボウリング",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15100",
+      "METValue": 12.3,
+      "ActivityDescription": "リングでのボクシング",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15110",
+      "METValue": 5.8,
+      "ActivityDescription": "ボクシング、サンドバッグ",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15120",
+      "METValue": 7.8,
+      "ActivityDescription": "ボクシング、スパーリング",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15125",
+      "METValue": 9.3,
+      "ActivityDescription": "ボクシング、模擬ボクシングラウンド訓練",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15130",
+      "METValue": 7.0,
+      "ActivityDescription": "ブルームボール",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15138",
+      "METValue": 6.0,
+      "ActivityDescription": "チアリーディング、体操動作、競技",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15150",
+      "METValue": 4.8,
+      "ActivityDescription": "クリケット",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15160",
+      "METValue": 3.3,
+      "ActivityDescription": "クロッケー",
+      "systemIcon": "figure.golf"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15180",
+      "METValue": 2.5,
+      "ActivityDescription": "ダーツ",
+      "systemIcon": "target"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15200",
+      "METValue": 6.0,
+      "ActivityDescription": "フェンシング",
+      "systemIcon": "figure.fencing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15210",
+      "METValue": 8.0,
+      "ActivityDescription": "フットボール（アメリカンフットボール）、競技",
+      "systemIcon": "figure.american.football"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15235",
+      "METValue": 2.5,
+      "ActivityDescription": "フットボールまたは野球、キャッチボール",
+      "systemIcon": "figure.american.football"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15240",
+      "METValue": 3.0,
+      "ActivityDescription": "フリスビー",
+      "systemIcon": "figure.disc.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15255",
+      "METValue": 4.5,
+      "ActivityDescription": "ゴルフ",
+      "systemIcon": "figure.golf"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15300",
+      "METValue": 3.8,
+      "ActivityDescription": "体操",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15320",
+      "METValue": 12.0,
+      "ActivityDescription": "ハンドボール",
+      "systemIcon": "figure.handball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15350",
+      "METValue": 7.8,
+      "ActivityDescription": "ホッケー",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15362",
+      "METValue": 10.0,
+      "ActivityDescription": "ホッケー、競技",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15370",
+      "METValue": 5.5,
+      "ActivityDescription": "乗馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15380",
+      "METValue": 4.5,
+      "ActivityDescription": "馬の世話",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15390",
+      "METValue": 5.8,
+      "ActivityDescription": "乗馬、速歩",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15395",
+      "METValue": 7.3,
+      "ActivityDescription": "乗馬、ギャロップ",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15400",
+      "METValue": 3.8,
+      "ActivityDescription": "乗馬、散歩",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15402",
+      "METValue": 9.0,
+      "ActivityDescription": "乗馬、障害飛越",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15403",
+      "METValue": 6.0,
+      "ActivityDescription": "乗馬、レイニング",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15425",
+      "METValue": 5.3,
+      "ActivityDescription": "武道、各種種目、ゆっくりのペース、練習",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15430",
+      "METValue": 10.3,
+      "ActivityDescription": "武道、各種種目、中程度のペース（例：柔道、柔術、空手、キックボクシング、テコンドー、タイボー、ムエタイ）",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15432",
+      "METValue": 14.3,
+      "ActivityDescription": "テコンドー",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15433",
+      "METValue": 11.3,
+      "ActivityDescription": "柔道",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15440",
+      "METValue": 4.0,
+      "ActivityDescription": "ジャグリング",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15444",
+      "METValue": 6.5,
+      "ActivityDescription": "剣道、基本稽古スタイル、中程度の強度",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15445",
+      "METValue": 9.6,
+      "ActivityDescription": "剣道、切り返しスタイル、高強度",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15446",
+      "METValue": 11.3,
+      "ActivityDescription": "剣道、掛稽古スタイル、非常に高い強度",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15450",
+      "METValue": 7.0,
+      "ActivityDescription": "キックボール",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15455",
+      "METValue": 5.5,
+      "ActivityDescription": "カンフー体操",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15457",
+      "METValue": 7.3,
+      "ActivityDescription": "キックボクシング",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15460",
+      "METValue": 8.0,
+      "ActivityDescription": "ラクロス",
+      "systemIcon": "figure.lacrosse"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15465",
+      "METValue": 3.3,
+      "ActivityDescription": "ローンボウリング",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15470",
+      "METValue": 4.0,
+      "ActivityDescription": "モトクロス、オフロードモータースポーツ",
+      "systemIcon": "motorcycle"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15475",
+      "METValue": 5.3,
+      "ActivityDescription": "モーターレーシング",
+      "systemIcon": "motorcycle"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15477",
+      "METValue": 7.0,
+      "ActivityDescription": "ネットボール",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15490",
+      "METValue": 10.0,
+      "ActivityDescription": "パドルボール、競技",
+      "systemIcon": "figure.pickleball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15500",
+      "METValue": 6.0,
+      "ActivityDescription": "パドルボール",
+      "systemIcon": "figure.pickleball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15503",
+      "METValue": 1.8,
+      "ActivityDescription": "パラグライダー",
+      "systemIcon": "wind"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15510",
+      "METValue": 8.0,
+      "ActivityDescription": "ポロ、乗馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15520",
+      "METValue": 10.0,
+      "ActivityDescription": "ラケットボール、競技",
+      "systemIcon": "figure.racquetball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15525",
+      "METValue": 10.3,
+      "ActivityDescription": "競歩（時速11km）",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15527",
+      "METValue": 13.8,
+      "ActivityDescription": "競歩（時速13km）",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15528",
+      "METValue": 15.5,
+      "ActivityDescription": "競歩、レーシングスピード（時速14km）",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15530",
+      "METValue": 7.0,
+      "ActivityDescription": "ラケットボール",
+      "systemIcon": "figure.racquetball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15533",
+      "METValue": 8.0,
+      "ActivityDescription": "ロッククライミングまたは登山",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15535",
+      "METValue": 7.3,
+      "ActivityDescription": "ロッククライミング、高難度",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15536",
+      "METValue": 10.5,
+      "ActivityDescription": "ロッククライミング、スピードクライミング、非常に難しい",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15537",
+      "METValue": 5.8,
+      "ActivityDescription": "ロッククライミング、低〜中程度の難易度",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15542",
+      "METValue": 4.0,
+      "ActivityDescription": "ロデオ、軽い努力",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15544",
+      "METValue": 5.5,
+      "ActivityDescription": "ロデオ、中程度の努力",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15546",
+      "METValue": 7.0,
+      "ActivityDescription": "ロデオ、激しい努力",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15550",
+      "METValue": 12.3,
+      "ActivityDescription": "縄跳び、速いペース、1分間に120〜160回",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15551",
+      "METValue": 11.8,
+      "ActivityDescription": "縄跳び、中程度のペース、1分間に100〜120回",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15552",
+      "METValue": 8.3,
+      "ActivityDescription": "縄跳び、ゆっくりのペース、1分間に100回未満",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15554",
+      "METValue": 10.0,
+      "ActivityDescription": "縄跳び",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15560",
+      "METValue": 8.3,
+      "ActivityDescription": "ラグビー、競技",
+      "systemIcon": "figure.rugby"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15580",
+      "METValue": 5.0,
+      "ActivityDescription": "スケートボード、中程度の強度",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15582",
+      "METValue": 6.0,
+      "ActivityDescription": "スケートボード、競技、激しい努力",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15590",
+      "METValue": 7.0,
+      "ActivityDescription": "ローラースケート",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15591",
+      "METValue": 7.5,
+      "ActivityDescription": "ローラースケート、時速14.4km、散歩ペース",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15592",
+      "METValue": 9.8,
+      "ActivityDescription": "ローラースケート、時速17.7km、中程度のペース",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15593",
+      "METValue": 12.3,
+      "ActivityDescription": "ローラースケート、時速21.0〜21.7km、速いペース",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15594",
+      "METValue": 15.5,
+      "ActivityDescription": "ローラースケート、時速24.0km、最大努力",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15595",
+      "METValue": 6.8,
+      "ActivityDescription": "スケートボード、ロングボード、時速13.3km、遅い速度",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15596",
+      "METValue": 8.3,
+      "ActivityDescription": "スケートボード、ロングボード、時速16.2km、一般的な速度",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15597",
+      "METValue": 10.5,
+      "ActivityDescription": "スケートボード、ロングボード、時速18.4km、速い速度",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15600",
+      "METValue": 3.5,
+      "ActivityDescription": "スカイダイビング、ベースジャンプ、バンジージャンプ",
+      "systemIcon": "airplane.departure"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15605",
+      "METValue": 9.5,
+      "ActivityDescription": "サッカー、競技",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15610",
+      "METValue": 7.0,
+      "ActivityDescription": "サッカー、レクリエーション",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15625",
+      "METValue": 4.0,
+      "ActivityDescription": "ソフトボール",
+      "systemIcon": "figure.baseball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15650",
+      "METValue": 12.0,
+      "ActivityDescription": "スカッシュ",
+      "systemIcon": "figure.squash"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15660",
+      "METValue": 4.0,
+      "ActivityDescription": "卓球",
+      "systemIcon": "figure.table.tennis"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15675",
+      "METValue": 6.8,
+      "ActivityDescription": "テニス、中程度の強度",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15676",
+      "METValue": 8.0,
+      "ActivityDescription": "テニス、競技",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15680",
+      "METValue": 6.0,
+      "ActivityDescription": "テニス、ダブルス",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15690",
+      "METValue": 8.0,
+      "ActivityDescription": "テニス、シングルス",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15700",
+      "METValue": 6.3,
+      "ActivityDescription": "トランポリン、レクリエーション",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15702",
+      "METValue": 10.3,
+      "ActivityDescription": "トランポリン、競技",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15710",
+      "METValue": 4.0,
+      "ActivityDescription": "バレーボール",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15711",
+      "METValue": 6.0,
+      "ActivityDescription": "室内バレーボール、競技",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15725",
+      "METValue": 8.0,
+      "ActivityDescription": "ビーチバレーボール",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15730",
+      "METValue": 6.0,
+      "ActivityDescription": "レスリング競技（1試合=5分）",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15732",
+      "METValue": 4.0,
+      "ActivityDescription": "陸上競技",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15733",
+      "METValue": 6.0,
+      "ActivityDescription": "陸上競技（例：走り高跳び、走り幅跳び、三段跳び、やり投げ、棒高跳び）",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "スポーツ",
+      "ActivityCode": "15734",
+      "METValue": 10.0,
+      "ActivityDescription": "陸上競技（例：ハードル走）",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "移動",
+      "ActivityCode": "16002",
+      "METValue": 6.8,
+      "ActivityDescription": "自転車、中程度の努力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "移動",
+      "ActivityCode": "16004",
+      "METValue": 9.3,
+      "ActivityDescription": "自転車、強い努力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "移動",
+      "ActivityCode": "16005",
+      "METValue": 6.8,
+      "ActivityDescription": "電動自転車（電動）",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17021",
+      "METValue": 2.3,
+      "ActivityDescription": "4.5kgの子を抱いての散歩、ゆっくり",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17025",
+      "METValue": 8.3,
+      "ActivityDescription": "荷物を持って上に移動",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17032",
+      "METValue": 5.0,
+      "ActivityDescription": "山登り、荷物なし、傾斜5〜20%、非常にゆっくりのペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17033",
+      "METValue": 3.8,
+      "ActivityDescription": "山登り、7〜22kgの荷物、傾斜1〜2%、ゆっくりのペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17034",
+      "METValue": 5.3,
+      "ActivityDescription": "山登り、荷物なし、傾斜1〜5%、中〜速いペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17035",
+      "METValue": 7.0,
+      "ActivityDescription": "山登り、荷物なし、傾斜6〜10%、中〜速いペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17036",
+      "METValue": 8.8,
+      "ActivityDescription": "山登り、荷物なし、傾斜11〜20%、ゆっくり〜中程度のペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17037",
+      "METValue": 10.0,
+      "ActivityDescription": "山登り、荷物なし、時速6〜8km、傾斜3〜5%、非常に速いペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17038",
+      "METValue": 8.5,
+      "ActivityDescription": "山登り、荷物なし、急勾配（30%）、ゆっくりのペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17039",
+      "METValue": 15.5,
+      "ActivityDescription": "山登り、荷物なし、非常に急な勾配（30〜40%）、時速2〜3km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17040",
+      "METValue": 16.3,
+      "ActivityDescription": "山登り、荷物なし、急勾配（10〜40%）、時速3〜8km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17045",
+      "METValue": 6.5,
+      "ActivityDescription": "山登り、4〜8kgの荷物、傾斜5〜10%、中程度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17050",
+      "METValue": 7.5,
+      "ActivityDescription": "山登り、9〜18kgの荷物、傾斜3〜10%、中〜速いペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17060",
+      "METValue": 10.0,
+      "ActivityDescription": "山登り、9kg超の荷物、傾斜5〜20%、中〜速いペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17080",
+      "METValue": 6.0,
+      "ActivityDescription": "砂浜ウォーキング",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17110",
+      "METValue": 6.5,
+      "ActivityDescription": "競歩",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17130",
+      "METValue": 8.0,
+      "ActivityDescription": "階段上り",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17133",
+      "METValue": 4.5,
+      "ActivityDescription": "階段上り、ゆっくりのペース",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17134",
+      "METValue": 9.3,
+      "ActivityDescription": "階段上り、速いペース",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17150",
+      "METValue": 2.3,
+      "ActivityDescription": "散歩",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17151",
+      "METValue": 2.3,
+      "ActivityDescription": "時速3km未満ウォーキング、非常にゆっくり",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17152",
+      "METValue": 2.8,
+      "ActivityDescription": "時速3〜4kmウォーキング、ゆっくりのペース",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17160",
+      "METValue": 3.5,
+      "ActivityDescription": "楽しいお散歩",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17165",
+      "METValue": 3.0,
+      "ActivityDescription": "犬の散歩",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17170",
+      "METValue": 3.0,
+      "ActivityDescription": "ウォーキング、時速4km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17180",
+      "METValue": 3.3,
+      "ActivityDescription": "ウォーキング、時速4km、坂道",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17200",
+      "METValue": 4.8,
+      "ActivityDescription": "時速5.5〜6kmウォーキング",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17220",
+      "METValue": 5.5,
+      "ActivityDescription": "時速6.5〜7kmウォーキング",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17230",
+      "METValue": 7.0,
+      "ActivityDescription": "時速7〜8kmウォーキング",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17231",
+      "METValue": 8.5,
+      "ActivityDescription": "時速8〜9kmウォーキング",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17310",
+      "METValue": 8.8,
+      "ActivityDescription": "ノルディックウォーキング",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17349",
+      "METValue": 3.0,
+      "ActivityDescription": "トレッドミルウォーキング、時速3〜4km、傾斜なし",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17352",
+      "METValue": 3.5,
+      "ActivityDescription": "トレッドミルウォーキング、時速4.0〜4.7km、傾斜なし",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17355",
+      "METValue": 3.8,
+      "ActivityDescription": "トレッドミルウォーキング、時速4.8〜5.5km、傾斜なし",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17358",
+      "METValue": 4.8,
+      "ActivityDescription": "トレッドミルウォーキング、時速5.6〜6.3km、傾斜なし",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17361",
+      "METValue": 5.8,
+      "ActivityDescription": "トレッドミルウォーキング、時速6.4〜7.1km、傾斜なし",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17364",
+      "METValue": 6.8,
+      "ActivityDescription": "トレッドミルウォーキング、時速7.2〜7.9km、傾斜なし",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ウォーキング",
+      "ActivityCode": "17367",
+      "METValue": 8.3,
+      "ActivityDescription": "トレッドミルウォーキング、時速8.0〜8.9km、傾斜なし",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18020",
+      "METValue": 4.0,
+      "ActivityDescription": "ハイキングカヌー漕ぎ",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18090",
+      "METValue": 3.0,
+      "ActivityDescription": "ダイビング",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18100",
+      "METValue": 5.0,
+      "ActivityDescription": "カヤック、中程度の努力",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18104",
+      "METValue": 13.5,
+      "ActivityDescription": "カヤック、競技",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18110",
+      "METValue": 4.0,
+      "ActivityDescription": "ペダルボート",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18150",
+      "METValue": 6.0,
+      "ActivityDescription": "水上スキー",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18160",
+      "METValue": 7.0,
+      "ActivityDescription": "ジェットスキー",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18180",
+      "METValue": 15.8,
+      "ActivityDescription": "スカイダイビング、速い",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18190",
+      "METValue": 11.8,
+      "ActivityDescription": "スカイダイビング、中程度",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18200",
+      "METValue": 7.0,
+      "ActivityDescription": "スキューバジャンプ、水中水泳",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18202",
+      "METValue": 5.3,
+      "ActivityDescription": "スキューバダイビング、軽い努力",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18204",
+      "METValue": 5.8,
+      "ActivityDescription": "水中水泳、中程度の努力",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18206",
+      "METValue": 5.5,
+      "ActivityDescription": "水中水泳、プロダイバー",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18208",
+      "METValue": 6.8,
+      "ActivityDescription": "水中水泳、アマチュアダイバー",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18210",
+      "METValue": 5.0,
+      "ActivityDescription": "水中水泳",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18220",
+      "METValue": 3.0,
+      "ActivityDescription": "サーフィン",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18221",
+      "METValue": 6.8,
+      "ActivityDescription": "サーフボード、パドリング",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18222",
+      "METValue": 5.0,
+      "ActivityDescription": "サーフィン、競技",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18224",
+      "METValue": 6.5,
+      "ActivityDescription": "スタンドアップパドルボーディング（SUP）",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18230",
+      "METValue": 9.8,
+      "ActivityDescription": "水泳、激しい努力",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18240",
+      "METValue": 5.8,
+      "ActivityDescription": "水泳、ゆっくり",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18255",
+      "METValue": 4.8,
+      "ActivityDescription": "背泳ぎ",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18260",
+      "METValue": 10.3,
+      "ActivityDescription": "水泳、平泳ぎ、トレーニングまたは競技",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18265",
+      "METValue": 5.3,
+      "ActivityDescription": "平泳ぎ、レクリエーション",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18270",
+      "METValue": 13.8,
+      "ActivityDescription": "水泳、バタフライ",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18300",
+      "METValue": 6.0,
+      "ActivityDescription": "湖、川または海での水泳",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18310",
+      "METValue": 6.0,
+      "ActivityDescription": "水泳、のんびり",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18330",
+      "METValue": 8.0,
+      "ActivityDescription": "シンクロナイズドスイミング",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18355",
+      "METValue": 5.5,
+      "ActivityDescription": "水中エアロビクス、水中体操",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18356",
+      "METValue": 3.8,
+      "ActivityDescription": "水中エアロビクス、レジスタンス運動",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18358",
+      "METValue": 7.5,
+      "ActivityDescription": "水中エアロビクス、高強度",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18360",
+      "METValue": 10.0,
+      "ActivityDescription": "水球",
+      "systemIcon": "figure.waterpolo"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18365",
+      "METValue": 3.0,
+      "ActivityDescription": "水中バレーボール",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "水上アクティビティ",
+      "ActivityCode": "18370",
+      "METValue": 5.0,
+      "ActivityDescription": "ラフティング、カヤックまたはカヌー",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19018",
+      "METValue": 14.0,
+      "ActivityDescription": "アイススケート、アイスダンス",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19020",
+      "METValue": 5.5,
+      "ActivityDescription": "アイススケート、時速14km以下",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19030",
+      "METValue": 7.0,
+      "ActivityDescription": "アイススケート",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19040",
+      "METValue": 9.0,
+      "ActivityDescription": "アイススケート、速い、時速14km超",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19050",
+      "METValue": 13.8,
+      "ActivityDescription": "アイススケート、競技",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19060",
+      "METValue": 7.0,
+      "ActivityDescription": "スキージャンプ",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19075",
+      "METValue": 7.0,
+      "ActivityDescription": "スキー",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19080",
+      "METValue": 6.8,
+      "ActivityDescription": "クロスカントリースキー、時速7km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19090",
+      "METValue": 8.5,
+      "ActivityDescription": "クロスカントリースキー、時速6.5〜8km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19100",
+      "METValue": 11.3,
+      "ActivityDescription": "クロスカントリースキー、時速8〜13km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19110",
+      "METValue": 14.0,
+      "ActivityDescription": "クロスカントリースキー、時速13〜30km超、レース",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19112",
+      "METValue": 16.0,
+      "ActivityDescription": "クロスカントリースキー、時速19〜26km、レース",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19115",
+      "METValue": 9.5,
+      "ActivityDescription": "クロスカントリースキー、高強度トレーニング",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19130",
+      "METValue": 15.5,
+      "ActivityDescription": "スキー、坂道、雪山登山",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19142",
+      "METValue": 12.8,
+      "ActivityDescription": "バイアスロン訓練、傾斜5度、時速8km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19144",
+      "METValue": 12.8,
+      "ActivityDescription": "バイアスロン訓練、傾斜5度、時速10.7km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19146",
+      "METValue": 9.3,
+      "ActivityDescription": "スキー",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19150",
+      "METValue": 4.3,
+      "ActivityDescription": "スキー、アルペンスキーまたはスノーボード、軽い努力",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19160",
+      "METValue": 6.3,
+      "ActivityDescription": "スキー、アルペンスキーまたはスノーボード、中程度の強度",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19170",
+      "METValue": 8.0,
+      "ActivityDescription": "スキー、アルペンスキーまたはスノーボード、激しい努力",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19174",
+      "METValue": 7.3,
+      "ActivityDescription": "アルペンスキー、高強度トレーニング",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19180",
+      "METValue": 7.0,
+      "ActivityDescription": "そり",
+      "systemIcon": "figure.snowboarding"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19190",
+      "METValue": 5.3,
+      "ActivityDescription": "スノーシューイング、中程度の努力",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19192",
+      "METValue": 10.0,
+      "ActivityDescription": "スノーシューイング、激しい努力",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19201",
+      "METValue": 7.5,
+      "ActivityDescription": "スノーボード、中程度のペース",
+      "systemIcon": "figure.snowboarding"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19252",
+      "METValue": 5.3,
+      "ActivityDescription": "手で雪かき、中程度の努力",
+      "systemIcon": "snowflake"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19254",
+      "METValue": 7.5,
+      "ActivityDescription": "手で雪かき、激しい努力",
+      "systemIcon": "snowflake"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19305",
+      "METValue": 5.5,
+      "ActivityDescription": "ローラースキー、時速10〜12.9km、平地",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19310",
+      "METValue": 6.8,
+      "ActivityDescription": "ローラースキー、時速13〜16.9km、平地",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19315",
+      "METValue": 8.3,
+      "ActivityDescription": "ローラースキー、時速17〜19.9km、平地",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19320",
+      "METValue": 10.5,
+      "ActivityDescription": "ローラースキー、時速20〜23.9km、平地",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19325",
+      "METValue": 15.0,
+      "ActivityDescription": "ローラースキー、時速24〜27.9km、平地",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19330",
+      "METValue": 12.5,
+      "ActivityDescription": "ローラースキー、時速10〜15km、傾斜2〜5度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19335",
+      "METValue": 14.3,
+      "ActivityDescription": "ローラースキー、時速16〜22km、傾斜2〜5度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19340",
+      "METValue": 12.3,
+      "ActivityDescription": "ローラースキー、時速6〜9km、傾斜6〜10度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19345",
+      "METValue": 16.0,
+      "ActivityDescription": "ローラースキー、時速10km超、傾斜6〜10度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19400",
+      "METValue": 9.0,
+      "ActivityDescription": "登山、ロッククライミング、ロープで下降",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "ウィンタースポーツ",
+      "ActivityCode": "19405",
+      "METValue": 10.3,
+      "ActivityDescription": "登山、ロッククライミング/クロスカントリースキー",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21010",
+      "METValue": 2.5,
+      "ActivityDescription": "座って、中程度の作業",
+      "systemIcon": "person.fill"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21015",
+      "METValue": 1.8,
+      "ActivityDescription": "立って、軽い作業",
+      "systemIcon": "person.fill"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21016",
+      "METValue": 2.0,
+      "ActivityDescription": "座って、子供のケア、活動的な時間のみ",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21017",
+      "METValue": 3.5,
+      "ActivityDescription": "立って、子供のケア、活動的な時間のみ",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21018",
+      "METValue": 3.5,
+      "ActivityDescription": "子供と遊ぶ、中程度、活動的な時間のみ",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21019",
+      "METValue": 5.8,
+      "ActivityDescription": "子供と遊ぶ、激しい、活動的な時間のみ",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21020",
+      "METValue": 3.3,
+      "ActivityDescription": "立って、軽〜中程度の作業（例：箱の梱包、組み立て/修理、椅子/家具の設置）",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "ボランティア活動",
+      "ActivityCode": "21030",
+      "METValue": 4.5,
+      "ActivityDescription": "立って、中〜重い作業",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "ビデオゲーム",
+      "ActivityCode": "22120",
+      "METValue": 1.5,
+      "ActivityDescription": "ビデオゲーム、携帯型コントローラー（軽い努力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "ビデオゲーム",
+      "ActivityCode": "22160",
+      "METValue": 2.3,
+      "ActivityDescription": "ビデオゲーム、軽い努力（Wii Fit、ヨガ、ボウリングなど）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "ビデオゲーム",
+      "ActivityCode": "22200",
+      "METValue": 3.0,
+      "ActivityDescription": "アクティブビデオゲーム、モーション認識/上半身使用（軽〜中程度の努力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "ビデオゲーム",
+      "ActivityCode": "22240",
+      "METValue": 4.0,
+      "ActivityDescription": "アクティブビデオゲーム、モーション認識/全身使用（中程度の努力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "ビデオゲーム",
+      "ActivityCode": "22280",
+      "METValue": 5.0,
+      "ActivityDescription": "アクティブビデオゲーム、モーション認識/全身使用（中〜激しい努力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "ビデオゲーム",
+      "ActivityCode": "22320",
+      "METValue": 7.5,
+      "ActivityDescription": "アクティブビデオゲーム、モーション認識/全身使用、ゲームエクササイズ、トレーニング、ダンス（激しい努力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "ビデオゲーム",
+      "ActivityCode": "22360",
+      "METValue": 9.8,
+      "ActivityDescription": "バーチャルリアリティトレーニング/運動、高強度",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22361",
+      "METValue": 2.8,
+      "ActivityDescription": "トレッドミルウォーキング、時速4km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22362",
+      "METValue": 3.5,
+      "ActivityDescription": "トレッドミルウォーキング、時速5km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22363",
+      "METValue": 4.8,
+      "ActivityDescription": "トレッドミルウォーキング、時速6km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22364",
+      "METValue": 8.5,
+      "ActivityDescription": "ステアクライマーマシン",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22365",
+      "METValue": 3.5,
+      "ActivityDescription": "ジム筋力トレーニング、軽いウェイト",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22366",
+      "METValue": 5.0,
+      "ActivityDescription": "ジム筋力トレーニング、中程度のウェイト",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22367",
+      "METValue": 6.0,
+      "ActivityDescription": "ジム筋力トレーニング、重いウェイト",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22368",
+      "METValue": 2.3,
+      "ActivityDescription": "ストレッチ",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22369",
+      "METValue": 5.0,
+      "ActivityDescription": "エリプティカル",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22370",
+      "METValue": 5.5,
+      "ActivityDescription": "室内自転車",
+      "systemIcon": "figure.indoor.cycle"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22371",
+      "METValue": 7.0,
+      "ActivityDescription": "ローイングマシン",
+      "systemIcon": "figure.indoor.rowing"
+    },
+    {
+      "MajorHeading": "特殊活動",
+      "ActivityCode": "22372",
+      "METValue": 2.2,
+      "ActivityDescription": "モデル活動（撮影、ポーズ、衣装交換）",
+      "systemIcon": "camera.fill"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22373",
+      "METValue": 5.0,
+      "ActivityDescription": "インターバルトレーニング、軽い",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22374",
+      "METValue": 7.0,
+      "ActivityDescription": "インターバルトレーニング、中程度",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "ジムトレーニング",
+      "ActivityCode": "22375",
+      "METValue": 10.0,
+      "ActivityDescription": "インターバルトレーニング、高強度",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    }
+  ]
+}

@@ -1,0 +1,3861 @@
+{
+  "activities": [
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01003",
+      "METValue": 14.0,
+      "ActivityDescription": "자전거 오르막 타기, 격렬한",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01008",
+      "METValue": 8.5,
+      "ActivityDescription": "자전거, BMX",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01009",
+      "METValue": 8.5,
+      "ActivityDescription": "자전거 오르막 타기",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01010",
+      "METValue": 4.0,
+      "ActivityDescription": "자전거 타기, 시속 16km 미만",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01013",
+      "METValue": 5.8,
+      "ActivityDescription": "비포장도로 자전거 타기, 보통 속도",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01014",
+      "METValue": 7.0,
+      "ActivityDescription": "자전거 타기",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01015",
+      "METValue": 4.3,
+      "ActivityDescription": "자전거 타기, 가벼운 속도",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01016",
+      "METValue": 7.0,
+      "ActivityDescription": "자전거 타기, 보통 속도",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01017",
+      "METValue": 9.0,
+      "ActivityDescription": "자전거 타기, 격렬한 속도",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01018",
+      "METValue": 3.5,
+      "ActivityDescription": "자전거 타기, 시속 8km",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01019",
+      "METValue": 5.8,
+      "ActivityDescription": "자전거 타기, 시속 15km",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01020",
+      "METValue": 6.8,
+      "ActivityDescription": "자전거 타기, 시속 16~30km, 느린 속도, 가벼운 노력",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01030",
+      "METValue": 8.0,
+      "ActivityDescription": "자전거 타기, 시속 19~22km, 보통 노력",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01040",
+      "METValue": 10.0,
+      "ActivityDescription": "자전거 타기, 시속 22~25km, 레이싱, 빠른 속도, 격렬한 노력",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01050",
+      "METValue": 12.0,
+      "ActivityDescription": "자전거 타기, 시속 25~30km, 레이싱/드래프팅 시속 30km 초과, 매우 빠른 속도, 레이싱",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01060",
+      "METValue": 16.8,
+      "ActivityDescription": "자전거 타기, 시속 32km 초과, 레이싱, 드래프팅 없음",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01080",
+      "METValue": 6.8,
+      "ActivityDescription": "전동 자전거 (전기 구동), 전기 지원 없음",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01084",
+      "METValue": 6.0,
+      "ActivityDescription": "전동 자전거 (전기 구동), 가벼운 전기 지원",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01088",
+      "METValue": 4.0,
+      "ActivityDescription": "전동 자전거 (전기 구동), 높은 전기 지원",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "자전거 타기",
+      "ActivityCode": "01305",
+      "METValue": 8.8,
+      "ActivityDescription": "자전거 타기, 고강도",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02000",
+      "METValue": 7.3,
+      "ActivityDescription": "에어로빅",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02005",
+      "METValue": 4.8,
+      "ActivityDescription": "댄스 에어로빅, 저강도, 보통 노력",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02006",
+      "METValue": 8.0,
+      "ActivityDescription": "댄스 에어로빅, 고강도, 격렬한 노력",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02007",
+      "METValue": 10.0,
+      "ActivityDescription": "댄스 에어로빅, 4~7kg 웨이트 사용",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02008",
+      "METValue": 5.0,
+      "ActivityDescription": "군대식 장애물 코스 운동, 훈련 캠프 프로그램",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02020",
+      "METValue": 7.5,
+      "ActivityDescription": "맨손 체조 (예: 팔굽혀펴기, 스쿼트, 턱걸이, 점프), 격렬한 노력",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02022",
+      "METValue": 3.8,
+      "ActivityDescription": "체조 (예: 팔굽혀펴기, 스쿼트, 턱걸이, 런지), 보통 노력",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02024",
+      "METValue": 2.8,
+      "ActivityDescription": "체조 (예: 컬업, 복근 운동, 플랭크), 가벼운 노력",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02030",
+      "METValue": 3.5,
+      "ActivityDescription": "체조, 가벼운 또는 보통 노력",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02032",
+      "METValue": 6.0,
+      "ActivityDescription": "서킷 트레이닝, 자체 체중 운동",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02034",
+      "METValue": 3.5,
+      "ActivityDescription": "서킷 트레이닝, 가벼운 노력",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02035",
+      "METValue": 5.0,
+      "ActivityDescription": "서킷 트레이닝, 보통 노력",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02040",
+      "METValue": 7.5,
+      "ActivityDescription": "웨이트 서킷 트레이닝, 고강도",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02048",
+      "METValue": 5.0,
+      "ActivityDescription": "엘립티컬 트레이너, 보통 강도",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02049",
+      "METValue": 9.0,
+      "ActivityDescription": "엘립티컬 트레이너, 격렬한 노력",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02052",
+      "METValue": 5.0,
+      "ActivityDescription": "웨이트 트레이닝, 스쿼트, 데드리프트, 느리거나 폭발적인 노력",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02054",
+      "METValue": 3.5,
+      "ActivityDescription": "웨이트 트레이닝",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02056",
+      "METValue": 3.0,
+      "ActivityDescription": "웨이트 운동 (예: 스쿼트, 런지, 팔굽혀펴기, 크런치)",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02057",
+      "METValue": 6.5,
+      "ActivityDescription": "웨이트 운동 (예: 스쿼트, 런지, 팔굽혀펴기, 크런치), 고강도",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02064",
+      "METValue": 3.8,
+      "ActivityDescription": "홈 트레이닝",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02065",
+      "METValue": 9.3,
+      "ActivityDescription": "계단 런닝머신 에르고미터",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02068",
+      "METValue": 11.0,
+      "ActivityDescription": "줄넘기",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02070",
+      "METValue": 7.3,
+      "ActivityDescription": "조정, 고정 에르고미터, 격렬한 노력",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02071",
+      "METValue": 5.0,
+      "ActivityDescription": "고정 에르고미터 조정, 보통 강도",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02078",
+      "METValue": 11.0,
+      "ActivityDescription": "왕복 달리기 전후/측면",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02101",
+      "METValue": 2.3,
+      "ActivityDescription": "스트레칭, 가벼운",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02103",
+      "METValue": 1.8,
+      "ActivityDescription": "매트 필라테스",
+      "systemIcon": "figure.pilates"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02105",
+      "METValue": 2.8,
+      "ActivityDescription": "필라테스",
+      "systemIcon": "figure.pilates"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02108",
+      "METValue": 4.5,
+      "ActivityDescription": "폴댄스",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02120",
+      "METValue": 5.3,
+      "ActivityDescription": "수중 에어로빅, 수중 체조",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02140",
+      "METValue": 2.5,
+      "ActivityDescription": "동영상 또는 TV 프로그램 운동 (예: 요가, 스트레칭), 가벼운 노력",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02143",
+      "METValue": 4.0,
+      "ActivityDescription": "동영상 또는 TV 프로그램 운동 (예: 유산소 운동), 보통",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02145",
+      "METValue": 6.0,
+      "ActivityDescription": "동영상 또는 TV 프로그램 운동 (예: 유산소 운동), 격렬한",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02150",
+      "METValue": 2.3,
+      "ActivityDescription": "요가, 하타",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02153",
+      "METValue": 8.0,
+      "ActivityDescription": "요가, 하타, 고강도",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02155",
+      "METValue": 3.0,
+      "ActivityDescription": "핫 요가",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02160",
+      "METValue": 4.0,
+      "ActivityDescription": "파워 요가",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02170",
+      "METValue": 2.0,
+      "ActivityDescription": "요가, 나디쇼다나",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02175",
+      "METValue": 2.3,
+      "ActivityDescription": "요가",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02180",
+      "METValue": 3.5,
+      "ActivityDescription": "요가, 수리야 나마스카르",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02185",
+      "METValue": 2.7,
+      "ActivityDescription": "요가, 빈야사",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02210",
+      "METValue": 7.0,
+      "ActivityDescription": "고강도 인터벌 트레이닝",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02214",
+      "METValue": 11.0,
+      "ActivityDescription": "고강도 인터벌 트레이닝, 버피, 스쿼트 점프, 격렬한 노력",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02230",
+      "METValue": 5.8,
+      "ActivityDescription": "훌라후프",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02280",
+      "METValue": 7.9,
+      "ActivityDescription": "가상현실 피트니스, 고강도",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02300",
+      "METValue": 3.0,
+      "ActivityDescription": "스틱 운동",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02310",
+      "METValue": 6.5,
+      "ActivityDescription": "줌바, 그룹 수업",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "기능성 트레이닝",
+      "ActivityCode": "02315",
+      "METValue": 5.5,
+      "ActivityDescription": "홈 줌바",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03005",
+      "METValue": 6.0,
+      "ActivityDescription": "아프로-쿠바 살사 (쿠바 차차차, 맘보, 아프로-룸바, 콘트라티엠포 손, 오리샤/산토 동작)",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03010",
+      "METValue": 5.0,
+      "ActivityDescription": "발레, 리허설 또는 레슨",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03011",
+      "METValue": 6.3,
+      "ActivityDescription": "발레 연습 (쁠리에, 탕뒤, 제테, 롱 드 장브, 퐁뒤, 그랑 바트망, 소테, 탕 르베)",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03012",
+      "METValue": 6.8,
+      "ActivityDescription": "발레, 격렬한 노력",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03025",
+      "METValue": 4.5,
+      "ActivityDescription": "민족 또는 문화 댄스 (예: 그리스, 중동, 훌라, 살사, 메렝게, 밤바, 플라멩코, 스윙)",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03030",
+      "METValue": 5.5,
+      "ActivityDescription": "볼룸댄스, 빠른",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03031",
+      "METValue": 9.8,
+      "ActivityDescription": "나이트클럽 또는 민속 댄스, 격렬한 노력 (예: 나이트클럽, 디스코, 라인댄스, 아이리시 스텝, 폴카)",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03033",
+      "METValue": 5.0,
+      "ActivityDescription": "민속 댄스, 보통 노력",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03038",
+      "METValue": 11.3,
+      "ActivityDescription": "볼룸댄스, 경쟁",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03040",
+      "METValue": 3.0,
+      "ActivityDescription": "볼룸, 느린, 예: 왈츠, 폭스트롯, 슬로우 댄스, 삼바-탱고, 룸바, 맘보, 차차",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03042",
+      "METValue": 6.0,
+      "ActivityDescription": "볼룸댄스, 레크리에이션 (왈츠, 폭스트롯, 차차, 스윙)",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03070",
+      "METValue": 3.8,
+      "ActivityDescription": "현대 댄스",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03072",
+      "METValue": 4.3,
+      "ActivityDescription": "현대 댄스, 나이트클럽",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03075",
+      "METValue": 8.5,
+      "ActivityDescription": "플라멩코",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03078",
+      "METValue": 4.5,
+      "ActivityDescription": "재즈 댄스",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03080",
+      "METValue": 10.3,
+      "ActivityDescription": "뮤지컬 시어터, 노래/댄스",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03086",
+      "METValue": 7.0,
+      "ActivityDescription": "폴리네시안 댄스, 하와이안 훌라, 사모아 사사, 피지 댄스, 필리핀 티니클링",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03090",
+      "METValue": 4.8,
+      "ActivityDescription": "파트너와 살사 댄스",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03091",
+      "METValue": 6.3,
+      "ActivityDescription": "동영상 살사 댄스",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "댄스",
+      "ActivityCode": "03093",
+      "METValue": 5.5,
+      "ActivityDescription": "스퀘어 댄스, 아메리칸 웨스턴, 컨트리",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04001",
+      "METValue": 3.5,
+      "ActivityDescription": "낚시",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04005",
+      "METValue": 4.5,
+      "ActivityDescription": "낚시, 게잡이",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04007",
+      "METValue": 4.0,
+      "ActivityDescription": "낚시, 맨손으로 물고기 잡기",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04020",
+      "METValue": 4.0,
+      "ActivityDescription": "강가에서 낚시 및 산책",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04030",
+      "METValue": 2.0,
+      "ActivityDescription": "배 또는 카누에서 앉아서 낚시",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04040",
+      "METValue": 3.5,
+      "ActivityDescription": "강가에서 서서 낚시",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04060",
+      "METValue": 2.0,
+      "ActivityDescription": "얼음낚시",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04062",
+      "METValue": 3.5,
+      "ActivityDescription": "낚시, 그물 설치 및 물고기 수확",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04065",
+      "METValue": 2.3,
+      "ActivityDescription": "서서 작살 낚시",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04070",
+      "METValue": 2.5,
+      "ActivityDescription": "사냥, 활과 화살 또는 석궁",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04080",
+      "METValue": 6.0,
+      "ActivityDescription": "대형 사냥감 사냥",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04083",
+      "METValue": 4.0,
+      "ActivityDescription": "대형 해양 동물 사냥",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04086",
+      "METValue": 2.0,
+      "ActivityDescription": "차량, 항공기 또는 보트에서 대형 사냥감 사냥",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04100",
+      "METValue": 5.0,
+      "ActivityDescription": "사냥",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04120",
+      "METValue": 5.0,
+      "ActivityDescription": "소형 사냥감 사냥",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04130",
+      "METValue": 2.5,
+      "ActivityDescription": "권총 또는 스탠드 사격, 서서",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04140",
+      "METValue": 2.3,
+      "ActivityDescription": "사격 훈련, 엎드려 사격",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "낚시와 사냥",
+      "ActivityCode": "04145",
+      "METValue": 2.5,
+      "ActivityDescription": "소총 사격 훈련",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05010",
+      "METValue": 3.3,
+      "ActivityDescription": "청소, 카펫 및 바닥 쓸기",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05020",
+      "METValue": 3.5,
+      "ActivityDescription": "무거운 청소 (예: 세차, 차고 청소), 보통 노력",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05021",
+      "METValue": 3.5,
+      "ActivityDescription": "청소, 서서 바닥 닦기, 보통 노력",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05022",
+      "METValue": 3.3,
+      "ActivityDescription": "창문 닦기",
+      "systemIcon": "sparkles"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05023",
+      "METValue": 2.5,
+      "ActivityDescription": "서서 바닥 닦기, 가벼운 노력",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05025",
+      "METValue": 2.8,
+      "ActivityDescription": "여러 가사 동시 수행, 가벼운 노력",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05026",
+      "METValue": 3.3,
+      "ActivityDescription": "여러 가사 동시 수행, 보통 노력",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05027",
+      "METValue": 4.3,
+      "ActivityDescription": "여러 가사 동시 수행, 격렬한 노력",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05030",
+      "METValue": 3.3,
+      "ActivityDescription": "집 청소, 보통 노력",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05035",
+      "METValue": 3.3,
+      "ActivityDescription": "주방 활동 (예: 요리, 설거지, 청소), 보통 강도",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05040",
+      "METValue": 2.5,
+      "ActivityDescription": "청소 (정리, 침구 교체, 쓰레기 버리기), 가벼운 작업",
+      "systemIcon": "trash.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05041",
+      "METValue": 2.0,
+      "ActivityDescription": "설거지",
+      "systemIcon": "drop.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05042",
+      "METValue": 2.0,
+      "ActivityDescription": "설거지, 식탁 정리",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05043",
+      "METValue": 3.0,
+      "ActivityDescription": "청소기 사용, 보통 노력",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05049",
+      "METValue": 3.5,
+      "ActivityDescription": "요리, 보통 노력",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05052",
+      "METValue": 2.3,
+      "ActivityDescription": "음식 서빙, 식탁 차리기/정리",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05053",
+      "METValue": 2.5,
+      "ActivityDescription": "반려동물 먹이주기",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05060",
+      "METValue": 3.3,
+      "ActivityDescription": "식료품 쇼핑, 마트 쇼핑",
+      "systemIcon": "cart.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05070",
+      "METValue": 1.8,
+      "ActivityDescription": "다림질",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05080",
+      "METValue": 1.3,
+      "ActivityDescription": "뜨개질, 바느질, 가벼운 노력, 선물 포장",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05082",
+      "METValue": 2.8,
+      "ActivityDescription": "재봉틀로 바느질",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05091",
+      "METValue": 2.0,
+      "ActivityDescription": "세탁",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05092",
+      "METValue": 4.0,
+      "ActivityDescription": "세탁, 보통 노력",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05095",
+      "METValue": 2.0,
+      "ActivityDescription": "세탁, 빨래 널기",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05100",
+      "METValue": 3.0,
+      "ActivityDescription": "침구 교체",
+      "systemIcon": "bed.double.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05121",
+      "METValue": 5.0,
+      "ActivityDescription": "이동, 가벼운 물건 들기",
+      "systemIcon": "archivebox.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05130",
+      "METValue": 3.5,
+      "ActivityDescription": "무릎 꿇고 바닥 닦기, 욕실 청소, 보통 노력",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05131",
+      "METValue": 2.0,
+      "ActivityDescription": "무릎 꿇고 바닥 닦기, 욕실 청소, 가벼운 노력",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05132",
+      "METValue": 6.5,
+      "ActivityDescription": "무릎 꿇고 바닥 닦기, 욕실 청소, 격렬한 노력",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05140",
+      "METValue": 3.0,
+      "ActivityDescription": "차고, 인도 또는 집 주변 쓸기",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05148",
+      "METValue": 2.0,
+      "ActivityDescription": "식물에 물주기",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05150",
+      "METValue": 9.0,
+      "ActivityDescription": "상자 또는 가구 운반",
+      "systemIcon": "archivebox.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05171",
+      "METValue": 2.8,
+      "ActivityDescription": "아이와 놀기, 가벼운 노력",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05175",
+      "METValue": 3.5,
+      "ActivityDescription": "걷기/달리기, 아이와 놀기, 보통 강도",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05180",
+      "METValue": 5.8,
+      "ActivityDescription": "걷기/달리기, 아이와 놀기, 격렬한 노력",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05184",
+      "METValue": 2.5,
+      "ActivityDescription": "아기/영아 돌봄",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05185",
+      "METValue": 2.0,
+      "ActivityDescription": "아이 돌봄: 옷 입히기, 목욕, 돌봄, 수유",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05189",
+      "METValue": 2.0,
+      "ActivityDescription": "모유 수유, 앉거나 누워서",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05192",
+      "METValue": 2.8,
+      "ActivityDescription": "걷기 또는 달리기, 동물과 놀기, 가벼운 노력",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05193",
+      "METValue": 4.0,
+      "ActivityDescription": "걷기/달리기, 동물과 놀기, 보통 강도",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05194",
+      "METValue": 5.0,
+      "ActivityDescription": "걷기/달리기, 동물과 놀기, 격렬한 노력",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05197",
+      "METValue": 2.3,
+      "ActivityDescription": "동물 돌봄",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05200",
+      "METValue": 3.0,
+      "ActivityDescription": "노인 또는 장애인 돌봄, 목욕, 옷 입히기, 침대 이동",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "가정 활동",
+      "ActivityCode": "05205",
+      "METValue": 1.8,
+      "ActivityDescription": "노인, 장애인 돌봄, 식사 제공, 머리 빗기, 가벼운 노력",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06030",
+      "METValue": 3.3,
+      "ActivityDescription": "자동차 수리, 가벼운 또는 보통 노력",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06126",
+      "METValue": 2.5,
+      "ActivityDescription": "집 수리, 가벼운 작업",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06127",
+      "METValue": 4.5,
+      "ActivityDescription": "집 수리, 보통 노력",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06128",
+      "METValue": 6.0,
+      "ActivityDescription": "집 수리, 격렬한 노력",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06130",
+      "METValue": 4.5,
+      "ActivityDescription": "카펫 설치 또는 제거",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06140",
+      "METValue": 3.8,
+      "ActivityDescription": "타일 또는 리놀륨 설치",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06144",
+      "METValue": 3.0,
+      "ActivityDescription": "가전제품 수리",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06160",
+      "METValue": 3.3,
+      "ActivityDescription": "집 페인팅, 벽지 붙이기, 페인트 긁기",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06165",
+      "METValue": 4.5,
+      "ActivityDescription": "그림 그리기",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06225",
+      "METValue": 2.0,
+      "ActivityDescription": "세차",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "집 수리",
+      "ActivityCode": "06230",
+      "METValue": 4.5,
+      "ActivityDescription": "울타리 청소, 울타리 페인팅, 보통 노력",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "휴식",
+      "ActivityCode": "07075",
+      "METValue": 1.0,
+      "ActivityDescription": "명상",
+      "systemIcon": "zzz"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08055",
+      "METValue": 2.8,
+      "ActivityDescription": "트랙터 운전",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08066",
+      "METValue": 2.0,
+      "ActivityDescription": "원예",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08095",
+      "METValue": 5.5,
+      "ActivityDescription": "잔디 깎기, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08100",
+      "METValue": 2.5,
+      "ActivityDescription": "자주식 잔디깎기",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08110",
+      "METValue": 6.0,
+      "ActivityDescription": "수동 잔디깎기, 격렬한 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08125",
+      "METValue": 4.5,
+      "ActivityDescription": "전동 잔디깎기, 가벼운 또는 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08135",
+      "METValue": 2.6,
+      "ActivityDescription": "모종 또는 식물 이식, 가벼운 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08140",
+      "METValue": 4.3,
+      "ActivityDescription": "묘목, 관목 심기, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08145",
+      "METValue": 4.3,
+      "ActivityDescription": "농작물 또는 정원 심기, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08150",
+      "METValue": 4.5,
+      "ActivityDescription": "나무 심기",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08160",
+      "METValue": 4.0,
+      "ActivityDescription": "잔디 또는 나뭇잎 갈퀴질, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08165",
+      "METValue": 4.0,
+      "ActivityDescription": "잔디 갈퀴질",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08190",
+      "METValue": 4.0,
+      "ActivityDescription": "풀, 나뭇잎 치우기",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08195",
+      "METValue": 5.3,
+      "ActivityDescription": "손으로 눈 치우기, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08200",
+      "METValue": 6.0,
+      "ActivityDescription": "손으로 눈 갈퀴질",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08202",
+      "METValue": 7.5,
+      "ActivityDescription": "손으로 눈 갈퀴질, 격렬한 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08210",
+      "METValue": 3.8,
+      "ActivityDescription": "손 칼로 관목 또는 나무 다듬기",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08230",
+      "METValue": 4.0,
+      "ActivityDescription": "잔디 또는 정원에 물주기",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08239",
+      "METValue": 3.8,
+      "ActivityDescription": "잡초 제거, 정원 경작, 가벼운 및 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08240",
+      "METValue": 4.5,
+      "ActivityDescription": "잡초 제거, 정원 관리, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08241",
+      "METValue": 5.0,
+      "ActivityDescription": "호미로 잡초 제거, 정원 관리, 보통~격렬한 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08245",
+      "METValue": 3.8,
+      "ActivityDescription": "원예, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08246",
+      "METValue": 3.5,
+      "ActivityDescription": "나무에서 과일 또는 커피 수확, 보통 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08248",
+      "METValue": 4.5,
+      "ActivityDescription": "수확, 나무에서 과일 수집, 격렬한 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08260",
+      "METValue": 2.3,
+      "ActivityDescription": "마당 작업, 가벼운 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08261",
+      "METValue": 4.0,
+      "ActivityDescription": "마당 작업, 보통 강도",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "정원 및 마당",
+      "ActivityCode": "08262",
+      "METValue": 6.0,
+      "ActivityDescription": "마당 작업, 격렬한 노력",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09000",
+      "METValue": 1.3,
+      "ActivityDescription": "보드게임",
+      "systemIcon": "dice.fill"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09005",
+      "METValue": 2.5,
+      "ActivityDescription": "카지노 도박",
+      "systemIcon": "dice.fill"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09010",
+      "METValue": 1.5,
+      "ActivityDescription": "카드 게임",
+      "systemIcon": "suit.spade.fill"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09013",
+      "METValue": 1.5,
+      "ActivityDescription": "체스",
+      "systemIcon": "square.grid.3x3.fill"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09020",
+      "METValue": 1.8,
+      "ActivityDescription": "그림 그리기",
+      "systemIcon": "pencil"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09030",
+      "METValue": 1.0,
+      "ActivityDescription": "독서, 책, 신문, 잡지",
+      "systemIcon": "book.fill"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09040",
+      "METValue": 1.3,
+      "ActivityDescription": "책상 작업, 타이핑",
+      "systemIcon": "keyboard"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09060",
+      "METValue": 1.5,
+      "ActivityDescription": "앉아서 공부, 독서 또는 필기, 가벼운 노력",
+      "systemIcon": "book.fill"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09106",
+      "METValue": 3.5,
+      "ActivityDescription": "관광/여행/휴가, 걷기 포함",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "여가 시간",
+      "ActivityCode": "09110",
+      "METValue": 2.5,
+      "ActivityDescription": "캠핑",
+      "systemIcon": "tent.fill"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10010",
+      "METValue": 1.8,
+      "ActivityDescription": "아코디언 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10020",
+      "METValue": 2.3,
+      "ActivityDescription": "첼로 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10030",
+      "METValue": 2.3,
+      "ActivityDescription": "오케스트라 지휘",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10035",
+      "METValue": 2.5,
+      "ActivityDescription": "더블베이스 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10040",
+      "METValue": 3.8,
+      "ActivityDescription": "드럼 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10045",
+      "METValue": 3.0,
+      "ActivityDescription": "드럼 연주 (예: 봉고, 콩가, 벤베), 보통",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10048",
+      "METValue": 8.3,
+      "ActivityDescription": "드럼 연주, 콘서트/라이브 쇼",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10050",
+      "METValue": 2.0,
+      "ActivityDescription": "플루트 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10070",
+      "METValue": 2.3,
+      "ActivityDescription": "피아노 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10074",
+      "METValue": 2.0,
+      "ActivityDescription": "악기 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10077",
+      "METValue": 2.0,
+      "ActivityDescription": "오르간 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10080",
+      "METValue": 3.5,
+      "ActivityDescription": "트롬본 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10090",
+      "METValue": 2.5,
+      "ActivityDescription": "트럼펫 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10100",
+      "METValue": 2.5,
+      "ActivityDescription": "바이올린 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10110",
+      "METValue": 1.8,
+      "ActivityDescription": "목관악기 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10120",
+      "METValue": 2.0,
+      "ActivityDescription": "기타 연주",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10130",
+      "METValue": 4.0,
+      "ActivityDescription": "마칭 오케스트라, 보통 속도",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10131",
+      "METValue": 5.5,
+      "ActivityDescription": "마칭 오케스트라, 빠른 속도",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "악기 연주",
+      "ActivityCode": "10135",
+      "METValue": 3.5,
+      "ActivityDescription": "마칭 오케스트라, 드럼 연주자",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11006",
+      "METValue": 3.0,
+      "ActivityDescription": "항공 승무원",
+      "systemIcon": "airplane"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11008",
+      "METValue": 4.8,
+      "ActivityDescription": "사과 수확",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11010",
+      "METValue": 4.0,
+      "ActivityDescription": "제빵사",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11015",
+      "METValue": 2.0,
+      "ActivityDescription": "제빵사, 가벼운 노력",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11050",
+      "METValue": 8.0,
+      "ActivityDescription": "무거운 짐 운반 (예: 벽돌, 도구)",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11060",
+      "METValue": 8.0,
+      "ActivityDescription": "계단으로 중간 무게 짐 운반, 상자 이동, 11~22kg",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11070",
+      "METValue": 4.0,
+      "ActivityDescription": "가정부, 호텔 하우스키퍼, 침대 정리, 욕실 청소",
+      "systemIcon": "bed.double.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11072",
+      "METValue": 4.3,
+      "ActivityDescription": "청소, 상업 공간 청소",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11080",
+      "METValue": 5.3,
+      "ActivityDescription": "석탄 채굴",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11115",
+      "METValue": 2.5,
+      "ActivityDescription": "요리사, 셰프",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11120",
+      "METValue": 4.0,
+      "ActivityDescription": "건설, 외장 마감, 리모델링, 신축 (예: 지붕 수리)",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11124",
+      "METValue": 2.3,
+      "ActivityDescription": "건설, 철근, 철봉 구부리기/고정",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11130",
+      "METValue": 3.3,
+      "ActivityDescription": "전기 공사 (예: 배선 연결, 접속부 설치)",
+      "systemIcon": "bolt.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11135",
+      "METValue": 1.8,
+      "ActivityDescription": "엔지니어 (예: 기계공 또는 전기공)",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11145",
+      "METValue": 7.8,
+      "ActivityDescription": "농업, 격렬한 작업 (예: 건초 압착, 헛간 청소)",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11147",
+      "METValue": 2.0,
+      "ActivityDescription": "농업, 가벼운 작업 (예: 동물 헛간 청소, 사료 준비)",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11170",
+      "METValue": 2.8,
+      "ActivityDescription": "농업, 운전 작업 (예: 트랙터 또는 콤바인 운전)",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11180",
+      "METValue": 3.5,
+      "ActivityDescription": "농업, 소동물 먹이주기",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11190",
+      "METValue": 4.3,
+      "ActivityDescription": "농업, 소, 말 먹이주기",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11195",
+      "METValue": 3.8,
+      "ActivityDescription": "농업, 벼, 파종, 곡물 가공",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11222",
+      "METValue": 3.0,
+      "ActivityDescription": "농업, 소 착유",
+      "systemIcon": "drop.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11240",
+      "METValue": 8.0,
+      "ActivityDescription": "소방관",
+      "systemIcon": "flame.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11375",
+      "METValue": 3.8,
+      "ActivityDescription": "쓰레기 수거원, 쓰레기통 트럭에 비우기, 거리 청소",
+      "systemIcon": "trash.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11378",
+      "METValue": 1.8,
+      "ActivityDescription": "미용사",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11380",
+      "METValue": 7.3,
+      "ActivityDescription": "말 관리, 먹이주기, 마구간 청소, 목욕, 빗질, 손질, 훈련 포함",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11383",
+      "METValue": 4.5,
+      "ActivityDescription": "승마",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11390",
+      "METValue": 7.8,
+      "ActivityDescription": "경마",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11413",
+      "METValue": 3.0,
+      "ActivityDescription": "주방 보조",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11415",
+      "METValue": 4.0,
+      "ActivityDescription": "정원사, 마당 작업",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11418",
+      "METValue": 3.3,
+      "ActivityDescription": "세탁소 직원",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11420",
+      "METValue": 3.0,
+      "ActivityDescription": "자물쇠 기술자",
+      "systemIcon": "lock.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11485",
+      "METValue": 5.5,
+      "ActivityDescription": "마사지사",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11486",
+      "METValue": 2.3,
+      "ActivityDescription": "우편 배달부",
+      "systemIcon": "envelope.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11495",
+      "METValue": 12.0,
+      "ActivityDescription": "잠수 또는 스쿠버 다이빙, 다이버로",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11516",
+      "METValue": 3.0,
+      "ActivityDescription": "배관공",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11520",
+      "METValue": 2.0,
+      "ActivityDescription": "인쇄공, 제지 산업 종사자",
+      "systemIcon": "printer.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11524",
+      "METValue": 3.8,
+      "ActivityDescription": "경찰관",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11525",
+      "METValue": 2.5,
+      "ActivityDescription": "경찰, 교통 정리",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11526",
+      "METValue": 2.0,
+      "ActivityDescription": "경찰, 순찰차 운전",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11527",
+      "METValue": 1.3,
+      "ActivityDescription": "경찰, 순찰차 탑승",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11528",
+      "METValue": 4.0,
+      "ActivityDescription": "경찰, 체포 수행",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11550",
+      "METValue": 8.8,
+      "ActivityDescription": "삽질, 격렬한 노력",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11560",
+      "METValue": 5.0,
+      "ActivityDescription": "삽질, 보통 노력",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11580",
+      "METValue": 1.5,
+      "ActivityDescription": "앉아서 작업, 가벼운 노력 (예: 사무실 작업, 화학 실험실, 가벼운 조립, 시계 수리, 독서, 책상 작업)",
+      "systemIcon": "desktopcomputer"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11582",
+      "METValue": 1.3,
+      "ActivityDescription": "컴퓨터 작업",
+      "systemIcon": "desktopcomputer"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11650",
+      "METValue": 2.3,
+      "ActivityDescription": "환자 돌봄, 의료 활동",
+      "systemIcon": "stethoscope"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11660",
+      "METValue": 3.5,
+      "ActivityDescription": "환자 돌봄, 청소/공간 준비",
+      "systemIcon": "cross.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11720",
+      "METValue": 2.3,
+      "ActivityDescription": "의류 제작, 원단 재단",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11740",
+      "METValue": 1.8,
+      "ActivityDescription": "의류 제작, 수작업 바느질",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11750",
+      "METValue": 2.5,
+      "ActivityDescription": "재봉틀로 의류 제작",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11763",
+      "METValue": 2.0,
+      "ActivityDescription": "의류 제작, 직조, 가벼운 작업 (예: 마감, 세탁, 염색)",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11766",
+      "METValue": 6.5,
+      "ActivityDescription": "트럭 운전, 트럭 적재/하역, 화물 고정, 무거운 짐 운반",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11767",
+      "METValue": 2.0,
+      "ActivityDescription": "트럭 운전, 배달 트럭, 택시, 마을버스, 스쿨버스",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11797",
+      "METValue": 3.8,
+      "ActivityDescription": "시속 4km 걷기, 느린 속도, 11kg 이상 무거운 물건 운반",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11800",
+      "METValue": 4.5,
+      "ActivityDescription": "시속 5km 걷기, 보통, 11kg 미만 가벼운 물건 운반",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11810",
+      "METValue": 4.5,
+      "ActivityDescription": "시속 6km 걷기, 빠른 걷기, 11kg 미만 물건 운반",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11820",
+      "METValue": 4.0,
+      "ActivityDescription": "걷기 또는 계단 내려가기, 11~22kg 물건 운반",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11830",
+      "METValue": 5.5,
+      "ActivityDescription": "걷기 또는 계단 내려가기, 22~33kg 물건 운반",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11840",
+      "METValue": 7.0,
+      "ActivityDescription": "걷기 또는 계단 내려가기, 34~45kg 물건 운반",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11850",
+      "METValue": 7.3,
+      "ActivityDescription": "걷기 또는 계단 내려가기, 약 45kg 이상 물건 운반",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11860",
+      "METValue": 2.3,
+      "ActivityDescription": "창고 작업, 상자 적재/하역",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "직업 활동",
+      "ActivityCode": "11862",
+      "METValue": 4.3,
+      "ActivityDescription": "창고 작업, 이동용 상자 (~5kg)",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12020",
+      "METValue": 7.5,
+      "ActivityDescription": "조깅",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12025",
+      "METValue": 4.8,
+      "ActivityDescription": "제자리 달리기",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12026",
+      "METValue": 3.3,
+      "ActivityDescription": "시속 4~6km 조깅",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12028",
+      "METValue": 6.5,
+      "ActivityDescription": "달리기, 시속 6~7km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12029",
+      "METValue": 7.8,
+      "ActivityDescription": "달리기, 시속 7~8km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12030",
+      "METValue": 8.5,
+      "ActivityDescription": "달리기, 시속 8~9km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12045",
+      "METValue": 9.0,
+      "ActivityDescription": "달리기, 시속 9~10km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12060",
+      "METValue": 10.5,
+      "ActivityDescription": "달리기, 시속 11km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12080",
+      "METValue": 11.8,
+      "ActivityDescription": "달리기, 시속 12km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12100",
+      "METValue": 12.5,
+      "ActivityDescription": "달리기, 시속 13km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12115",
+      "METValue": 14.8,
+      "ActivityDescription": "달리기, 시속 15~15.5km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12120",
+      "METValue": 14.8,
+      "ActivityDescription": "달리기, 시속 16km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12132",
+      "METValue": 18.5,
+      "ActivityDescription": "달리기, 시속 19km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12134",
+      "METValue": 19.8,
+      "ActivityDescription": "달리기, 시속 20km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12140",
+      "METValue": 9.3,
+      "ActivityDescription": "달리기, 크로스컨트리",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12150",
+      "METValue": 8.0,
+      "ActivityDescription": "달리기 (테일러 코드 200)",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12170",
+      "METValue": 15.0,
+      "ActivityDescription": "계단 달리기",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12180",
+      "METValue": 10.0,
+      "ActivityDescription": "트랙 달리기",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12200",
+      "METValue": 13.3,
+      "ActivityDescription": "달리기, 마라톤",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12255",
+      "METValue": 10.3,
+      "ActivityDescription": "오르막 달리기, 시속 7km, 경사 5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12260",
+      "METValue": 13.3,
+      "ActivityDescription": "오르막 달리기, 시속 10km, 경사 5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12265",
+      "METValue": 15.5,
+      "ActivityDescription": "오르막 달리기, 시속 11km, 경사 5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12325",
+      "METValue": 17.5,
+      "ActivityDescription": "오르막 달리기, 시속 8~9km, 경사 15%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12410",
+      "METValue": 11.0,
+      "ActivityDescription": "곡면 런닝머신, 시속 8~9km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12412",
+      "METValue": 12.0,
+      "ActivityDescription": "곡면 런닝머신, 시속 11~12km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12414",
+      "METValue": 14.0,
+      "ActivityDescription": "곡면 런닝머신, 시속 13~14km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12555",
+      "METValue": 7.8,
+      "ActivityDescription": "맨발 달리기, 시속 6~9km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12560",
+      "METValue": 12.0,
+      "ActivityDescription": "맨발 달리기, 시속 10~13km",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "달리기",
+      "ActivityCode": "12620",
+      "METValue": 13.0,
+      "ActivityDescription": "트라이애슬론, 달리기",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15010",
+      "METValue": 4.3,
+      "ActivityDescription": "양궁 (사냥 제외)",
+      "systemIcon": "figure.archery"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15020",
+      "METValue": 7.0,
+      "ActivityDescription": "배드민턴, 경쟁",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15025",
+      "METValue": 9.0,
+      "ActivityDescription": "배드민턴, 대회, 매치 플레이",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15030",
+      "METValue": 5.5,
+      "ActivityDescription": "배드민턴, 사교 단식 및 복식",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15040",
+      "METValue": 8.0,
+      "ActivityDescription": "농구",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15072",
+      "METValue": 9.3,
+      "ActivityDescription": "농구, 훈련",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15080",
+      "METValue": 2.5,
+      "ActivityDescription": "당구",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15090",
+      "METValue": 3.0,
+      "ActivityDescription": "볼링",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15100",
+      "METValue": 12.3,
+      "ActivityDescription": "링 복싱",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15110",
+      "METValue": 5.8,
+      "ActivityDescription": "복싱, 샌드백",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15120",
+      "METValue": 7.8,
+      "ActivityDescription": "복싱, 스파링",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15125",
+      "METValue": 9.3,
+      "ActivityDescription": "복싱, 가상 복싱 라운드 모의 훈련",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15130",
+      "METValue": 7.0,
+      "ActivityDescription": "브룸볼",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15138",
+      "METValue": 6.0,
+      "ActivityDescription": "치어리딩, 체조 동작, 경쟁",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15150",
+      "METValue": 4.8,
+      "ActivityDescription": "크리켓",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15160",
+      "METValue": 3.3,
+      "ActivityDescription": "크로케",
+      "systemIcon": "figure.golf"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15180",
+      "METValue": 2.5,
+      "ActivityDescription": "다트",
+      "systemIcon": "target"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15200",
+      "METValue": 6.0,
+      "ActivityDescription": "펜싱",
+      "systemIcon": "figure.fencing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15210",
+      "METValue": 8.0,
+      "ActivityDescription": "풋볼 (미식축구), 경쟁",
+      "systemIcon": "figure.american.football"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15235",
+      "METValue": 2.5,
+      "ActivityDescription": "풋볼 또는 야구, 공놀이",
+      "systemIcon": "figure.american.football"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15240",
+      "METValue": 3.0,
+      "ActivityDescription": "프리스비",
+      "systemIcon": "figure.disc.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15255",
+      "METValue": 4.5,
+      "ActivityDescription": "골프",
+      "systemIcon": "figure.golf"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15300",
+      "METValue": 3.8,
+      "ActivityDescription": "체조",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15320",
+      "METValue": 12.0,
+      "ActivityDescription": "핸드볼",
+      "systemIcon": "figure.handball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15350",
+      "METValue": 7.8,
+      "ActivityDescription": "하키",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15362",
+      "METValue": 10.0,
+      "ActivityDescription": "하키, 경쟁",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15370",
+      "METValue": 5.5,
+      "ActivityDescription": "승마",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15380",
+      "METValue": 4.5,
+      "ActivityDescription": "말 관리",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15390",
+      "METValue": 5.8,
+      "ActivityDescription": "승마, 속보",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15395",
+      "METValue": 7.3,
+      "ActivityDescription": "승마, 갤럽",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15400",
+      "METValue": 3.8,
+      "ActivityDescription": "승마, 산책",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15402",
+      "METValue": 9.0,
+      "ActivityDescription": "승마, 장애물 뛰기",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15403",
+      "METValue": 6.0,
+      "ActivityDescription": "승마, 라이닝",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15425",
+      "METValue": 5.3,
+      "ActivityDescription": "무술, 다양한 종목, 느린 속도, 연습",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15430",
+      "METValue": 10.3,
+      "ActivityDescription": "무술, 다양한 종목, 보통 속도 (예: 유도, 주짓수, 가라테, 킥복싱, 태권도, 타이보, 무에타이)",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15432",
+      "METValue": 14.3,
+      "ActivityDescription": "태권도",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15433",
+      "METValue": 11.3,
+      "ActivityDescription": "유도",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15440",
+      "METValue": 4.0,
+      "ActivityDescription": "저글링",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15444",
+      "METValue": 6.5,
+      "ActivityDescription": "검도, 기혼케이코 스타일, 보통 강도",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15445",
+      "METValue": 9.6,
+      "ActivityDescription": "검도, 기리카에시 스타일, 고강도",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15446",
+      "METValue": 11.3,
+      "ActivityDescription": "검도, 가카리케이코 스타일, 매우 높은 강도",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15450",
+      "METValue": 7.0,
+      "ActivityDescription": "킥볼",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15455",
+      "METValue": 5.5,
+      "ActivityDescription": "쿵후 체조",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15457",
+      "METValue": 7.3,
+      "ActivityDescription": "킥복싱",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15460",
+      "METValue": 8.0,
+      "ActivityDescription": "라크로스",
+      "systemIcon": "figure.lacrosse"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15465",
+      "METValue": 3.3,
+      "ActivityDescription": "잔디 볼링",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15470",
+      "METValue": 4.0,
+      "ActivityDescription": "모토크로스, 오프로드 모터스포츠",
+      "systemIcon": "motorcycle"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15475",
+      "METValue": 5.3,
+      "ActivityDescription": "모터레이싱",
+      "systemIcon": "motorcycle"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15477",
+      "METValue": 7.0,
+      "ActivityDescription": "넷볼",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15490",
+      "METValue": 10.0,
+      "ActivityDescription": "패들볼, 경쟁",
+      "systemIcon": "figure.pickleball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15500",
+      "METValue": 6.0,
+      "ActivityDescription": "패들볼",
+      "systemIcon": "figure.pickleball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15503",
+      "METValue": 1.8,
+      "ActivityDescription": "패러글라이딩",
+      "systemIcon": "wind"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15510",
+      "METValue": 8.0,
+      "ActivityDescription": "폴로, 승마",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15520",
+      "METValue": 10.0,
+      "ActivityDescription": "라켓볼, 경쟁",
+      "systemIcon": "figure.racquetball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15525",
+      "METValue": 10.3,
+      "ActivityDescription": "경보 (시속 11km)",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15527",
+      "METValue": 13.8,
+      "ActivityDescription": "경보 (시속 13km)",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15528",
+      "METValue": 15.5,
+      "ActivityDescription": "경보, 레이싱 속도 (시속 14km)",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15530",
+      "METValue": 7.0,
+      "ActivityDescription": "라켓볼",
+      "systemIcon": "figure.racquetball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15533",
+      "METValue": 8.0,
+      "ActivityDescription": "암벽 등반 또는 산악 등반",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15535",
+      "METValue": 7.3,
+      "ActivityDescription": "암벽 등반, 고난도",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15536",
+      "METValue": 10.5,
+      "ActivityDescription": "암벽 등반, 스피드 클라이밍, 매우 어려운",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15537",
+      "METValue": 5.8,
+      "ActivityDescription": "암벽 등반, 저~중간 난이도",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15542",
+      "METValue": 4.0,
+      "ActivityDescription": "로데오, 가벼운 노력",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15544",
+      "METValue": 5.5,
+      "ActivityDescription": "로데오, 보통 노력",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15546",
+      "METValue": 7.0,
+      "ActivityDescription": "로데오, 격렬한 노력",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15550",
+      "METValue": 12.3,
+      "ActivityDescription": "줄넘기, 빠른 속도, 분당 120~160회",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15551",
+      "METValue": 11.8,
+      "ActivityDescription": "줄넘기, 중간 속도, 분당 100~120회",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15552",
+      "METValue": 8.3,
+      "ActivityDescription": "줄넘기, 느린 속도, 분당 100회 미만",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15554",
+      "METValue": 10.0,
+      "ActivityDescription": "줄넘기",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15560",
+      "METValue": 8.3,
+      "ActivityDescription": "럭비, 경쟁",
+      "systemIcon": "figure.rugby"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15580",
+      "METValue": 5.0,
+      "ActivityDescription": "스케이트보딩, 보통 강도",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15582",
+      "METValue": 6.0,
+      "ActivityDescription": "스케이트보딩, 경쟁, 격렬한 노력",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15590",
+      "METValue": 7.0,
+      "ActivityDescription": "롤러스케이팅",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15591",
+      "METValue": 7.5,
+      "ActivityDescription": "롤러스케이트, 시속 14.4km, 산책 속도",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15592",
+      "METValue": 9.8,
+      "ActivityDescription": "롤러스케이트, 시속 17.7km, 보통 속도",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15593",
+      "METValue": 12.3,
+      "ActivityDescription": "롤러스케이트, 시속 21.0~21.7km, 빠른 속도",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15594",
+      "METValue": 15.5,
+      "ActivityDescription": "롤러스케이트, 시속 24.0km, 최대 노력",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15595",
+      "METValue": 6.8,
+      "ActivityDescription": "스케이트보드, 롱보드, 시속 13.3km, 느린 속도",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15596",
+      "METValue": 8.3,
+      "ActivityDescription": "스케이트보드, 롱보드, 시속 16.2km, 일반 속도",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15597",
+      "METValue": 10.5,
+      "ActivityDescription": "스케이트보드, 롱보드, 시속 18.4km, 빠른 속도",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15600",
+      "METValue": 3.5,
+      "ActivityDescription": "스카이다이빙, 베이스점프, 번지점프",
+      "systemIcon": "airplane.departure"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15605",
+      "METValue": 9.5,
+      "ActivityDescription": "축구, 경쟁",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15610",
+      "METValue": 7.0,
+      "ActivityDescription": "축구, 레크리에이션",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15625",
+      "METValue": 4.0,
+      "ActivityDescription": "소프트볼",
+      "systemIcon": "figure.baseball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15650",
+      "METValue": 12.0,
+      "ActivityDescription": "스쿼시",
+      "systemIcon": "figure.squash"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15660",
+      "METValue": 4.0,
+      "ActivityDescription": "탁구",
+      "systemIcon": "figure.table.tennis"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15675",
+      "METValue": 6.8,
+      "ActivityDescription": "테니스, 보통 강도",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15676",
+      "METValue": 8.0,
+      "ActivityDescription": "테니스, 경쟁",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15680",
+      "METValue": 6.0,
+      "ActivityDescription": "테니스, 복식",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15690",
+      "METValue": 8.0,
+      "ActivityDescription": "테니스, 단식",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15700",
+      "METValue": 6.3,
+      "ActivityDescription": "트램폴린, 레크리에이션",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15702",
+      "METValue": 10.3,
+      "ActivityDescription": "트램폴린, 경쟁",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15710",
+      "METValue": 4.0,
+      "ActivityDescription": "배구",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15711",
+      "METValue": 6.0,
+      "ActivityDescription": "실내 배구, 경쟁",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15725",
+      "METValue": 8.0,
+      "ActivityDescription": "비치 발리볼",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15730",
+      "METValue": 6.0,
+      "ActivityDescription": "레슬링 경쟁 (한 경기 = 5분)",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15732",
+      "METValue": 4.0,
+      "ActivityDescription": "육상 경기",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15733",
+      "METValue": 6.0,
+      "ActivityDescription": "육상 경기 (예: 높이뛰기, 멀리뛰기, 세단뛰기, 창던지기, 장대높이뛰기)",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "스포츠",
+      "ActivityCode": "15734",
+      "METValue": 10.0,
+      "ActivityDescription": "육상 경기 (예: 허들 달리기)",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "교통",
+      "ActivityCode": "16002",
+      "METValue": 6.8,
+      "ActivityDescription": "자전거 타기, 보통 노력",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "교통",
+      "ActivityCode": "16004",
+      "METValue": 9.3,
+      "ActivityDescription": "자전거 타기, 강한 노력",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "교통",
+      "ActivityCode": "16005",
+      "METValue": 6.8,
+      "ActivityDescription": "전동 자전거 (전기 구동)",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17021",
+      "METValue": 2.3,
+      "ActivityDescription": "4.5kg 아이를 안고 산책, 느린 걷기",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17025",
+      "METValue": 8.3,
+      "ActivityDescription": "짐 들고 위로 이동",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17032",
+      "METValue": 5.0,
+      "ActivityDescription": "오르막 등산, 짐 없음, 경사 5~20%, 매우 느린 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17033",
+      "METValue": 3.8,
+      "ActivityDescription": "오르막 등산, 7~22kg 짐, 경사 1~2%, 느린 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17034",
+      "METValue": 5.3,
+      "ActivityDescription": "오르막 등산, 짐 없음, 경사 1~5%, 보통~빠른 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17035",
+      "METValue": 7.0,
+      "ActivityDescription": "오르막 등산, 짐 없음, 경사 6~10%, 보통~빠른 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17036",
+      "METValue": 8.8,
+      "ActivityDescription": "오르막 등산, 짐 없음, 경사 11~20%, 느린~보통 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17037",
+      "METValue": 10.0,
+      "ActivityDescription": "오르막 등산, 짐 없음, 시속 6~8km, 경사 3~5%, 매우 빠른 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17038",
+      "METValue": 8.5,
+      "ActivityDescription": "오르막 등산, 짐 없음, 급경사 (30%), 느린 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17039",
+      "METValue": 15.5,
+      "ActivityDescription": "오르막 등산, 짐 없음, 매우 급경사 (30~40%), 시속 2~3km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17040",
+      "METValue": 16.3,
+      "ActivityDescription": "오르막 등산, 짐 없음, 급경사 (10~40%), 시속 3~8km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17045",
+      "METValue": 6.5,
+      "ActivityDescription": "오르막 등산, 4~8kg 짐, 경사 5~10%, 보통",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17050",
+      "METValue": 7.5,
+      "ActivityDescription": "오르막 등산, 9~18kg 짐, 경사 3~10%, 보통~빠른 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17060",
+      "METValue": 10.0,
+      "ActivityDescription": "오르막 등산, 9kg 초과 짐, 경사 5~20%, 보통~빠른 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17080",
+      "METValue": 6.0,
+      "ActivityDescription": "모래사장 걷기",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17110",
+      "METValue": 6.5,
+      "ActivityDescription": "경보",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17130",
+      "METValue": 8.0,
+      "ActivityDescription": "계단 오르기",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17133",
+      "METValue": 4.5,
+      "ActivityDescription": "계단 오르기, 느린 속도",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17134",
+      "METValue": 9.3,
+      "ActivityDescription": "계단 오르기, 빠른 속도",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17150",
+      "METValue": 2.3,
+      "ActivityDescription": "산책",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17151",
+      "METValue": 2.3,
+      "ActivityDescription": "시속 3km 미만 걷기, 매우 느린 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17152",
+      "METValue": 2.8,
+      "ActivityDescription": "시속 3~4km 걷기, 느린 속도",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17160",
+      "METValue": 3.5,
+      "ActivityDescription": "즐거운 산책",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17165",
+      "METValue": 3.0,
+      "ActivityDescription": "강아지 산책",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17170",
+      "METValue": 3.0,
+      "ActivityDescription": "걷기, 시속 4km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17180",
+      "METValue": 3.3,
+      "ActivityDescription": "걷기, 시속 4km, 오르막",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17200",
+      "METValue": 4.8,
+      "ActivityDescription": "시속 5.5~6km 걷기",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17220",
+      "METValue": 5.5,
+      "ActivityDescription": "시속 6.5~7km 걷기",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17230",
+      "METValue": 7.0,
+      "ActivityDescription": "시속 7~8km 걷기",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17231",
+      "METValue": 8.5,
+      "ActivityDescription": "시속 8~9km 걷기",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17310",
+      "METValue": 8.8,
+      "ActivityDescription": "노르딕 워킹",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17349",
+      "METValue": 3.0,
+      "ActivityDescription": "런닝머신 걷기, 시속 3~4km, 경사 없음",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17352",
+      "METValue": 3.5,
+      "ActivityDescription": "런닝머신 걷기, 시속 4.0~4.7km, 경사 없음",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17355",
+      "METValue": 3.8,
+      "ActivityDescription": "런닝머신 걷기, 시속 4.8~5.5km, 경사 없음",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17358",
+      "METValue": 4.8,
+      "ActivityDescription": "런닝머신 걷기, 시속 5.6~6.3km, 경사 없음",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17361",
+      "METValue": 5.8,
+      "ActivityDescription": "런닝머신 걷기, 시속 6.4~7.1km, 경사 없음",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17364",
+      "METValue": 6.8,
+      "ActivityDescription": "런닝머신 걷기, 시속 7.2~7.9km, 경사 없음",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "산책",
+      "ActivityCode": "17367",
+      "METValue": 8.3,
+      "ActivityDescription": "런닝머신 걷기, 시속 8.0~8.9km, 경사 없음",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18020",
+      "METValue": 4.0,
+      "ActivityDescription": "하이킹 카누 노젓기",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18090",
+      "METValue": 3.0,
+      "ActivityDescription": "다이빙",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18100",
+      "METValue": 5.0,
+      "ActivityDescription": "카야킹, 보통 노력",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18104",
+      "METValue": 13.5,
+      "ActivityDescription": "카야킹, 경쟁",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18110",
+      "METValue": 4.0,
+      "ActivityDescription": "페달 보트",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18150",
+      "METValue": 6.0,
+      "ActivityDescription": "수상 스키",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18160",
+      "METValue": 7.0,
+      "ActivityDescription": "제트스키",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18180",
+      "METValue": 15.8,
+      "ActivityDescription": "스카이다이빙, 빠른",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18190",
+      "METValue": 11.8,
+      "ActivityDescription": "스카이다이빙, 보통",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18200",
+      "METValue": 7.0,
+      "ActivityDescription": "스쿠버 점프, 수중 수영",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18202",
+      "METValue": 5.3,
+      "ActivityDescription": "스쿠버 다이빙, 가벼운 노력",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18204",
+      "METValue": 5.8,
+      "ActivityDescription": "수중 수영, 보통 노력",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18206",
+      "METValue": 5.5,
+      "ActivityDescription": "수중 수영, 전문 다이버",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18208",
+      "METValue": 6.8,
+      "ActivityDescription": "수중 수영, 아마추어 다이버",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18210",
+      "METValue": 5.0,
+      "ActivityDescription": "수중 수영",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18220",
+      "METValue": 3.0,
+      "ActivityDescription": "서핑",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18221",
+      "METValue": 6.8,
+      "ActivityDescription": "서핑보드, 패들링",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18222",
+      "METValue": 5.0,
+      "ActivityDescription": "서핑, 경쟁",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18224",
+      "METValue": 6.5,
+      "ActivityDescription": "스탠드업 패들보딩 (SUP)",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18230",
+      "METValue": 9.8,
+      "ActivityDescription": "수영, 격렬한 노력",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18240",
+      "METValue": 5.8,
+      "ActivityDescription": "수영, 느린",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18255",
+      "METValue": 4.8,
+      "ActivityDescription": "배영",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18260",
+      "METValue": 10.3,
+      "ActivityDescription": "수영, 평영, 훈련 또는 경쟁",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18265",
+      "METValue": 5.3,
+      "ActivityDescription": "평영, 레크리에이션",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18270",
+      "METValue": 13.8,
+      "ActivityDescription": "수영, 접영",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18300",
+      "METValue": 6.0,
+      "ActivityDescription": "호수, 강 또는 바다에서 수영",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18310",
+      "METValue": 6.0,
+      "ActivityDescription": "수영, 여유롭게",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18330",
+      "METValue": 8.0,
+      "ActivityDescription": "수중 발레 (싱크로나이즈드 스위밍)",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18355",
+      "METValue": 5.5,
+      "ActivityDescription": "수중 에어로빅, 수중 체조",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18356",
+      "METValue": 3.8,
+      "ActivityDescription": "수중 에어로빅, 저항 운동",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18358",
+      "METValue": 7.5,
+      "ActivityDescription": "수중 에어로빅, 고강도",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18360",
+      "METValue": 10.0,
+      "ActivityDescription": "수구",
+      "systemIcon": "figure.waterpolo"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18365",
+      "METValue": 3.0,
+      "ActivityDescription": "수중 배구",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "수상 활동",
+      "ActivityCode": "18370",
+      "METValue": 5.0,
+      "ActivityDescription": "래프팅, 카야킹 또는 카누",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19018",
+      "METValue": 14.0,
+      "ActivityDescription": "아이스 스케이팅, 아이스 댄싱",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19020",
+      "METValue": 5.5,
+      "ActivityDescription": "아이스 스케이팅, 시속 14km 이하",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19030",
+      "METValue": 7.0,
+      "ActivityDescription": "아이스 스케이팅",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19040",
+      "METValue": 9.0,
+      "ActivityDescription": "아이스 스케이팅, 빠른, 시속 14km 초과",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19050",
+      "METValue": 13.8,
+      "ActivityDescription": "아이스 스케이팅, 경쟁",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19060",
+      "METValue": 7.0,
+      "ActivityDescription": "스키 점프",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19075",
+      "METValue": 7.0,
+      "ActivityDescription": "스키",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19080",
+      "METValue": 6.8,
+      "ActivityDescription": "크로스컨트리 스키, 시속 7km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19090",
+      "METValue": 8.5,
+      "ActivityDescription": "크로스컨트리 스키, 시속 6.5~8km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19100",
+      "METValue": 11.3,
+      "ActivityDescription": "크로스컨트리 스키, 시속 8~13km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19110",
+      "METValue": 14.0,
+      "ActivityDescription": "크로스컨트리 스키, 시속 13~30km 초과, 레이싱",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19112",
+      "METValue": 16.0,
+      "ActivityDescription": "크로스컨트리 스키, 시속 19~26km, 레이싱",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19115",
+      "METValue": 9.5,
+      "ActivityDescription": "크로스컨트리 스키, 고강도 훈련",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19130",
+      "METValue": 15.5,
+      "ActivityDescription": "스키, 오르막, 설상 등반",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19142",
+      "METValue": 12.8,
+      "ActivityDescription": "바이애슬론 훈련, 경사 5도, 시속 8km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19144",
+      "METValue": 12.8,
+      "ActivityDescription": "바이애슬론 훈련, 경사 5도, 시속 10.7km",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19146",
+      "METValue": 9.3,
+      "ActivityDescription": "스키",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19150",
+      "METValue": 4.3,
+      "ActivityDescription": "스키, 알파인 스키 또는 스노보드, 가벼운 노력",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19160",
+      "METValue": 6.3,
+      "ActivityDescription": "스키, 알파인 스키 또는 스노보드, 보통 강도",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19170",
+      "METValue": 8.0,
+      "ActivityDescription": "스키, 알파인 스키 또는 스노보드, 격렬한 노력",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19174",
+      "METValue": 7.3,
+      "ActivityDescription": "알파인 스키, 고강도 훈련",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19180",
+      "METValue": 7.0,
+      "ActivityDescription": "썰매",
+      "systemIcon": "figure.snowboarding"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19190",
+      "METValue": 5.3,
+      "ActivityDescription": "스노슈잉, 보통 노력",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19192",
+      "METValue": 10.0,
+      "ActivityDescription": "스노슈잉, 격렬한 노력",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19201",
+      "METValue": 7.5,
+      "ActivityDescription": "스노보드, 보통 속도",
+      "systemIcon": "figure.snowboarding"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19252",
+      "METValue": 5.3,
+      "ActivityDescription": "손으로 눈 치우기, 보통 노력",
+      "systemIcon": "snowflake"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19254",
+      "METValue": 7.5,
+      "ActivityDescription": "손으로 눈 치우기, 격렬한 노력",
+      "systemIcon": "snowflake"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19305",
+      "METValue": 5.5,
+      "ActivityDescription": "롤러스키, 시속 10~12.9km, 평지",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19310",
+      "METValue": 6.8,
+      "ActivityDescription": "롤러스키, 시속 13~16.9km, 평지",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19315",
+      "METValue": 8.3,
+      "ActivityDescription": "롤러스키, 시속 17~19.9km, 평지",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19320",
+      "METValue": 10.5,
+      "ActivityDescription": "롤러스키, 시속 20~23.9km, 평지",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19325",
+      "METValue": 15.0,
+      "ActivityDescription": "롤러스키, 시속 24~27.9km, 평지",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19330",
+      "METValue": 12.5,
+      "ActivityDescription": "롤러스키, 시속 10~15km, 경사 2~5도",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19335",
+      "METValue": 14.3,
+      "ActivityDescription": "롤러스키, 시속 16~22km, 경사 2~5도",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19340",
+      "METValue": 12.3,
+      "ActivityDescription": "롤러스키, 시속 6~9km, 경사 6~10도",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19345",
+      "METValue": 16.0,
+      "ActivityDescription": "롤러스키, 시속 10km 초과, 경사 6~10도",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19400",
+      "METValue": 9.0,
+      "ActivityDescription": "등산, 암벽 등반, 로프로 하강",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "겨울 활동",
+      "ActivityCode": "19405",
+      "METValue": 10.3,
+      "ActivityDescription": "등산, 암벽 등반/크로스컨트리 스키",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21010",
+      "METValue": 2.5,
+      "ActivityDescription": "앉아서, 보통 작업",
+      "systemIcon": "person.fill"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21015",
+      "METValue": 1.8,
+      "ActivityDescription": "서서, 가벼운 작업",
+      "systemIcon": "person.fill"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21016",
+      "METValue": 2.0,
+      "ActivityDescription": "앉아서, 아이 돌봄, 활동적 시간만",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21017",
+      "METValue": 3.5,
+      "ActivityDescription": "서서, 아이 돌봄, 활동적 시간만",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21018",
+      "METValue": 3.5,
+      "ActivityDescription": "아이와 놀기, 보통, 활동적 시간만",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21019",
+      "METValue": 5.8,
+      "ActivityDescription": "아이와 놀기, 격렬한, 활동적 시간만",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21020",
+      "METValue": 3.3,
+      "ActivityDescription": "서서, 가벼운/보통 작업 (예: 상자 포장, 조립/수리, 의자/가구 설치)",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "봉사 활동",
+      "ActivityCode": "21030",
+      "METValue": 4.5,
+      "ActivityDescription": "서서, 보통/무거운 작업",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "비디오 게임",
+      "ActivityCode": "22120",
+      "METValue": 1.5,
+      "ActivityDescription": "비디오 게임, 휴대용 컨트롤러 (가벼운 노력)",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "비디오 게임",
+      "ActivityCode": "22160",
+      "METValue": 2.3,
+      "ActivityDescription": "비디오 게임, 가벼운 노력 (Wii Fit, 요가, 볼링 등)",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "비디오 게임",
+      "ActivityCode": "22200",
+      "METValue": 3.0,
+      "ActivityDescription": "활동성 비디오 게임, 동작 인식/상체 사용 (가벼운 또는 보통 노력)",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "비디오 게임",
+      "ActivityCode": "22240",
+      "METValue": 4.0,
+      "ActivityDescription": "활동성 비디오 게임, 동작 인식/전신 사용 (보통 노력)",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "비디오 게임",
+      "ActivityCode": "22280",
+      "METValue": 5.0,
+      "ActivityDescription": "활동성 비디오 게임, 동작 인식/전신 사용 (보통~격렬한 노력)",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "비디오 게임",
+      "ActivityCode": "22320",
+      "METValue": 7.5,
+      "ActivityDescription": "활동성 비디오 게임, 동작 인식/전신 사용, 게임 운동, 트레이닝, 댄스 (격렬한 노력)",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "비디오 게임",
+      "ActivityCode": "22360",
+      "METValue": 9.8,
+      "ActivityDescription": "가상현실 트레이닝/운동, 고강도",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22361",
+      "METValue": 2.8,
+      "ActivityDescription": "런닝머신 걷기, 시속 4km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22362",
+      "METValue": 3.5,
+      "ActivityDescription": "런닝머신 걷기, 시속 5km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22363",
+      "METValue": 4.8,
+      "ActivityDescription": "런닝머신 걷기, 시속 6km",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22364",
+      "METValue": 8.5,
+      "ActivityDescription": "계단 오르기 머신",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22365",
+      "METValue": 3.5,
+      "ActivityDescription": "헬스장 근력 트레이닝, 가벼운 웨이트",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22366",
+      "METValue": 5.0,
+      "ActivityDescription": "헬스장 근력 트레이닝, 중간 웨이트",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22367",
+      "METValue": 6.0,
+      "ActivityDescription": "헬스장 근력 트레이닝, 무거운 웨이트",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22368",
+      "METValue": 2.3,
+      "ActivityDescription": "스트레칭",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22369",
+      "METValue": 5.0,
+      "ActivityDescription": "엘립티컬",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22370",
+      "METValue": 5.5,
+      "ActivityDescription": "실내 자전거",
+      "systemIcon": "figure.indoor.cycle"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22371",
+      "METValue": 7.0,
+      "ActivityDescription": "조정 머신",
+      "systemIcon": "figure.indoor.rowing"
+    },
+    {
+      "MajorHeading": "특수 활동",
+      "ActivityCode": "22372",
+      "METValue": 2.2,
+      "ActivityDescription": "모델 작업 (촬영, 포즈, 의상 교체)",
+      "systemIcon": "camera.fill"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22373",
+      "METValue": 5.0,
+      "ActivityDescription": "인터벌 트레이닝, 가벼운",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22374",
+      "METValue": 7.0,
+      "ActivityDescription": "인터벌 트레이닝, 보통",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "헬스장 트레이닝",
+      "ActivityCode": "22375",
+      "METValue": 10.0,
+      "ActivityDescription": "인터벌 트레이닝, 고강도",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    }
+  ]
+}

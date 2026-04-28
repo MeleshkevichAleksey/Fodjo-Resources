@@ -1,0 +1,3861 @@
+{
+  "activities": [
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01003",
+      "METValue": 14.0,
+      "ActivityDescription": "騎自行車上坡，劇烈運動",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01008",
+      "METValue": 8.5,
+      "ActivityDescription": "自行車，BMX",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01009",
+      "METValue": 8.5,
+      "ActivityDescription": "騎自行車上坡",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01010",
+      "METValue": 4.0,
+      "ActivityDescription": "騎自行車，<16公里/小時",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01013",
+      "METValue": 5.8,
+      "ActivityDescription": "在泥土路上騎自行車，中等速度",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01014",
+      "METValue": 7.0,
+      "ActivityDescription": "騎自行車",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01015",
+      "METValue": 4.3,
+      "ActivityDescription": "騎自行車，輕鬆節奏",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01016",
+      "METValue": 7.0,
+      "ActivityDescription": "騎自行車，中等節奏",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01017",
+      "METValue": 9.0,
+      "ActivityDescription": "騎自行車，劇烈節奏",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01018",
+      "METValue": 3.5,
+      "ActivityDescription": "騎自行車 8公里/小時",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01019",
+      "METValue": 5.8,
+      "ActivityDescription": "騎自行車 15公里/小時",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01020",
+      "METValue": 6.8,
+      "ActivityDescription": "騎自行車，16-30公里/小時，慢速，輕鬆用力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01030",
+      "METValue": 8.0,
+      "ActivityDescription": "騎自行車，19-22公里/小時，中等用力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01040",
+      "METValue": 10.0,
+      "ActivityDescription": "騎自行車，22-25公里/小時，競賽，快速，劇烈用力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01050",
+      "METValue": 12.0,
+      "ActivityDescription": "騎自行車，25-30公里/小時，競賽/跟風 >30公里/小時，非常快，競賽特性",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01060",
+      "METValue": 16.8,
+      "ActivityDescription": "騎自行車，>32公里/小時，競賽，無跟風",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01080",
+      "METValue": 6.8,
+      "ActivityDescription": "電動自行車（帶電機驅動）無電子輔助",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01084",
+      "METValue": 6.0,
+      "ActivityDescription": "電動自行車（帶電機驅動），輕度電子輔助",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01088",
+      "METValue": 4.0,
+      "ActivityDescription": "電動自行車（帶電機驅動），高度電子輔助",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "騎自行車",
+      "ActivityCode": "01305",
+      "METValue": 8.8,
+      "ActivityDescription": "騎自行車，高強度",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02000",
+      "METValue": 7.3,
+      "ActivityDescription": "有氧運動",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02005",
+      "METValue": 4.8,
+      "ActivityDescription": "舞蹈有氧，低強度，中等用力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02006",
+      "METValue": 8.0,
+      "ActivityDescription": "舞蹈有氧，高效率，劇烈用力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02007",
+      "METValue": 10.0,
+      "ActivityDescription": "舞蹈有氧，使用4-7公斤壺鈴",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02008",
+      "METValue": 5.0,
+      "ActivityDescription": "軍事障礙訓練，新兵訓練營課程",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02020",
+      "METValue": 7.5,
+      "ActivityDescription": "體操（例如伏地挺身、深蹲、引體向上、跳躍），劇烈用力",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02022",
+      "METValue": 3.8,
+      "ActivityDescription": "體操（例如伏地挺身、深蹲、引體向上、弓步），中等用力",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02024",
+      "METValue": 2.8,
+      "ActivityDescription": "體操（例如捲腹、腹部捲曲、平板支撐），輕鬆用力",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02030",
+      "METValue": 3.5,
+      "ActivityDescription": "體操，輕鬆或中等用力",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02032",
+      "METValue": 6.0,
+      "ActivityDescription": "循環訓練，自重訓練",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02034",
+      "METValue": 3.5,
+      "ActivityDescription": "循環訓練，輕鬆用力",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02035",
+      "METValue": 5.0,
+      "ActivityDescription": "循環訓練，中等用力",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02040",
+      "METValue": 7.5,
+      "ActivityDescription": "壺鈴循環訓練，高強度",
+      "systemIcon": "figure.cross.training"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02048",
+      "METValue": 5.0,
+      "ActivityDescription": "橢圓機，中等負荷",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02049",
+      "METValue": 9.0,
+      "ActivityDescription": "橢圓機，劇烈用力",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02052",
+      "METValue": 5.0,
+      "ActivityDescription": "重量訓練（舉重），深蹲、硬舉，慢速或爆發性用力",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02054",
+      "METValue": 3.5,
+      "ActivityDescription": "重量訓練",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02056",
+      "METValue": 3.0,
+      "ActivityDescription": "阻力訓練（例如深蹲、弓步、伏地挺身、捲腹）",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02057",
+      "METValue": 6.5,
+      "ActivityDescription": "阻力訓練（例如深蹲、弓步、伏地挺身、捲腹），高強度",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02064",
+      "METValue": 3.8,
+      "ActivityDescription": "居家運動",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02065",
+      "METValue": 9.3,
+      "ActivityDescription": "樓梯跑步機測力計",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02068",
+      "METValue": 11.0,
+      "ActivityDescription": "跳繩",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02070",
+      "METValue": 7.3,
+      "ActivityDescription": "划船，固定測力計，劇烈用力",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02071",
+      "METValue": 5.0,
+      "ActivityDescription": "固定測力計划船，中等負荷",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02078",
+      "METValue": 11.0,
+      "ActivityDescription": "前/後/側向穿梭跑",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02101",
+      "METValue": 2.3,
+      "ActivityDescription": "伸展，輕鬆",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02103",
+      "METValue": 1.8,
+      "ActivityDescription": "墊上普拉提",
+      "systemIcon": "figure.pilates"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02105",
+      "METValue": 2.8,
+      "ActivityDescription": "普拉提",
+      "systemIcon": "figure.pilates"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02108",
+      "METValue": 4.5,
+      "ActivityDescription": "鋼管舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02120",
+      "METValue": 5.3,
+      "ActivityDescription": "水中有氧，水上體操，水中運動",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02140",
+      "METValue": 2.5,
+      "ActivityDescription": "視頻或電視課程體育鍛煉（例如瑜伽、伸展），輕鬆用力",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02143",
+      "METValue": 4.0,
+      "ActivityDescription": "視頻或電視課程體育鍛煉（例如有氧），中等",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02145",
+      "METValue": 6.0,
+      "ActivityDescription": "視頻或電視課程體育鍛煉（例如有氧），劇烈",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02150",
+      "METValue": 2.3,
+      "ActivityDescription": "瑜伽，哈他",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02153",
+      "METValue": 8.0,
+      "ActivityDescription": "瑜伽，哈他，高強度",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02155",
+      "METValue": 3.0,
+      "ActivityDescription": "熱瑜伽",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02160",
+      "METValue": 4.0,
+      "ActivityDescription": "力量瑜伽",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02170",
+      "METValue": 2.0,
+      "ActivityDescription": "瑜伽，鼻息淨化調息",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02175",
+      "METValue": 2.3,
+      "ActivityDescription": "瑜伽",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02180",
+      "METValue": 3.5,
+      "ActivityDescription": "瑜伽，拜日式",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02185",
+      "METValue": 2.7,
+      "ActivityDescription": "瑜伽，流瑜伽",
+      "systemIcon": "figure.yoga"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02210",
+      "METValue": 7.0,
+      "ActivityDescription": "高強度間歇訓練",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02214",
+      "METValue": 11.0,
+      "ActivityDescription": "高強度間歇訓練，波比跳、跳蹲，劇烈用力",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02230",
+      "METValue": 5.8,
+      "ActivityDescription": "呼拉圈",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02280",
+      "METValue": 7.9,
+      "ActivityDescription": "高強度虛擬實境健身",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02300",
+      "METValue": 3.0,
+      "ActivityDescription": "棍棒運動",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02310",
+      "METValue": 6.5,
+      "ActivityDescription": "尊巴，團體課",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "功能性訓練",
+      "ActivityCode": "02315",
+      "METValue": 5.5,
+      "ActivityDescription": "居家尊巴",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03005",
+      "METValue": 6.0,
+      "ActivityDescription": "阿非古巴薩爾薩（古巴恰恰、曼波、非洲倫巴、逆節奏步法、奧里莎/薩托動作）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03010",
+      "METValue": 5.0,
+      "ActivityDescription": "芭蕾，排練或課程",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03011",
+      "METValue": 6.3,
+      "ActivityDescription": "芭蕾練習（plié、tendu、jeté、rond de jambe、fondu、grand battement、sauté、temps levé）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03012",
+      "METValue": 6.8,
+      "ActivityDescription": "芭蕾，劇烈用力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03025",
+      "METValue": 4.5,
+      "ActivityDescription": "民族或文化舞蹈（例如希臘舞、中東舞、呼拉舞、薩爾薩、梅倫格、班巴與普萊娜、弗拉明戈、肚皮舞和搖擺舞）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03030",
+      "METValue": 5.5,
+      "ActivityDescription": "交際舞，快速",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03031",
+      "METValue": 9.8,
+      "ActivityDescription": "夜總會或民間舞蹈，劇烈用力（例如夜總會、迪斯可、民間舞、排舞、愛爾蘭踢踏舞、波爾卡、科特里爾）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03033",
+      "METValue": 5.0,
+      "ActivityDescription": "民間舞，中等用力",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03038",
+      "METValue": 11.3,
+      "ActivityDescription": "交際舞，競賽",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03040",
+      "METValue": 3.0,
+      "ActivityDescription": "舞廳舞，慢速，例如：華爾茲、狐步舞、慢舞、桑巴探戈、倫巴、19世紀舞蹈、曼波、恰恰",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03042",
+      "METValue": 6.0,
+      "ActivityDescription": "舞廳舞，娛樂性（華爾茲、狐步舞、恰恰、搖擺舞）",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03070",
+      "METValue": 3.8,
+      "ActivityDescription": "現代舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03072",
+      "METValue": 4.3,
+      "ActivityDescription": "現代舞，夜總會",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03075",
+      "METValue": 8.5,
+      "ActivityDescription": "弗拉明戈舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03078",
+      "METValue": 4.5,
+      "ActivityDescription": "爵士舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03080",
+      "METValue": 10.3,
+      "ActivityDescription": "音樂劇，歌唱/舞蹈",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03086",
+      "METValue": 7.0,
+      "ActivityDescription": "玻里尼西亞舞蹈，夏威夷呼拉舞、薩摩亞薩薩舞、斐濟波舞、菲律賓竹竿舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03090",
+      "METValue": 4.8,
+      "ActivityDescription": "薩爾薩舞，與舞伴共舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03091",
+      "METValue": 6.3,
+      "ActivityDescription": "跟著視頻跳薩爾薩舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "舞蹈",
+      "ActivityCode": "03093",
+      "METValue": 5.5,
+      "ActivityDescription": "西方廣場舞，美國西部，鄉村舞",
+      "systemIcon": "figure.dance"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04001",
+      "METValue": 3.5,
+      "ActivityDescription": "釣魚",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04005",
+      "METValue": 4.5,
+      "ActivityDescription": "釣魚，捕蟹",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04007",
+      "METValue": 4.0,
+      "ActivityDescription": "釣魚，徒手捕魚",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04020",
+      "METValue": 4.0,
+      "ActivityDescription": "在河岸邊釣魚和散步",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04030",
+      "METValue": 2.0,
+      "ActivityDescription": "坐在船上或獨木舟上釣魚",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04040",
+      "METValue": 3.5,
+      "ActivityDescription": "站在河岸邊釣魚",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04060",
+      "METValue": 2.0,
+      "ActivityDescription": "冰釣",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04062",
+      "METValue": 3.5,
+      "ActivityDescription": "釣魚，設置和取出漁網",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04065",
+      "METValue": 2.3,
+      "ActivityDescription": "站立叉魚",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04070",
+      "METValue": 2.5,
+      "ActivityDescription": "狩獵，弓箭或弩",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04080",
+      "METValue": 6.0,
+      "ActivityDescription": "大型獵物狩獵",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04083",
+      "METValue": 4.0,
+      "ActivityDescription": "大型海洋動物狩獵",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04086",
+      "METValue": 2.0,
+      "ActivityDescription": "乘車、飛機或船狩獵大型獵物",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04100",
+      "METValue": 5.0,
+      "ActivityDescription": "狩獵",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04120",
+      "METValue": 5.0,
+      "ActivityDescription": "小型獵物狩獵",
+      "systemIcon": "figure.hunting"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04130",
+      "METValue": 2.5,
+      "ActivityDescription": "站立手槍射擊或飛碟射擊",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04140",
+      "METValue": 2.3,
+      "ActivityDescription": "射擊練習，臥姿射擊",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "釣魚與狩獵",
+      "ActivityCode": "04145",
+      "METValue": 2.5,
+      "ActivityDescription": "步槍射擊練習",
+      "systemIcon": "figure.fishing"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05010",
+      "METValue": 3.3,
+      "ActivityDescription": "清潔，掃地毯和地板",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05020",
+      "METValue": 3.5,
+      "ActivityDescription": "重度或嚴肅清潔（例如洗車、清潔車庫），中等用力",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05021",
+      "METValue": 3.5,
+      "ActivityDescription": "清潔，拖地，站立，中等用力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05022",
+      "METValue": 3.3,
+      "ActivityDescription": "擦窗，洗窗",
+      "systemIcon": "sparkles"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05023",
+      "METValue": 2.5,
+      "ActivityDescription": "拖地，站立，輕鬆用力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05025",
+      "METValue": 2.8,
+      "ActivityDescription": "同時進行多項家務，輕鬆用力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05026",
+      "METValue": 3.3,
+      "ActivityDescription": "同時進行多項家務，中等用力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05027",
+      "METValue": 4.3,
+      "ActivityDescription": "同時進行多項家務，劇烈用力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05030",
+      "METValue": 3.3,
+      "ActivityDescription": "打掃房間，中等用力",
+      "systemIcon": "house.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05035",
+      "METValue": 3.3,
+      "ActivityDescription": "廚房活動（例如烹飪、洗碗、清潔），中等負荷",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05040",
+      "METValue": 2.5,
+      "ActivityDescription": "整理（整理、換床單、倒垃圾），輕鬆工作",
+      "systemIcon": "trash.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05041",
+      "METValue": 2.0,
+      "ActivityDescription": "洗碗",
+      "systemIcon": "drop.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05042",
+      "METValue": 2.0,
+      "ActivityDescription": "洗碗，清理桌子",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05043",
+      "METValue": 3.0,
+      "ActivityDescription": "吸塵，中等用力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05049",
+      "METValue": 3.5,
+      "ActivityDescription": "烹飪，中等用力",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05052",
+      "METValue": 2.3,
+      "ActivityDescription": "送餐，擺/收餐桌",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05053",
+      "METValue": 2.5,
+      "ActivityDescription": "餵養寵物",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05060",
+      "METValue": 3.3,
+      "ActivityDescription": "採購食品，超市購物",
+      "systemIcon": "cart.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05070",
+      "METValue": 1.8,
+      "ActivityDescription": "熨燙",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05080",
+      "METValue": 1.3,
+      "ActivityDescription": "編織、縫紉，輕鬆用力，包裝禮物",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05082",
+      "METValue": 2.8,
+      "ActivityDescription": "縫紉機縫紉",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05091",
+      "METValue": 2.0,
+      "ActivityDescription": "洗衣服",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05092",
+      "METValue": 4.0,
+      "ActivityDescription": "洗衣，中等用力",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05095",
+      "METValue": 2.0,
+      "ActivityDescription": "洗衣，晾衣服",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05100",
+      "METValue": 3.0,
+      "ActivityDescription": "更換床單",
+      "systemIcon": "bed.double.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05121",
+      "METValue": 5.0,
+      "ActivityDescription": "搬運、搬起輕物",
+      "systemIcon": "archivebox.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05130",
+      "METValue": 3.5,
+      "ActivityDescription": "跪地擦地板、清潔浴室、浴缸，中等用力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05131",
+      "METValue": 2.0,
+      "ActivityDescription": "跪地擦地板、清潔浴室、浴缸，輕鬆用力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05132",
+      "METValue": 6.5,
+      "ActivityDescription": "跪地擦地板、清潔浴室、浴缸，劇烈用力",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05140",
+      "METValue": 3.0,
+      "ActivityDescription": "清掃車庫、人行道或住宅區",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05148",
+      "METValue": 2.0,
+      "ActivityDescription": "給植物澆水",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05150",
+      "METValue": 9.0,
+      "ActivityDescription": "搬運箱子或家具",
+      "systemIcon": "archivebox.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05171",
+      "METValue": 2.8,
+      "ActivityDescription": "與孩子（們）玩，輕鬆用力",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05175",
+      "METValue": 3.5,
+      "ActivityDescription": "步行/奔跑，與孩子（們）玩，中等負荷",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05180",
+      "METValue": 5.8,
+      "ActivityDescription": "步行/奔跑，與孩子（們）玩，劇烈用力",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05184",
+      "METValue": 2.5,
+      "ActivityDescription": "照顧嬰兒",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05185",
+      "METValue": 2.0,
+      "ActivityDescription": "照顧孩子：穿衣、洗澡、護理、餵食",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05189",
+      "METValue": 2.0,
+      "ActivityDescription": "母乳哺育，坐或躺",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05192",
+      "METValue": 2.8,
+      "ActivityDescription": "步行或跑步，與動物玩，輕鬆用力",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05193",
+      "METValue": 4.0,
+      "ActivityDescription": "步行/跑步，與動物玩，中等負荷",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05194",
+      "METValue": 5.0,
+      "ActivityDescription": "步行/跑步，與動物玩，劇烈用力",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05197",
+      "METValue": 2.3,
+      "ActivityDescription": "照顧動物",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05200",
+      "METValue": 3.0,
+      "ActivityDescription": "照顧老人、肢體殘疾成人，洗澡、穿衣、移到床上和從床上起來",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "家庭活動",
+      "ActivityCode": "05205",
+      "METValue": 1.8,
+      "ActivityDescription": "照顧老人、殘疾人，餵食、梳頭，輕鬆用力",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06030",
+      "METValue": 3.3,
+      "ActivityDescription": "汽車維修，輕鬆或中等用力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06126",
+      "METValue": 2.5,
+      "ActivityDescription": "家居維修，輕鬆工作",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06127",
+      "METValue": 4.5,
+      "ActivityDescription": "家居維修，中等用力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06128",
+      "METValue": 6.0,
+      "ActivityDescription": "家居維修，劇烈用力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06130",
+      "METValue": 4.5,
+      "ActivityDescription": "鋪設或拆除地毯",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06140",
+      "METValue": 3.8,
+      "ActivityDescription": "鋪設瓷磚或油氈",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06144",
+      "METValue": 3.0,
+      "ActivityDescription": "修理家電",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06160",
+      "METValue": 3.3,
+      "ActivityDescription": "刷漆、貼壁紙、颳漆",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06165",
+      "METValue": 4.5,
+      "ActivityDescription": "繪畫",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06225",
+      "METValue": 2.0,
+      "ActivityDescription": "洗車",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "家居維修",
+      "ActivityCode": "06230",
+      "METValue": 4.5,
+      "ActivityDescription": "清洗柵欄、粉刷柵欄，中等用力",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "休息",
+      "ActivityCode": "07075",
+      "METValue": 1.0,
+      "ActivityDescription": "冥想",
+      "systemIcon": "zzz"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08055",
+      "METValue": 2.8,
+      "ActivityDescription": "駕駛拖拉機",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08066",
+      "METValue": 2.0,
+      "ActivityDescription": "園藝",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08095",
+      "METValue": 5.5,
+      "ActivityDescription": "修剪草坪，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08100",
+      "METValue": 2.5,
+      "ActivityDescription": "使用自走式割草機修剪草坪",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08110",
+      "METValue": 6.0,
+      "ActivityDescription": "使用手動割草機修剪草坪，劇烈用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08125",
+      "METValue": 4.5,
+      "ActivityDescription": "使用電動割草機修剪草坪，輕鬆或中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08135",
+      "METValue": 2.6,
+      "ActivityDescription": "移植幼苗或植物，輕鬆用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08140",
+      "METValue": 4.3,
+      "ActivityDescription": "種植幼苗、灌木，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08145",
+      "METValue": 4.3,
+      "ActivityDescription": "種植農作物或菜園，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08150",
+      "METValue": 4.5,
+      "ActivityDescription": "種樹",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08160",
+      "METValue": 4.0,
+      "ActivityDescription": "耙草坪或落葉，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08165",
+      "METValue": 4.0,
+      "ActivityDescription": "耙草坪",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08190",
+      "METValue": 4.0,
+      "ActivityDescription": "收集草和樹葉",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08195",
+      "METValue": 5.3,
+      "ActivityDescription": "手動清除積雪，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08200",
+      "METValue": 6.0,
+      "ActivityDescription": "手動耙雪",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08202",
+      "METValue": 7.5,
+      "ActivityDescription": "手動耙雪，劇烈用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08210",
+      "METValue": 3.8,
+      "ActivityDescription": "用手刀修剪灌木或樹木",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08230",
+      "METValue": 4.0,
+      "ActivityDescription": "澆灌草坪或花園",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08239",
+      "METValue": 3.8,
+      "ActivityDescription": "除草、耕耘花園，輕鬆至中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08240",
+      "METValue": 4.5,
+      "ActivityDescription": "除草，耕耘花園，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08241",
+      "METValue": 5.0,
+      "ActivityDescription": "除草，用鋤頭耕耘花園，中等至劇烈用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08245",
+      "METValue": 3.8,
+      "ActivityDescription": "園藝，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08246",
+      "METValue": 3.5,
+      "ActivityDescription": "從樹上採摘水果或咖啡，中等用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08248",
+      "METValue": 4.5,
+      "ActivityDescription": "收穫，從樹上採摘水果，劇烈用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08260",
+      "METValue": 2.3,
+      "ActivityDescription": "庭院工作，輕鬆用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08261",
+      "METValue": 4.0,
+      "ActivityDescription": "庭院工作，中等負荷",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "草坪與園藝",
+      "ActivityCode": "08262",
+      "METValue": 6.0,
+      "ActivityDescription": "庭院工作，劇烈用力",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09000",
+      "METValue": 1.3,
+      "ActivityDescription": "玩桌遊",
+      "systemIcon": "dice.fill"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09005",
+      "METValue": 2.5,
+      "ActivityDescription": "在賭場賭博",
+      "systemIcon": "dice.fill"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09010",
+      "METValue": 1.5,
+      "ActivityDescription": "打牌",
+      "systemIcon": "suit.spade.fill"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09013",
+      "METValue": 1.5,
+      "ActivityDescription": "下棋",
+      "systemIcon": "square.grid.3x3.fill"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09020",
+      "METValue": 1.8,
+      "ActivityDescription": "繪畫",
+      "systemIcon": "pencil"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09030",
+      "METValue": 1.0,
+      "ActivityDescription": "閱讀，書籍、報紙、雜誌",
+      "systemIcon": "book.fill"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09040",
+      "METValue": 1.3,
+      "ActivityDescription": "坐在桌子旁工作，打字",
+      "systemIcon": "keyboard"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09060",
+      "METValue": 1.5,
+      "ActivityDescription": "坐著學習，包括閱讀或寫作，輕鬆用力",
+      "systemIcon": "book.fill"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09106",
+      "METValue": 3.5,
+      "ActivityDescription": "旅遊/旅行/假期，與步行相關",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "休閒時間",
+      "ActivityCode": "09110",
+      "METValue": 2.5,
+      "ActivityDescription": "野營",
+      "systemIcon": "tent.fill"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10010",
+      "METValue": 1.8,
+      "ActivityDescription": "演奏手風琴",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10020",
+      "METValue": 2.3,
+      "ActivityDescription": "演奏大提琴",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10030",
+      "METValue": 2.3,
+      "ActivityDescription": "指揮管弦樂隊",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10035",
+      "METValue": 2.5,
+      "ActivityDescription": "演奏低音大提琴",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10040",
+      "METValue": 3.8,
+      "ActivityDescription": "演奏鼓",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10045",
+      "METValue": 3.0,
+      "ActivityDescription": "演奏鼓（例如邦哥鼓、康加鼓、本貝鼓），中等",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10048",
+      "METValue": 8.3,
+      "ActivityDescription": "演奏鼓，音樂會/現場演出",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10050",
+      "METValue": 2.0,
+      "ActivityDescription": "演奏長笛",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10070",
+      "METValue": 2.3,
+      "ActivityDescription": "演奏鋼琴",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10074",
+      "METValue": 2.0,
+      "ActivityDescription": "演奏樂器",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10077",
+      "METValue": 2.0,
+      "ActivityDescription": "演奏管風琴",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10080",
+      "METValue": 3.5,
+      "ActivityDescription": "演奏長號",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10090",
+      "METValue": 2.5,
+      "ActivityDescription": "演奏小號",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10100",
+      "METValue": 2.5,
+      "ActivityDescription": "演奏小提琴",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10110",
+      "METValue": 1.8,
+      "ActivityDescription": "演奏木管樂器",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10120",
+      "METValue": 2.0,
+      "ActivityDescription": "演奏吉他",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10130",
+      "METValue": 4.0,
+      "ActivityDescription": "管樂隊遊行，中等節奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10131",
+      "METValue": 5.5,
+      "ActivityDescription": "管樂隊遊行，快節奏",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "樂器演奏",
+      "ActivityCode": "10135",
+      "METValue": 3.5,
+      "ActivityDescription": "管樂隊遊行，鼓手",
+      "systemIcon": "music.note"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11006",
+      "METValue": 3.0,
+      "ActivityDescription": "航空公司乘務員",
+      "systemIcon": "airplane"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11008",
+      "METValue": 4.8,
+      "ActivityDescription": "採摘蘋果",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11010",
+      "METValue": 4.0,
+      "ActivityDescription": "麵包師",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11015",
+      "METValue": 2.0,
+      "ActivityDescription": "麵包師，輕鬆用力",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11050",
+      "METValue": 8.0,
+      "ActivityDescription": "搬運重物（例如磚塊、工具）",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11060",
+      "METValue": 8.0,
+      "ActivityDescription": "搬運中等重物上樓梯，搬箱子，11-22公斤",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11070",
+      "METValue": 4.0,
+      "ActivityDescription": "女傭，酒店清潔員，鋪床，清潔浴室",
+      "systemIcon": "bed.double.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11072",
+      "METValue": 4.3,
+      "ActivityDescription": "清潔，清潔商業場所",
+      "systemIcon": "broom.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11080",
+      "METValue": 5.3,
+      "ActivityDescription": "採礦",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11115",
+      "METValue": 2.5,
+      "ActivityDescription": "廚師，主廚",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11120",
+      "METValue": 4.0,
+      "ActivityDescription": "建築，外部裝修、改建、新建（例如屋頂維修等）",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11124",
+      "METValue": 2.3,
+      "ActivityDescription": "建築，鋼筋，彎曲/固定鋼筋",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11130",
+      "METValue": 3.3,
+      "ActivityDescription": "電氣安裝（例如接線、安裝接頭）",
+      "systemIcon": "bolt.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11135",
+      "METValue": 1.8,
+      "ActivityDescription": "工程師（例如機械師或電工）",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11145",
+      "METValue": 7.8,
+      "ActivityDescription": "農業，劇烈工作（例如打包乾草、清掃穀倉）",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11147",
+      "METValue": 2.0,
+      "ActivityDescription": "農業，輕鬆工作（例如清掃動物棚欄、準備動物飼料）",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11170",
+      "METValue": 2.8,
+      "ActivityDescription": "農業，駕駛任務（例如駕駛拖拉機或聯合收割機）",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11180",
+      "METValue": 3.5,
+      "ActivityDescription": "農業，餵養小動物",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11190",
+      "METValue": 4.3,
+      "ActivityDescription": "農業，餵養牛、馬",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11195",
+      "METValue": 3.8,
+      "ActivityDescription": "農業，水稻，種植，加工穀物",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11222",
+      "METValue": 3.0,
+      "ActivityDescription": "農業，擠牛奶",
+      "systemIcon": "drop.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11240",
+      "METValue": 8.0,
+      "ActivityDescription": "消防員",
+      "systemIcon": "flame.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11375",
+      "METValue": 3.8,
+      "ActivityDescription": "垃圾工，將垃圾桶倒入卡車，清掃街道",
+      "systemIcon": "trash.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11378",
+      "METValue": 1.8,
+      "ActivityDescription": "理髮師",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11380",
+      "METValue": 7.3,
+      "ActivityDescription": "照顧馬匹，包括餵食、打掃馬廄、洗澡、梳理、剪毛、訓練馬匹",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11383",
+      "METValue": 4.5,
+      "ActivityDescription": "騎馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11390",
+      "METValue": 7.8,
+      "ActivityDescription": "賽馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11413",
+      "METValue": 3.0,
+      "ActivityDescription": "廚房雜工",
+      "systemIcon": "fork.knife"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11415",
+      "METValue": 4.0,
+      "ActivityDescription": "草坪工人，庭院工作",
+      "systemIcon": "leaf.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11418",
+      "METValue": 3.3,
+      "ActivityDescription": "洗衣工",
+      "systemIcon": "tshirt.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11420",
+      "METValue": 3.0,
+      "ActivityDescription": "鎖匠",
+      "systemIcon": "lock.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11485",
+      "METValue": 5.5,
+      "ActivityDescription": "按摩師",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11486",
+      "METValue": 2.3,
+      "ActivityDescription": "郵差",
+      "systemIcon": "envelope.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11495",
+      "METValue": 12.0,
+      "ActivityDescription": "以潛水員身份跳水或水肺潛水",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11516",
+      "METValue": 3.0,
+      "ActivityDescription": "水管工",
+      "systemIcon": "wrench.and.screwdriver.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11520",
+      "METValue": 2.0,
+      "ActivityDescription": "印刷工，造紙工人",
+      "systemIcon": "printer.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11524",
+      "METValue": 3.8,
+      "ActivityDescription": "警察",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11525",
+      "METValue": 2.5,
+      "ActivityDescription": "警察，指揮交通",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11526",
+      "METValue": 2.0,
+      "ActivityDescription": "警察，駕駛巡邏車",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11527",
+      "METValue": 1.3,
+      "ActivityDescription": "警察乘坐巡邏車",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11528",
+      "METValue": 4.0,
+      "ActivityDescription": "警察逮捕罪犯",
+      "systemIcon": "shield.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11550",
+      "METValue": 8.8,
+      "ActivityDescription": "鏟土，劇烈用力",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11560",
+      "METValue": 5.0,
+      "ActivityDescription": "鏟土，中等用力",
+      "systemIcon": "hammer.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11580",
+      "METValue": 1.5,
+      "ActivityDescription": "坐著工作，輕鬆用力（例如辦公室工作、化學實驗室工作、輕度組裝維修、修錶、閱讀、桌面工作）",
+      "systemIcon": "desktopcomputer"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11582",
+      "METValue": 1.3,
+      "ActivityDescription": "電腦工作",
+      "systemIcon": "desktopcomputer"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11650",
+      "METValue": 2.3,
+      "ActivityDescription": "照顧病患，醫療活動",
+      "systemIcon": "stethoscope"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11660",
+      "METValue": 3.5,
+      "ActivityDescription": "照顧病患，清潔/準備房間",
+      "systemIcon": "cross.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11720",
+      "METValue": 2.3,
+      "ActivityDescription": "製衣，裁布",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11740",
+      "METValue": 1.8,
+      "ActivityDescription": "製衣，手縫",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11750",
+      "METValue": 2.5,
+      "ActivityDescription": "縫紉機製衣",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11763",
+      "METValue": 2.0,
+      "ActivityDescription": "製衣，紡織，輕鬆工作（例如整理工作、洗滌、染色）",
+      "systemIcon": "scissors"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11766",
+      "METValue": 6.5,
+      "ActivityDescription": "駕駛卡車，裝卸卡車，捆綁貨物，搬運重物",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11767",
+      "METValue": 2.0,
+      "ActivityDescription": "駕駛卡車、快遞車、計程車、路線巴士、校車",
+      "systemIcon": "car.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11797",
+      "METValue": 3.8,
+      "ActivityDescription": "以4公里/小時步行，慢速，搬運超過11公斤的重物",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11800",
+      "METValue": 4.5,
+      "ActivityDescription": "以5公里/小時步行，中等，搬運輕於11公斤的物品",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11810",
+      "METValue": 4.5,
+      "ActivityDescription": "以6公里/小時步行，快速步行，搬運輕於11公斤的物品",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11820",
+      "METValue": 4.0,
+      "ActivityDescription": "步行或下樓梯，搬運11-22公斤的物品",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11830",
+      "METValue": 5.5,
+      "ActivityDescription": "步行或下樓梯，搬運22-33公斤的物品",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11840",
+      "METValue": 7.0,
+      "ActivityDescription": "步行或下樓梯，搬運34-45公斤的物品",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11850",
+      "METValue": 7.3,
+      "ActivityDescription": "步行或下樓梯，搬運約45公斤或以上的物品",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11860",
+      "METValue": 2.3,
+      "ActivityDescription": "倉庫工作，裝/卸箱子",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "工作",
+      "ActivityCode": "11862",
+      "METValue": 4.3,
+      "ActivityDescription": "倉庫工作，搬運箱子（約5公斤）",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12020",
+      "METValue": 7.5,
+      "ActivityDescription": "慢跑",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12025",
+      "METValue": 4.8,
+      "ActivityDescription": "原地跑步",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12026",
+      "METValue": 3.3,
+      "ActivityDescription": "以4到6公里/小時慢跑",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12028",
+      "METValue": 6.5,
+      "ActivityDescription": "跑步，6到7公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12029",
+      "METValue": 7.8,
+      "ActivityDescription": "以7到8公里/小時跑步",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12030",
+      "METValue": 8.5,
+      "ActivityDescription": "跑步，8到9公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12045",
+      "METValue": 9.0,
+      "ActivityDescription": "跑步，9-10公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12060",
+      "METValue": 10.5,
+      "ActivityDescription": "跑步，11公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12080",
+      "METValue": 11.8,
+      "ActivityDescription": "跑步，12公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12100",
+      "METValue": 12.5,
+      "ActivityDescription": "跑步，13公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12115",
+      "METValue": 14.8,
+      "ActivityDescription": "跑步，15到15.5公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12120",
+      "METValue": 14.8,
+      "ActivityDescription": "跑步，16公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12132",
+      "METValue": 18.5,
+      "ActivityDescription": "跑步，19公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12134",
+      "METValue": 19.8,
+      "ActivityDescription": "跑步，20公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12140",
+      "METValue": 9.3,
+      "ActivityDescription": "越野跑",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12150",
+      "METValue": 8.0,
+      "ActivityDescription": "跑步（泰勒代碼200）",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12170",
+      "METValue": 15.0,
+      "ActivityDescription": "爬樓梯跑步",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12180",
+      "METValue": 10.0,
+      "ActivityDescription": "跑步機跑步",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12200",
+      "METValue": 13.3,
+      "ActivityDescription": "跑步，馬拉松",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12255",
+      "METValue": 10.3,
+      "ActivityDescription": "上坡跑步，速度7公里/小時，坡度5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12260",
+      "METValue": 13.3,
+      "ActivityDescription": "上坡跑步，速度10公里/小時，坡度5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12265",
+      "METValue": 15.5,
+      "ActivityDescription": "上坡跑步，速度11公里/小時，坡度5%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12325",
+      "METValue": 17.5,
+      "ActivityDescription": "上坡跑步，速度8到9公里/小時，坡度15%",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12410",
+      "METValue": 11.0,
+      "ActivityDescription": "曲面跑步機，速度8到9公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12412",
+      "METValue": 12.0,
+      "ActivityDescription": "曲面跑步機，速度11到12公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12414",
+      "METValue": 14.0,
+      "ActivityDescription": "曲面跑步機，速度13到14公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12555",
+      "METValue": 7.8,
+      "ActivityDescription": "赤足跑步，6-9公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12560",
+      "METValue": 12.0,
+      "ActivityDescription": "赤足跑步，10-13公里/小時",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "跑步",
+      "ActivityCode": "12620",
+      "METValue": 13.0,
+      "ActivityDescription": "鐵人三項，跑步",
+      "systemIcon": "figure.run"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15010",
+      "METValue": 4.3,
+      "ActivityDescription": "射箭（非狩獵）",
+      "systemIcon": "figure.archery"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15020",
+      "METValue": 7.0,
+      "ActivityDescription": "羽毛球，競賽",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15025",
+      "METValue": 9.0,
+      "ActivityDescription": "羽毛球，競賽，比賽",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15030",
+      "METValue": 5.5,
+      "ActivityDescription": "羽毛球，社交單打和雙打",
+      "systemIcon": "figure.badminton"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15040",
+      "METValue": 8.0,
+      "ActivityDescription": "籃球",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15072",
+      "METValue": 9.3,
+      "ActivityDescription": "籃球，訓練",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15080",
+      "METValue": 2.5,
+      "ActivityDescription": "撞球",
+      "systemIcon": "figure.mixed.cardio"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15090",
+      "METValue": 3.0,
+      "ActivityDescription": "保齡球",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15100",
+      "METValue": 12.3,
+      "ActivityDescription": "拳擊，擂台賽",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15110",
+      "METValue": 5.8,
+      "ActivityDescription": "拳擊，沙袋",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15120",
+      "METValue": 7.8,
+      "ActivityDescription": "拳擊，對打",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15125",
+      "METValue": 9.3,
+      "ActivityDescription": "拳擊，模擬拳擊回合，練習",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15130",
+      "METValue": 7.0,
+      "ActivityDescription": "冰上曲棍球",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15138",
+      "METValue": 6.0,
+      "ActivityDescription": "啦啦隊，體操動作，競賽",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15150",
+      "METValue": 4.8,
+      "ActivityDescription": "板球",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15160",
+      "METValue": 3.3,
+      "ActivityDescription": "槌球",
+      "systemIcon": "figure.golf"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15180",
+      "METValue": 2.5,
+      "ActivityDescription": "飛鏢",
+      "systemIcon": "target"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15200",
+      "METValue": 6.0,
+      "ActivityDescription": "擊劍",
+      "systemIcon": "figure.fencing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15210",
+      "METValue": 8.0,
+      "ActivityDescription": "足球，競賽",
+      "systemIcon": "figure.american.football"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15235",
+      "METValue": 2.5,
+      "ActivityDescription": "足球或棒球，傳球",
+      "systemIcon": "figure.american.football"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15240",
+      "METValue": 3.0,
+      "ActivityDescription": "飛盤",
+      "systemIcon": "figure.disc.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15255",
+      "METValue": 4.5,
+      "ActivityDescription": "高爾夫球",
+      "systemIcon": "figure.golf"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15300",
+      "METValue": 3.8,
+      "ActivityDescription": "體操",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15320",
+      "METValue": 12.0,
+      "ActivityDescription": "手球",
+      "systemIcon": "figure.handball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15350",
+      "METValue": 7.8,
+      "ActivityDescription": "曲棍球",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15362",
+      "METValue": 10.0,
+      "ActivityDescription": "曲棍球，競賽",
+      "systemIcon": "figure.hockey"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15370",
+      "METValue": 5.5,
+      "ActivityDescription": "騎馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15380",
+      "METValue": 4.5,
+      "ActivityDescription": "照顧馬匹",
+      "systemIcon": "pawprint.fill"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15390",
+      "METValue": 5.8,
+      "ActivityDescription": "騎馬，小跑",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15395",
+      "METValue": 7.3,
+      "ActivityDescription": "騎馬，加洛普",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15400",
+      "METValue": 3.8,
+      "ActivityDescription": "騎馬，散步",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15402",
+      "METValue": 9.0,
+      "ActivityDescription": "騎馬，跳躍",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15403",
+      "METValue": 6.0,
+      "ActivityDescription": "騎馬，西部騎術",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15425",
+      "METValue": 5.3,
+      "ActivityDescription": "武術，各種，慢速，練習",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15430",
+      "METValue": 10.3,
+      "ActivityDescription": "武術，各種，中等速度（例如柔道、柔術、空手道、踢拳擊、跆拳道、泰拳、泰拳）",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15432",
+      "METValue": 14.3,
+      "ActivityDescription": "跆拳道",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15433",
+      "METValue": 11.3,
+      "ActivityDescription": "柔道",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15440",
+      "METValue": 4.0,
+      "ActivityDescription": "雜耍",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15444",
+      "METValue": 6.5,
+      "ActivityDescription": "劍道，基本稽古，中等強度",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15445",
+      "METValue": 9.6,
+      "ActivityDescription": "劍道，切返稽古，高強度",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15446",
+      "METValue": 11.3,
+      "ActivityDescription": "劍道，掛稽古，極高強度",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15450",
+      "METValue": 7.0,
+      "ActivityDescription": "踢球",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15455",
+      "METValue": 5.5,
+      "ActivityDescription": "功夫體操",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15457",
+      "METValue": 7.3,
+      "ActivityDescription": "踢拳擊",
+      "systemIcon": "figure.boxing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15460",
+      "METValue": 8.0,
+      "ActivityDescription": "長曲棍球",
+      "systemIcon": "figure.lacrosse"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15465",
+      "METValue": 3.3,
+      "ActivityDescription": "草地保齡球",
+      "systemIcon": "figure.bowling"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15470",
+      "METValue": 4.0,
+      "ActivityDescription": "摩托越野，越野摩托車運動",
+      "systemIcon": "motorcycle"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15475",
+      "METValue": 5.3,
+      "ActivityDescription": "摩托賽車",
+      "systemIcon": "motorcycle"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15477",
+      "METValue": 7.0,
+      "ActivityDescription": "無板籃球",
+      "systemIcon": "figure.basketball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15490",
+      "METValue": 10.0,
+      "ActivityDescription": "槳球，競賽",
+      "systemIcon": "figure.pickleball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15500",
+      "METValue": 6.0,
+      "ActivityDescription": "槳球",
+      "systemIcon": "figure.pickleball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15503",
+      "METValue": 1.8,
+      "ActivityDescription": "滑翔傘飛行",
+      "systemIcon": "wind"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15510",
+      "METValue": 8.0,
+      "ActivityDescription": "馬球，騎馬",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15520",
+      "METValue": 10.0,
+      "ActivityDescription": "短網拍球，競賽",
+      "systemIcon": "figure.racquetball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15525",
+      "METValue": 10.3,
+      "ActivityDescription": "競走（11公里/小時）",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15527",
+      "METValue": 13.8,
+      "ActivityDescription": "競走（13公里/小時）",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15528",
+      "METValue": 15.5,
+      "ActivityDescription": "競走，比賽速度（14公里/小時）",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15530",
+      "METValue": 7.0,
+      "ActivityDescription": "短網拍球",
+      "systemIcon": "figure.racquetball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15533",
+      "METValue": 8.0,
+      "ActivityDescription": "攀岩或登山",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15535",
+      "METValue": 7.3,
+      "ActivityDescription": "攀岩，攀登岩石，高難度",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15536",
+      "METValue": 10.5,
+      "ActivityDescription": "攀岩，速度攀岩，非常困難",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15537",
+      "METValue": 5.8,
+      "ActivityDescription": "攀岩，攀登或越過岩石，低至中等難度",
+      "systemIcon": "figure.climbing"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15542",
+      "METValue": 4.0,
+      "ActivityDescription": "牛仔競技，輕鬆用力",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15544",
+      "METValue": 5.5,
+      "ActivityDescription": "牛仔競技，中等用力",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15546",
+      "METValue": 7.0,
+      "ActivityDescription": "牛仔競技，劇烈用力",
+      "systemIcon": "figure.equestrian.sports"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15550",
+      "METValue": 12.3,
+      "ActivityDescription": "跳繩，快速，每分鐘120-160次",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15551",
+      "METValue": 11.8,
+      "ActivityDescription": "跳繩，中等速度，每分鐘100-120次",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15552",
+      "METValue": 8.3,
+      "ActivityDescription": "跳繩，慢速，每分鐘少於100次",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15554",
+      "METValue": 10.0,
+      "ActivityDescription": "跳繩",
+      "systemIcon": "figure.jumprope"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15560",
+      "METValue": 8.3,
+      "ActivityDescription": "橄欖球，競賽",
+      "systemIcon": "figure.rugby"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15580",
+      "METValue": 5.0,
+      "ActivityDescription": "滑板，中等負荷",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15582",
+      "METValue": 6.0,
+      "ActivityDescription": "滑板，競賽，劇烈用力",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15590",
+      "METValue": 7.0,
+      "ActivityDescription": "溜冰，輪滑",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15591",
+      "METValue": 7.5,
+      "ActivityDescription": "輪滑，輪式溜冰鞋，14.4公里/小時，休閒速度",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15592",
+      "METValue": 9.8,
+      "ActivityDescription": "輪滑，輪式溜冰鞋，17.7公里/小時，中等速度",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15593",
+      "METValue": 12.3,
+      "ActivityDescription": "輪滑，輪式溜冰鞋，21.0-21.7公里/小時，快速",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15594",
+      "METValue": 15.5,
+      "ActivityDescription": "輪滑，輪式溜冰鞋，24.0公里/小時，最大用力",
+      "systemIcon": "figure.roll"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15595",
+      "METValue": 6.8,
+      "ActivityDescription": "滑板，長板，13.3公里/小時，慢速",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15596",
+      "METValue": 8.3,
+      "ActivityDescription": "滑板，長板，16.2公里/小時，典型速度",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15597",
+      "METValue": 10.5,
+      "ActivityDescription": "滑板，長板，18.4公里/小時，快速",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15600",
+      "METValue": 3.5,
+      "ActivityDescription": "跳傘，定點跳傘，高空彈跳",
+      "systemIcon": "airplane.departure"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15605",
+      "METValue": 9.5,
+      "ActivityDescription": "足球，競賽",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15610",
+      "METValue": 7.0,
+      "ActivityDescription": "足球，日常",
+      "systemIcon": "figure.soccer"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15625",
+      "METValue": 4.0,
+      "ActivityDescription": "壘球",
+      "systemIcon": "figure.baseball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15650",
+      "METValue": 12.0,
+      "ActivityDescription": "壁球",
+      "systemIcon": "figure.squash"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15660",
+      "METValue": 4.0,
+      "ActivityDescription": "乒乓球",
+      "systemIcon": "figure.table.tennis"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15675",
+      "METValue": 6.8,
+      "ActivityDescription": "網球，中等負荷",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15676",
+      "METValue": 8.0,
+      "ActivityDescription": "網球，競賽",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15680",
+      "METValue": 6.0,
+      "ActivityDescription": "網球，雙打",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15690",
+      "METValue": 8.0,
+      "ActivityDescription": "網球，單打",
+      "systemIcon": "figure.tennis"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15700",
+      "METValue": 6.3,
+      "ActivityDescription": "蹦床，娛樂性",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15702",
+      "METValue": 10.3,
+      "ActivityDescription": "蹦床，競賽",
+      "systemIcon": "figure.gymnastics"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15710",
+      "METValue": 4.0,
+      "ActivityDescription": "排球",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15711",
+      "METValue": 6.0,
+      "ActivityDescription": "排球競賽，體育館",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15725",
+      "METValue": 8.0,
+      "ActivityDescription": "沙灘排球",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15730",
+      "METValue": 6.0,
+      "ActivityDescription": "摔角競賽（一場 = 5分鐘）",
+      "systemIcon": "figure.martial.arts"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15732",
+      "METValue": 4.0,
+      "ActivityDescription": "田徑運動",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15733",
+      "METValue": 6.0,
+      "ActivityDescription": "田徑（例如跳高、跳遠、三級跳、投擲標槍、撐竿跳）",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "運動",
+      "ActivityCode": "15734",
+      "METValue": 10.0,
+      "ActivityDescription": "田徑（例如欄架跑、跨欄）",
+      "systemIcon": "figure.track.and.field"
+    },
+    {
+      "MajorHeading": "交通出行",
+      "ActivityCode": "16002",
+      "METValue": 6.8,
+      "ActivityDescription": "騎自行車，中等用力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "交通出行",
+      "ActivityCode": "16004",
+      "METValue": 9.3,
+      "ActivityDescription": "騎自行車，大力用力",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "交通出行",
+      "ActivityCode": "16005",
+      "METValue": 6.8,
+      "ActivityDescription": "電動自行車（帶電機驅動）",
+      "systemIcon": "figure.outdoor.cycle"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17021",
+      "METValue": 2.3,
+      "ActivityDescription": "抱著4.5公斤孩子散步，慢步行",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17025",
+      "METValue": 8.3,
+      "ActivityDescription": "向上搬運重物",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17032",
+      "METValue": 5.0,
+      "ActivityDescription": "爬山，無負重，坡度5-20%，非常慢速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17033",
+      "METValue": 3.8,
+      "ActivityDescription": "爬山，負重7-22公斤，坡度1-2%，慢速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17034",
+      "METValue": 5.3,
+      "ActivityDescription": "爬山，無負重，坡度1-5%，中等至快速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17035",
+      "METValue": 7.0,
+      "ActivityDescription": "爬山，無負重，坡度6-10%，中等至快速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17036",
+      "METValue": 8.8,
+      "ActivityDescription": "爬山，無負重，坡度11-20%，慢速至中等",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17037",
+      "METValue": 10.0,
+      "ActivityDescription": "爬山，無負重，速度6-8公里/小時，坡度3-5%，非常快速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17038",
+      "METValue": 8.5,
+      "ActivityDescription": "爬山，無負重，陡坡（30%），慢速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17039",
+      "METValue": 15.5,
+      "ActivityDescription": "無負重爬山，非常陡坡（30-40%），速度2-3公里/小時",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17040",
+      "METValue": 16.3,
+      "ActivityDescription": "爬山，無負重，陡坡（10-40%），速度3-8公里/小時",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17045",
+      "METValue": 6.5,
+      "ActivityDescription": "爬山，負重4-8公斤，坡度5-10%，中等",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17050",
+      "METValue": 7.5,
+      "ActivityDescription": "爬山，負重9-18公斤，坡度3-10%，中等至快速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17060",
+      "METValue": 10.0,
+      "ActivityDescription": "爬山，負重超過9公斤，坡度5-20%，中等至快速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17080",
+      "METValue": 6.0,
+      "ActivityDescription": "在沙灘上散步",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17110",
+      "METValue": 6.5,
+      "ActivityDescription": "競走",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17130",
+      "METValue": 8.0,
+      "ActivityDescription": "爬樓梯",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17133",
+      "METValue": 4.5,
+      "ActivityDescription": "爬樓梯，慢速",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17134",
+      "METValue": 9.3,
+      "ActivityDescription": "爬樓梯，快速",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17150",
+      "METValue": 2.3,
+      "ActivityDescription": "散步",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17151",
+      "METValue": 2.3,
+      "ActivityDescription": "以少於3公里/小時步行，非常慢速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17152",
+      "METValue": 2.8,
+      "ActivityDescription": "以3到4公里/小時步行，慢速",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17160",
+      "METValue": 3.5,
+      "ActivityDescription": "散步取樂",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17165",
+      "METValue": 3.0,
+      "ActivityDescription": "遛狗",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17170",
+      "METValue": 3.0,
+      "ActivityDescription": "步行，4公里/小時",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17180",
+      "METValue": 3.3,
+      "ActivityDescription": "步行，4公里/小時，上坡",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17200",
+      "METValue": 4.8,
+      "ActivityDescription": "以5.5到6公里/小時步行",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17220",
+      "METValue": 5.5,
+      "ActivityDescription": "以6.5到7公里/小時步行",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17230",
+      "METValue": 7.0,
+      "ActivityDescription": "以7到8公里/小時步行",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17231",
+      "METValue": 8.5,
+      "ActivityDescription": "以8到9公里/小時步行",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17310",
+      "METValue": 8.8,
+      "ActivityDescription": "北歐式健走",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17349",
+      "METValue": 3.0,
+      "ActivityDescription": "跑步機步行，3到4公里/小時，無坡度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17352",
+      "METValue": 3.5,
+      "ActivityDescription": "跑步機步行，4.0到4.7公里/小時，無坡度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17355",
+      "METValue": 3.8,
+      "ActivityDescription": "跑步機步行，4.8到5.5公里/小時，無坡度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17358",
+      "METValue": 4.8,
+      "ActivityDescription": "跑步機步行，5.6到6.3公里/小時，無坡度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17361",
+      "METValue": 5.8,
+      "ActivityDescription": "跑步機步行，6.4到7.1公里/小時，無坡度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17364",
+      "METValue": 6.8,
+      "ActivityDescription": "跑步機步行，7.2到7.9公里/小時，無坡度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "步行",
+      "ActivityCode": "17367",
+      "METValue": 8.3,
+      "ActivityDescription": "跑步機步行，8.0到8.9公里/小時，無坡度",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18020",
+      "METValue": 4.0,
+      "ActivityDescription": "划獨木舟旅行",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18090",
+      "METValue": 3.0,
+      "ActivityDescription": "跳水",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18100",
+      "METValue": 5.0,
+      "ActivityDescription": "皮划艇，中等用力",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18104",
+      "METValue": 13.5,
+      "ActivityDescription": "皮划艇，競賽",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18110",
+      "METValue": 4.0,
+      "ActivityDescription": "腳踏船",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18150",
+      "METValue": 6.0,
+      "ActivityDescription": "滑水",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18160",
+      "METValue": 7.0,
+      "ActivityDescription": "駕駛水上摩托",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18180",
+      "METValue": 15.8,
+      "ActivityDescription": "衝浪，快速",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18190",
+      "METValue": 11.8,
+      "ActivityDescription": "衝浪，中等",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18200",
+      "METValue": 7.0,
+      "ActivityDescription": "水肺跳水，水肺潛水",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18202",
+      "METValue": 5.3,
+      "ActivityDescription": "水肺潛水，輕鬆用力",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18204",
+      "METValue": 5.8,
+      "ActivityDescription": "潛水，中等用力",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18206",
+      "METValue": 5.5,
+      "ActivityDescription": "潛水，專業潛水員",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18208",
+      "METValue": 6.8,
+      "ActivityDescription": "潛水，業餘潛水員",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18210",
+      "METValue": 5.0,
+      "ActivityDescription": "潛水",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18220",
+      "METValue": 3.0,
+      "ActivityDescription": "衝浪",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18221",
+      "METValue": 6.8,
+      "ActivityDescription": "衝浪板，划槳",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18222",
+      "METValue": 5.0,
+      "ActivityDescription": "衝浪，競賽",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18224",
+      "METValue": 6.5,
+      "ActivityDescription": "立式划槳衝浪",
+      "systemIcon": "figure.surfing"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18230",
+      "METValue": 9.8,
+      "ActivityDescription": "游泳，劇烈用力",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18240",
+      "METValue": 5.8,
+      "ActivityDescription": "游泳，慢速",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18255",
+      "METValue": 4.8,
+      "ActivityDescription": "仰泳",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18260",
+      "METValue": 10.3,
+      "ActivityDescription": "游泳，蛙泳，訓練或競賽",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18265",
+      "METValue": 5.3,
+      "ActivityDescription": "蛙泳，娛樂性",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18270",
+      "METValue": 13.8,
+      "ActivityDescription": "游泳，蝶泳",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18300",
+      "METValue": 6.0,
+      "ActivityDescription": "在湖泊、河流或海洋中游泳",
+      "systemIcon": "figure.open.water.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18310",
+      "METValue": 6.0,
+      "ActivityDescription": "游泳，悠閒地",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18330",
+      "METValue": 8.0,
+      "ActivityDescription": "花式游泳",
+      "systemIcon": "figure.pool.swim"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18355",
+      "METValue": 5.5,
+      "ActivityDescription": "水中有氧，水上體操",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18356",
+      "METValue": 3.8,
+      "ActivityDescription": "水中有氧，阻力訓練",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18358",
+      "METValue": 7.5,
+      "ActivityDescription": "水中有氧，高強度",
+      "systemIcon": "figure.water.fitness"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18360",
+      "METValue": 10.0,
+      "ActivityDescription": "水球",
+      "systemIcon": "figure.waterpolo"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18365",
+      "METValue": 3.0,
+      "ActivityDescription": "水上排球",
+      "systemIcon": "figure.volleyball"
+    },
+    {
+      "MajorHeading": "水上活動",
+      "ActivityCode": "18370",
+      "METValue": 5.0,
+      "ActivityDescription": "漂流，皮划艇或獨木舟",
+      "systemIcon": "figure.outdoor.rowing"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19018",
+      "METValue": 14.0,
+      "ActivityDescription": "溜冰，冰上舞蹈",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19020",
+      "METValue": 5.5,
+      "ActivityDescription": "溜冰，速度14公里/小時或以下",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19030",
+      "METValue": 7.0,
+      "ActivityDescription": "溜冰",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19040",
+      "METValue": 9.0,
+      "ActivityDescription": "溜冰，在冰上，快速，超過14公里/小時",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19050",
+      "METValue": 13.8,
+      "ActivityDescription": "溜冰，競賽",
+      "systemIcon": "figure.skating"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19060",
+      "METValue": 7.0,
+      "ActivityDescription": "跳台滑雪",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19075",
+      "METValue": 7.0,
+      "ActivityDescription": "滑雪",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19080",
+      "METValue": 6.8,
+      "ActivityDescription": "滑雪，速度7公里/小時",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19090",
+      "METValue": 8.5,
+      "ActivityDescription": "滑雪，速度6.5-8公里/小時",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19100",
+      "METValue": 11.3,
+      "ActivityDescription": "滑雪，速度8-13公里/小時",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19110",
+      "METValue": 14.0,
+      "ActivityDescription": "越野滑雪，>13-30公里/小時，競賽",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19112",
+      "METValue": 16.0,
+      "ActivityDescription": "滑雪，19-26公里/小時，競賽",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19115",
+      "METValue": 9.5,
+      "ActivityDescription": "滑雪，越野滑雪，高強度訓練",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19130",
+      "METValue": 15.5,
+      "ActivityDescription": "滑雪，上坡，雪地登山",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19142",
+      "METValue": 12.8,
+      "ActivityDescription": "冬季兩項訓練，坡度5度，速度8公里/小時",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19144",
+      "METValue": 12.8,
+      "ActivityDescription": "冬季兩項訓練，坡度5度，速度10.7公里/小時",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19146",
+      "METValue": 9.3,
+      "ActivityDescription": "滑雪",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19150",
+      "METValue": 4.3,
+      "ActivityDescription": "滑雪，高山滑雪或單板滑雪，輕鬆用力",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19160",
+      "METValue": 6.3,
+      "ActivityDescription": "滑雪，高山滑雪或單板滑雪，中等負荷",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19170",
+      "METValue": 8.0,
+      "ActivityDescription": "滑雪，高山滑雪或單板滑雪，劇烈用力",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19174",
+      "METValue": 7.3,
+      "ActivityDescription": "滑雪，高山滑雪，高強度訓練",
+      "systemIcon": "figure.skiing.downhill"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19180",
+      "METValue": 7.0,
+      "ActivityDescription": "乘雪橇",
+      "systemIcon": "figure.snowboarding"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19190",
+      "METValue": 5.3,
+      "ActivityDescription": "穿雪鞋行走，中等用力",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19192",
+      "METValue": 10.0,
+      "ActivityDescription": "穿雪鞋行走，劇烈用力",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19201",
+      "METValue": 7.5,
+      "ActivityDescription": "單板滑雪，中等速度",
+      "systemIcon": "figure.snowboarding"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19252",
+      "METValue": 5.3,
+      "ActivityDescription": "手動清除積雪，中等用力",
+      "systemIcon": "snowflake"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19254",
+      "METValue": 7.5,
+      "ActivityDescription": "手動清除積雪，劇烈用力",
+      "systemIcon": "snowflake"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19305",
+      "METValue": 5.5,
+      "ActivityDescription": "輪式滑雪，10-12.9公里/小時，無坡度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19310",
+      "METValue": 6.8,
+      "ActivityDescription": "輪式滑雪，13-16.9公里/小時，無坡度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19315",
+      "METValue": 8.3,
+      "ActivityDescription": "輪式滑雪，17-19.9公里/小時，無坡度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19320",
+      "METValue": 10.5,
+      "ActivityDescription": "輪式滑雪，20-23.9公里/小時，無坡度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19325",
+      "METValue": 15.0,
+      "ActivityDescription": "輪式滑雪，24-27.9公里/小時，無坡度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19330",
+      "METValue": 12.5,
+      "ActivityDescription": "輪式滑雪，10-15公里/小時，坡度2-5度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19335",
+      "METValue": 14.3,
+      "ActivityDescription": "輪式滑雪，16-22公里/小時，坡度2-5度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19340",
+      "METValue": 12.3,
+      "ActivityDescription": "輪式滑雪，速度6-9公里/小時，坡度6-10度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19345",
+      "METValue": 16.0,
+      "ActivityDescription": "輪式滑雪，>10公里/小時，坡度6-10度",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19400",
+      "METValue": 9.0,
+      "ActivityDescription": "登山，攀岩，速降",
+      "systemIcon": "figure.hiking"
+    },
+    {
+      "MajorHeading": "冬季運動",
+      "ActivityCode": "19405",
+      "METValue": 10.3,
+      "ActivityDescription": "登山，攀岩/越野滑雪",
+      "systemIcon": "figure.skiing.crosscountry"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21010",
+      "METValue": 2.5,
+      "ActivityDescription": "坐著，中等工作",
+      "systemIcon": "person.fill"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21015",
+      "METValue": 1.8,
+      "ActivityDescription": "站立，輕鬆工作",
+      "systemIcon": "person.fill"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21016",
+      "METValue": 2.0,
+      "ActivityDescription": "坐著，照顧孩子，僅活躍時段",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21017",
+      "METValue": 3.5,
+      "ActivityDescription": "站立，照顧孩子，僅活躍時段",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21018",
+      "METValue": 3.5,
+      "ActivityDescription": "與孩子玩耍，中等，僅活躍時段",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21019",
+      "METValue": 5.8,
+      "ActivityDescription": "與孩子玩耍，劇烈，僅活躍時段",
+      "systemIcon": "figure.and.child.holdinghands"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21020",
+      "METValue": 3.3,
+      "ActivityDescription": "站立，輕鬆/中等工作（例如打包箱子、組裝/維修、擺放椅子/家具）",
+      "systemIcon": "shippingbox.fill"
+    },
+    {
+      "MajorHeading": "志願者活動",
+      "ActivityCode": "21030",
+      "METValue": 4.5,
+      "ActivityDescription": "站立，中等/繁重工作",
+      "systemIcon": "figure.strengthtraining.functional"
+    },
+    {
+      "MajorHeading": "電子遊戲",
+      "ActivityCode": "22120",
+      "METValue": 1.5,
+      "ActivityDescription": "電子遊戲，手持控制器（輕鬆用力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "電子遊戲",
+      "ActivityCode": "22160",
+      "METValue": 2.3,
+      "ActivityDescription": "電子遊戲，輕鬆用力（Wii Fit、瑜伽、保齡球等）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "電子遊戲",
+      "ActivityCode": "22200",
+      "METValue": 3.0,
+      "ActivityDescription": "主動電子遊戲，動作識別/使用上半身（輕鬆或中等用力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "電子遊戲",
+      "ActivityCode": "22240",
+      "METValue": 4.0,
+      "ActivityDescription": "主動電子遊戲，動作感應/全身參與（中等用力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "電子遊戲",
+      "ActivityCode": "22280",
+      "METValue": 5.0,
+      "ActivityDescription": "主動電子遊戲，動作感應/全身參與（中等至劇烈用力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "電子遊戲",
+      "ActivityCode": "22320",
+      "METValue": 7.5,
+      "ActivityDescription": "主動電子遊戲，動作感應/全身，遊戲練習、訓練、舞蹈（劇烈用力）",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "電子遊戲",
+      "ActivityCode": "22360",
+      "METValue": 9.8,
+      "ActivityDescription": "虛擬實境訓練/運動，高強度",
+      "systemIcon": "gamecontroller.fill"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22361",
+      "METValue": 2.8,
+      "ActivityDescription": "跑步機步行，速度4公里/小時，跑步機",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22362",
+      "METValue": 3.5,
+      "ActivityDescription": "跑步機步行，速度5公里/小時，跑步機",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22363",
+      "METValue": 4.8,
+      "ActivityDescription": "跑步機步行，速度6公里/小時，跑步機",
+      "systemIcon": "figure.walk"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22364",
+      "METValue": 8.5,
+      "ActivityDescription": "樓梯踏步機，樓梯",
+      "systemIcon": "figure.stair.stepper"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22365",
+      "METValue": 3.5,
+      "ActivityDescription": "健身房力量訓練，輕重量",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22366",
+      "METValue": 5.0,
+      "ActivityDescription": "健身房力量訓練，中重量",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22367",
+      "METValue": 6.0,
+      "ActivityDescription": "健身房力量訓練，重重量",
+      "systemIcon": "figure.strengthtraining.traditional"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22368",
+      "METValue": 2.3,
+      "ActivityDescription": "伸展運動",
+      "systemIcon": "figure.flexibility"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22369",
+      "METValue": 5.0,
+      "ActivityDescription": "橢圓機",
+      "systemIcon": "figure.elliptical"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22370",
+      "METValue": 5.5,
+      "ActivityDescription": "健身腳踏車",
+      "systemIcon": "figure.indoor.cycle"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22371",
+      "METValue": 7.0,
+      "ActivityDescription": "划船機，划船",
+      "systemIcon": "figure.indoor.rowing"
+    },
+    {
+      "MajorHeading": "特殊活動",
+      "ActivityCode": "22372",
+      "METValue": 2.2,
+      "ActivityDescription": "模特工作（拍攝、擺姿勢、換裝）",
+      "systemIcon": "camera.fill"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22373",
+      "METValue": 5.0,
+      "ActivityDescription": "間歇訓練，輕鬆",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22374",
+      "METValue": 7.0,
+      "ActivityDescription": "間歇訓練，中等",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    },
+    {
+      "MajorHeading": "健身房訓練",
+      "ActivityCode": "22375",
+      "METValue": 10.0,
+      "ActivityDescription": "間歇訓練，困難",
+      "systemIcon": "figure.highintensity.intervaltraining"
+    }
+  ]
+}
